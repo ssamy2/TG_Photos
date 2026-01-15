@@ -6,26 +6,41 @@ Free collection of Telegram gift images in WebP format.
 
 All images are **free to use** for any purpose.
 
-### Access by Gift ID
+### Image URL Logic
 
+**Upgraded Gifts (NFT):**
+Use Fragment slug from the gift data:
 ```
-by_id/{gift_id}.webp
+https://nft.fragment.com/gift/{slug}.medium.jpg
 ```
+Example: `https://nft.fragment.com/gift/plushpepe-2133.medium.jpg`
 
-Example: `by_id/5936013938331222567.webp` (Plush Pepe)
-
-### Access by Gift Name
-
+**Unupgraded Gifts:**
+Use short_name from this repository:
 ```
-by_name/{short_name}.webp
+https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/by_name/{short_name}.webp
 ```
+Example: `https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/by_name/plush_pepe.webp`
 
-Example: `by_name/plush_pepe.webp`
+### Short Name Convention
+
+`short_name` is generated from `full_name`:
+- Only English alphabetic letters (a-z)
+- Lowercase only
+- Underscores between words
+
+Examples:
+| Full Name | Short Name |
+|-----------|------------|
+| Plush Pepe | plush_pepe |
+| B-Day Candle | bday_candle |
+| Jack-in-the-Box | jackinthebox |
+| Durov's Cap | durovs_cap |
 
 ## Files
 
-- `by_id/` - Images named by gift ID (123 images)
-- `by_name/` - Images named by short name (123 images)
+- `by_id/` - Images named by gift ID (133 images)
+- `by_name/` - Images named by short name (133 images)
 - `Gifts_Details.json` - Full gift data with names and IDs
 
 ## Gift Data Structure
