@@ -291,6 +291,11 @@
       "regular_id": "5841632504448025405"
     },
     {
+      "full_name": "Magic Potion",
+      "short_name": "magic_potion",
+      "regular_id": "5846226946928673709"
+    },
+    {
       "full_name": "Mighty Arm",
       "short_name": "mighty_arm",
       "regular_id": "5895518353849582541"
@@ -538,6 +543,11 @@
       "id": "5807641025165919973"
     },
     {
+      "full_name": "Airplane",
+      "short_name": "airplane",
+      "id": "5818708013426410448"
+    },
+    {
       "full_name": "Backpack",
       "short_name": "backpack",
       "id": "5886756255493523118"
@@ -593,9 +603,19 @@
       "id": "6003477390536213997"
     },
     {
+      "full_name": "Eagle",
+      "short_name": "eagle",
+      "id": "5999116401002939514"
+    },
+    {
       "full_name": "Easter Cake",
       "short_name": "easter_cake",
       "id": "5773791997064119815"
+    },
+    {
+      "full_name": "Eight Roses",
+      "short_name": "eight_roses",
+      "id": "5933770397739647689"
     },
     {
       "full_name": "Fresh Socks",
@@ -663,6 +683,11 @@
       "id": "6001229799790478558"
     },
     {
+      "full_name": "Statue",
+      "short_name": "statue",
+      "id": "5999298447486747746"
+    },
+    {
       "full_name": "Surfboard",
       "short_name": "surfboard",
       "id": "5832497899283415733"
@@ -673,19 +698,14 @@
       "id": "6001425315291727333"
     },
     {
-      "full_name": "Airplane",
-      "short_name": "airplane",
-      "id": "5818708013426410448"
-    },
-    {
-      "full_name": "Statue",
-      "short_name": "statue",
-      "id": "5999298447486747746"
-    },
-    {
       "full_name": "Torch",
       "short_name": "torch",
       "id": "5999277561060787166"
+    },
+    {
+      "full_name": "Trojan Horse",
+      "short_name": "trojan_horse",
+      "id": "5956308547863052791"
     }
   ]
 }
