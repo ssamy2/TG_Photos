@@ -1,0 +1,177 @@
+[
+  {
+    "name": "turtle_shell",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/turtle_shell.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/turtle_shell.webp",
+    "custom_emoji_id": "5303371212750098821"
+  },
+  {
+    "name": "net_worth",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/net_worth.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/net_worth.webp",
+    "custom_emoji_id": "5397932992310055757"
+  },
+  {
+    "name": "fallout",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/fallout.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/fallout.webp",
+    "custom_emoji_id": "5395773938020160017"
+  },
+  {
+    "name": "vip_pass",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/vip_pass.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/vip_pass.webp",
+    "custom_emoji_id": "5213051413474610646"
+  },
+  {
+    "name": "aquarium",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/aquarium.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/aquarium.webp",
+    "custom_emoji_id": "5398039855391343917"
+  },
+  {
+    "name": "infernal_goat",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/infernal_goat.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/infernal_goat.webp",
+    "custom_emoji_id": "5269397171035213622"
+  },
+  {
+    "name": "movie_night",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/movie_night.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/movie_night.webp",
+    "custom_emoji_id": "5260615032361751955"
+  },
+  {
+    "name": "jetpack",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/jetpack.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/jetpack.webp",
+    "custom_emoji_id": "5447131464728612367"
+  },
+  {
+    "name": "striker",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/striker.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/striker.webp",
+    "custom_emoji_id": "5269618340376121990"
+  },
+  {
+    "name": "grand_slam",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/grand_slam.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/grand_slam.webp",
+    "custom_emoji_id": "5204087374346225705"
+  },
+  {
+    "name": "crystal_scarab",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/crystal_scarab.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/crystal_scarab.webp",
+    "custom_emoji_id": "5213330960011008877"
+  },
+  {
+    "name": "ruby_heart",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/ruby_heart.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/ruby_heart.webp",
+    "custom_emoji_id": "5265100833644650095"
+  },
+  {
+    "name": "plush_shark",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/plush_shark.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/plush_shark.webp",
+    "custom_emoji_id": "5415609290993995080"
+  },
+  {
+    "name": "space_cat",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/space_cat.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/space_cat.webp",
+    "custom_emoji_id": "5271677188784038145"
+  },
+  {
+    "name": "fashionista",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/fashionista.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/fashionista.webp",
+    "custom_emoji_id": "5323449265735898241"
+  },
+  {
+    "name": "pepe_unleashed",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/pepe_unleashed.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/pepe_unleashed.webp",
+    "custom_emoji_id": "5395615466611840936"
+  },
+  {
+    "name": "burger_bag",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/burger_bag.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/burger_bag.webp",
+    "custom_emoji_id": "5397826537250654636"
+  },
+  {
+    "name": "proton_pack",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/proton_pack.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/proton_pack.webp",
+    "custom_emoji_id": "5395720255223929058"
+  },
+  {
+    "name": "retro_wave",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/retro_wave.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/retro_wave.webp",
+    "custom_emoji_id": "5271748322032391410"
+  },
+  {
+    "name": "street_art",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/street_art.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/street_art.webp",
+    "custom_emoji_id": "5210978258530638623"
+  },
+  {
+    "name": "bank_vault",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/bank_vault.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/bank_vault.webp",
+    "custom_emoji_id": "5224250957310757810"
+  },
+  {
+    "name": "cat_pack",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/cat_pack.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/cat_pack.webp",
+    "custom_emoji_id": "5269360358870522546"
+  },
+  {
+    "name": "rodeo_king",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/rodeo_king.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/rodeo_king.webp",
+    "custom_emoji_id": "5467617638391778892"
+  },
+  {
+    "name": "moon_power",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/moon_power.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/moon_power.webp",
+    "custom_emoji_id": "5442798783324785749"
+  },
+  {
+    "name": "fast_courier",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mood_pack/fast_courier.tgs",
+    "webp_path": "TG_Photos_repo/models/mood_pack/fast_courier.webp",
+    "custom_emoji_id": "5222017630151413854"
+  }
+]
