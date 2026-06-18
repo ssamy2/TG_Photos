@@ -1,0 +1,352 @@
+[
+  {
+    "name": "aqua_gem",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/aqua_gem.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/aqua_gem.webp",
+    "custom_emoji_id": "5228712002402152360"
+  },
+  {
+    "name": "chromed_out",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/chromed_out.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/chromed_out.webp",
+    "custom_emoji_id": "5228753350052311154"
+  },
+  {
+    "name": "low_gravity",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/low_gravity.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/low_gravity.webp",
+    "custom_emoji_id": "5228804382853719327"
+  },
+  {
+    "name": "clear_water",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/clear_water.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/clear_water.webp",
+    "custom_emoji_id": "5228839524276137201"
+  },
+  {
+    "name": "emo_curse",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/emo_curse.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/emo_curse.webp",
+    "custom_emoji_id": "5228893048158580655"
+  },
+  {
+    "name": "jellousy",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/jellousy.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/jellousy.webp",
+    "custom_emoji_id": "5228896514197186276"
+  },
+  {
+    "name": "pain_train",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/pain_train.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/pain_train.webp",
+    "custom_emoji_id": "5228921433597438885"
+  },
+  {
+    "name": "bubbles",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/bubbles.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/bubbles.webp",
+    "custom_emoji_id": "5228931861778034767"
+  },
+  {
+    "name": "vengeance",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/vengeance.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/vengeance.webp",
+    "custom_emoji_id": "5228958408970890694"
+  },
+  {
+    "name": "disco_doll",
+    "rarity_permille": 0.4,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/disco_doll.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/disco_doll.webp",
+    "custom_emoji_id": "5228978694101429243"
+  },
+  {
+    "name": "bitten_lip",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/bitten_lip.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/bitten_lip.webp",
+    "custom_emoji_id": "5228980820110238049"
+  },
+  {
+    "name": "terminator",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/terminator.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/terminator.webp",
+    "custom_emoji_id": "5228981202362329519"
+  },
+  {
+    "name": "ice_block",
+    "rarity_permille": 0.6,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/ice_block.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/ice_block.webp",
+    "custom_emoji_id": "5229003729465797151"
+  },
+  {
+    "name": "pure_hatred",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/pure_hatred.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/pure_hatred.webp",
+    "custom_emoji_id": "5229015093949263575"
+  },
+  {
+    "name": "malachite",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/malachite.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/malachite.webp",
+    "custom_emoji_id": "5229127918445160912"
+  },
+  {
+    "name": "broken_hope",
+    "rarity_permille": 0.6,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/broken_hope.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/broken_hope.webp",
+    "custom_emoji_id": "5229189731614485226"
+  },
+  {
+    "name": "layer_one",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/layer_one.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/layer_one.webp",
+    "custom_emoji_id": "5230934072452213220"
+  },
+  {
+    "name": "textile",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/textile.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/textile.webp",
+    "custom_emoji_id": "5230962397761529827"
+  },
+  {
+    "name": "toxicity",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/toxicity.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/toxicity.webp",
+    "custom_emoji_id": "5230984529728004163"
+  },
+  {
+    "name": "magma_ooze",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/magma_ooze.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/magma_ooze.webp",
+    "custom_emoji_id": "5231007293054672628"
+  },
+  {
+    "name": "red_checker",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/red_checker.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/red_checker.webp",
+    "custom_emoji_id": "5231013494987450873"
+  },
+  {
+    "name": "salad_spell",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/salad_spell.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/salad_spell.webp",
+    "custom_emoji_id": "5231030103625981316"
+  },
+  {
+    "name": "cold-blooded",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/cold-blooded.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/cold-blooded.webp",
+    "custom_emoji_id": "5231050612094823259"
+  },
+  {
+    "name": "en_passant",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/en_passant.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/en_passant.webp",
+    "custom_emoji_id": "5231071992442019668"
+  },
+  {
+    "name": "twilight",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/twilight.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/twilight.webp",
+    "custom_emoji_id": "5231078379058388326"
+  },
+  {
+    "name": "gingerbread",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/gingerbread.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/gingerbread.webp",
+    "custom_emoji_id": "5231122862034672078"
+  },
+  {
+    "name": "vendetta",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/vendetta.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/vendetta.webp",
+    "custom_emoji_id": "5231138706169029127"
+  },
+  {
+    "name": "medium_rare",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/medium_rare.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/medium_rare.webp",
+    "custom_emoji_id": "5231163960576731232"
+  },
+  {
+    "name": "pink_needle",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/pink_needle.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/pink_needle.webp",
+    "custom_emoji_id": "5231169775962452098"
+  },
+  {
+    "name": "pumpkin",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/pumpkin.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/pumpkin.webp",
+    "custom_emoji_id": "5231172236978710642"
+  },
+  {
+    "name": "tan_gent",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/tan_gent.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/tan_gent.webp",
+    "custom_emoji_id": "5231201541540570117"
+  },
+  {
+    "name": "fingerprint",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/fingerprint.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/fingerprint.webp",
+    "custom_emoji_id": "5231207322566552478"
+  },
+  {
+    "name": "bumblebee",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/bumblebee.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/bumblebee.webp",
+    "custom_emoji_id": "5231233294233790940"
+  },
+  {
+    "name": "scribble_stab",
+    "rarity_permille": 0.4,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/scribble_stab.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/scribble_stab.webp",
+    "custom_emoji_id": "5231239332957809168"
+  },
+  {
+    "name": "painful_love",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/painful_love.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/painful_love.webp",
+    "custom_emoji_id": "5231256289488690537"
+  },
+  {
+    "name": "far_galaxy",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/far_galaxy.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/far_galaxy.webp",
+    "custom_emoji_id": "5231293509675280360"
+  },
+  {
+    "name": "electrician",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/electrician.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/electrician.webp",
+    "custom_emoji_id": "5231306536311090771"
+  },
+  {
+    "name": "birthday_cake",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/birthday_cake.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/birthday_cake.webp",
+    "custom_emoji_id": "5231323033280471637"
+  },
+  {
+    "name": "mocha_man",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/mocha_man.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/mocha_man.webp",
+    "custom_emoji_id": "5231323999648116214"
+  },
+  {
+    "name": "revenge",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/revenge.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/revenge.webp",
+    "custom_emoji_id": "5231348008515295815"
+  },
+  {
+    "name": "starry_night",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/starry_night.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/starry_night.webp",
+    "custom_emoji_id": "5231368624358318086"
+  },
+  {
+    "name": "royal_gold",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/royal_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/royal_gold.webp",
+    "custom_emoji_id": "5231382462742948543"
+  },
+  {
+    "name": "blue_abyss",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/blue_abyss.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/blue_abyss.webp",
+    "custom_emoji_id": "5231389154301995077"
+  },
+  {
+    "name": "horror_movie",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/horror_movie.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/horror_movie.webp",
+    "custom_emoji_id": "5231395171551174465"
+  },
+  {
+    "name": "rebel_spirit",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/rebel_spirit.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/rebel_spirit.webp",
+    "custom_emoji_id": "5231403048521196523"
+  },
+  {
+    "name": "redemption",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/redemption.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/redemption.webp",
+    "custom_emoji_id": "5231422238435076990"
+  },
+  {
+    "name": "cruella",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/cruella.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/cruella.webp",
+    "custom_emoji_id": "5231430772535091961"
+  },
+  {
+    "name": "concept_art",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/concept_art.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/concept_art.webp",
+    "custom_emoji_id": "5231436240028461508"
+  },
+  {
+    "name": "shrek",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/shrek.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/shrek.webp",
+    "custom_emoji_id": "5231476148864572156"
+  },
+  {
+    "name": "dark_side",
+    "rarity_permille": 3.5,
+    "tgs_path": "TG_Photos_repo/models/voodoo_doll/dark_side.tgs",
+    "webp_path": "TG_Photos_repo/models/voodoo_doll/dark_side.webp",
+    "custom_emoji_id": "5231481221220949813"
+  }
+]
