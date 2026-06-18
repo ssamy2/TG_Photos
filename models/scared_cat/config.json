@@ -1,0 +1,9 @@
+[
+  {
+    "name": "azuki_siam",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/scared_cat/azuki_siam.tgs",
+    "webp_path": "TG_Photos_repo/models/scared_cat/azuki_siam.webp",
+    "custom_emoji_id": "5393072253267106923"
+  }
+]
