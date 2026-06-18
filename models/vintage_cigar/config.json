@@ -341,5 +341,12 @@
     "tgs_path": "TG_Photos_repo/models/vintage_cigar/stained_glass.tgs",
     "webp_path": "TG_Photos_repo/models/vintage_cigar/stained_glass.webp",
     "custom_emoji_id": "5429615784936627979"
+  },
+  {
+    "name": "thermal",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/vintage_cigar/thermal.tgs",
+    "webp_path": "TG_Photos_repo/models/vintage_cigar/thermal.webp",
+    "custom_emoji_id": "5429624838727690024"
   }
 ]

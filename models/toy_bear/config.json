@@ -313,5 +313,12 @@
     "tgs_path": "TG_Photos_repo/models/toy_bear/blueberry.tgs",
     "webp_path": "TG_Photos_repo/models/toy_bear/blueberry.webp",
     "custom_emoji_id": "5289944814270308338"
+  },
+  {
+    "name": "toady_bear",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/toy_bear/toady_bear.tgs",
+    "webp_path": "TG_Photos_repo/models/toy_bear/toady_bear.webp",
+    "custom_emoji_id": "5289945084853247809"
   }
 ]
