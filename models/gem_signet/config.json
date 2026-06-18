@@ -1,0 +1,23 @@
+[
+  {
+    "name": "bloodstone",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/gem_signet/bloodstone.tgs",
+    "webp_path": "TG_Photos_repo/models/gem_signet/bloodstone.webp",
+    "custom_emoji_id": "5375055028669147853"
+  },
+  {
+    "name": "event_horizon",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/gem_signet/event_horizon.tgs",
+    "webp_path": "TG_Photos_repo/models/gem_signet/event_horizon.webp",
+    "custom_emoji_id": "5375079394018618845"
+  },
+  {
+    "name": "amethyst",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/gem_signet/amethyst.tgs",
+    "webp_path": "TG_Photos_repo/models/gem_signet/amethyst.webp",
+    "custom_emoji_id": "5375092145776522095"
+  }
+]
