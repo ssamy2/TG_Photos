@@ -1,12 +1,12 @@
 {
   "backdrops": {
     "Chestnut": 2.49,
-    "Electric Indigo": 2.49,
+    "Electric Indigo": 2.48,
     "Sky Blue": 2.5,
     "Cappuccino": 2.49,
     "Pacific Green": 2.48,
     "Copper": 2.49,
-    "Sapphire": 2.48,
+    "Sapphire": 2.49,
     "Roman Silver": 2.49,
     "Neon Blue": 2.49,
     "Indigo Dye": 2.49,
@@ -14,9 +14,9 @@
     "Steel Grey": 2.49,
     "Platinum": 2.53,
     "Moonstone": 2.48,
-    "Lavender": 2.5,
-    "Shamrock Green": 2.48,
-    "Persimmon": 2.49,
+    "Lavender": 2.48,
+    "Shamrock Green": 2.49,
+    "Persimmon": 2.48,
     "Carrot Juice": 2.48,
     "Dark Lilac": 2.5,
     "Amber": 2.49,
@@ -26,7 +26,7 @@
     "Orange": 2.5,
     "Grape": 2.49,
     "Purple": 2.49,
-    "Satin Gold": 2.48,
+    "Satin Gold": 2.49,
     "Cobalt Blue": 2.49,
     "Rosewood": 2.49,
     "Coral Red": 2.48,
@@ -34,10 +34,10 @@
     "Chocolate": 2.48,
     "Azure Blue": 2.49,
     "Lemongrass": 2.49,
-    "Khaki Green": 2.49,
-    "Cyberpunk": 2.7,
+    "Khaki Green": 2.48,
+    "Cyberpunk": 2.48,
     "Pine Green": 2.49,
-    "Desert Sand": 2.48,
+    "Desert Sand": 2.5,
     "Light Olive": 2.5,
     "Malachite": 2.49,
     "Pure Gold": 2.48,
@@ -46,7 +46,7 @@
     "Raspberry": 2.5,
     "Silver Blue": 2.49,
     "Caramel": 2.5,
-    "Hunter Green": 2.49,
+    "Hunter Green": 2.48,
     "Jade Green": 2.49,
     "Ivory White": 2.48,
     "Pistachio": 2.49,
@@ -57,7 +57,7 @@
     "Mint Green": 2.48,
     "Burgundy": 2.48,
     "Midnight Blue": 2.5,
-    "Pacific Cyan": 2.48
+    "Pacific Cyan": 2.49
   },
   "symbols": {
     "Lovely Key": 240.4,
@@ -266,5 +266,5 @@
     "Xmas Lights": 9790.0,
     "Yin Yang": 270.0
   },
-  "last_updated": 1781871772
+  "last_updated": 1781873413
 }
