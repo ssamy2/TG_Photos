@@ -158,7 +158,7 @@
     "Narcissus": 168.0,
     "Nordic Wolf": 85.0,
     "Oak Leaf": 79.99,
-    "Okami Wolf": 56.96,
+    "Okami Wolf": 57.5,
     "Ouroboros": 148.0,
     "Owl": 210.0,
     "Oxen of Fire": 95.0,
@@ -222,7 +222,7 @@
     "Cobalt Alloy": 59.0,
     "Cotton Candy": 57.5,
     "Crimson Sky": 74.99,
-    "Crimson Veil": 2000.0,
+    "Crimson Veil": 1900.0,
     "Dairy Dew": 81.7,
     "Dark Essence": 85.8,
     "Eau De Parfum": 134.0,
@@ -243,7 +243,7 @@
     "Misty Smoke": 289.95,
     "Mono Delight": 115.0,
     "Noir": 150.0,
-    "Orchard Glow": 56.96,
+    "Orchard Glow": 120.0,
     "Plum Cloud": 62.0,
     "Pure Essence": 75.41,
     "Rosé Thorn": 650.0,
@@ -261,5 +261,5 @@
     "№5 L'eau": 280.0,
     "№5 L’eau": 280.0
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }

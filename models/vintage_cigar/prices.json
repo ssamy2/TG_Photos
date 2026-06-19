@@ -61,7 +61,7 @@
   },
   "symbols": {
     "Elephant": 31.41,
-    "Acorn": 39.9,
+    "Acorn": 39.6,
     "Alarm": 55.0,
     "Alkonost": 49.0,
     "Anchor": 33.0,
@@ -81,7 +81,7 @@
     "Bunny": 80.0,
     "Burger": 64.4,
     "Cactus": 39.0,
-    "Calm Wolf": 33.53,
+    "Calm Wolf": 33.17,
     "Cap": 44.0,
     "Car": 39.0,
     "Cash": 44.0,
@@ -187,7 +187,7 @@
     "Ring": 52.9,
     "Rocket": 50.0,
     "Rook": 35.0,
-    "Royal Crown": 32.0,
+    "Royal Crown": 28.75,
     "Sakura": 50.0,
     "Sauron": 51.0,
     "Scarab": 39.5,
@@ -231,7 +231,7 @@
   "models": {
     "Aquaviolet": 31.3,
     "Ashtray": 39.9,
-    "Black Plume": 46.8,
+    "Black Plume": 46.81,
     "Blue Ghoul": 28.9,
     "Blue Hue": 35.0,
     "Centurion": 34.0,
@@ -261,7 +261,7 @@
     "Pink Tint": 32.0,
     "Premium Blend": 29.0,
     "Purple Haze": 35.0,
-    "Purple Patron": 34.4,
+    "Purple Patron": 28.75,
     "Rainbow Road": 34.0,
     "Red Devil": 32.0,
     "Rose Wrapper": 32.99,
@@ -284,5 +284,5 @@
     "Vaporwave": 35.0,
     "Warm Glow": 35.0
   },
-  "last_updated": 1781870992
+  "last_updated": 1781871772
 }

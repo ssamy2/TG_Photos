@@ -227,7 +227,7 @@
     "Paper Crane": 70.0,
     "Paper Lantern": 38.0,
     "Paw Print": 42.95,
-    "Pawn": 37.74,
+    "Pawn": 34.0,
     "Pear": 45.0,
     "Petunia": 31.0,
     "Pierced Heart": 77.0,
@@ -323,7 +323,7 @@
     "Nebula": 31.0,
     "Night Race": 39.5,
     "Optimus Prime": 34.96,
-    "Panther": 37.74,
+    "Panther": 37.73,
     "Poison Ivy": 31.0,
     "Princess": 150.0,
     "Queen Bee": 36.5,
@@ -350,5 +350,5 @@
     "Wild Cat": 115.0,
     "Wild Daisy": 39.5
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }

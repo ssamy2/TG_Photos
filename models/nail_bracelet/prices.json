@@ -82,6 +82,7 @@
   "symbols": {
     "Bicorne": 7777.0,
     "Robin Hood": 98.98,
+    "Okami Wolf": 150.0,
     "Academic Cap": 190.0,
     "Alert Serpent": 210.0,
     "Anchor": 200.0,
@@ -149,7 +150,7 @@
     "Glasses": 299.0,
     "Gold": 118.8,
     "Greek Sun": 150.0,
-    "Griffon": 82.0,
+    "Griffon": 92.25,
     "Gua Pi Mao": 150.0,
     "Hand of God": 1999.0,
     "Handset": 149.99,
@@ -206,7 +207,6 @@
     "Novus Ordo": 200.0,
     "Obon Lantern": 290.0,
     "Octopus": 154.95,
-    "Okami Wolf": 150.0,
     "Old Candle": 130.0,
     "Onigiri": 250.0,
     "Owl": 300.0,
@@ -282,7 +282,7 @@
     "Crypto Gem": 200.0,
     "Diamond": 899.0,
     "Duck Amulet": 277.0,
-    "Explosive": 82.0,
+    "Explosive": 89.94,
     "Firebronze": 118.8,
     "Gold Rush": 239.0,
     "Hachikō": 300.0,
@@ -318,9 +318,9 @@
     "Skyline": 120.0,
     "Succubus": 150.0,
     "Tesla Coil": 180.0,
-    "Ultramarine": 150.0,
+    "Ultramarine": 188.0,
     "Vague Dream": 155.0,
     "X-Ray": 130.0
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }

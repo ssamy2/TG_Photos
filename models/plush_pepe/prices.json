@@ -104,6 +104,7 @@
     "Red Deer": 6990.0,
     "Spirit Impala": 5800.0,
     "Star": 7900.0,
+    "Sun Lion": 4989.0,
     "Sunflower": 12250.0,
     "Turkey": 6999.0,
     "Twin Peaks": 11111.0,
@@ -114,7 +115,7 @@
     "Bavaria": 8000.0,
     "Birmingham": 6999.0,
     "Donatello": 9999.0,
-    "Eggplant": 9990.0,
+    "Eggplant": 4989.0,
     "Fifty Shades": 11111.0,
     "Frozen": 8888.0,
     "Gucci Leap": 19999.0,
@@ -142,5 +143,5 @@
     "Two Face": 5800.0,
     "Yellow Hug": 66666.0
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }

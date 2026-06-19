@@ -171,7 +171,7 @@
     "Money Bag": 48.95,
     "Monstera": 39.8,
     "Moon Cross": 53.0,
-    "Moon Eagle": 26.28,
+    "Moon Eagle": 25.99,
     "Moon": 50.0,
     "Moose Head": 34.0,
     "Mountain Goat": 75.0,
@@ -185,9 +185,9 @@
     "Oxen of Fire": 45.88,
     "Paw": 50.0,
     "Pear": 33.0,
-    "Pearl": 25.99,
+    "Pearl": 34.0,
     "Pegasus": 34.0,
-    "Phoenix": 25.99,
+    "Phoenix": 26.0,
     "Piggy Bank": 49.88,
     "Pizza Slice": 45.0,
     "Piñata": 70.0,
@@ -258,7 +258,7 @@
     "Clubs": 27.5,
     "Crypto Boom": 450.0,
     "Diamonds": 26.0,
-    "Dirt Diamond": 31.99,
+    "Dirt Diamond": 30.99,
     "Emerald": 32.0,
     "Gold": 43.95,
     "Golden Pearl": 29.0,
@@ -277,7 +277,7 @@
     "Obsidian": 35.0,
     "Off-Axis": 33.46,
     "Onyx Demon": 30.5,
-    "Platinum": 25.99,
+    "Platinum": 39.0,
     "Pristine": 33.0,
     "Ring of Power": 200.0,
     "Rose Gold": 28.0,
@@ -297,5 +297,5 @@
     "White Gold": 25.99,
     "Yin-Yang": 48.0
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }

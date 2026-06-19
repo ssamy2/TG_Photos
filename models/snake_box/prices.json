@@ -80,7 +80,7 @@
     "Tomato": 2.49
   },
   "symbols": {
-    "Academic Cap": 2.49,
+    "Academic Cap": 2.6,
     "All-Seeing Eye": 3.0,
     "Anubis": 3.2,
     "Arcane Mirror": 2.5,
@@ -232,7 +232,7 @@
     "Candy Bubble": 2.6,
     "Cheese": 2.85,
     "Choco Surprise": 2.5,
-    "Claw Crane": 12.98,
+    "Claw Crane": 12.99,
     "Cobra Noir": 2.68,
     "Copper": 2.8,
     "Cotton Candy": 2.5,
@@ -240,7 +240,7 @@
     "Double Joy": 2.7,
     "Dream Big": 2.7,
     "Elegance": 3.92,
-    "Emerald": 2.85,
+    "Emerald": 2.81,
     "Fantasy": 3.0,
     "Fluorescent": 3.0,
     "Fragile": 2.59,
@@ -252,7 +252,7 @@
     "Green Spots": 2.99,
     "Gummy Worms": 3.5,
     "Heart Box": 3.8,
-    "Holly Jolly": 2.49,
+    "Holly Jolly": 2.99,
     "Honey Bee": 2.66,
     "Ice Cube": 3.96,
     "Interstellar": 2.9,
@@ -268,7 +268,7 @@
     "Pink Boa": 2.97,
     "Pixel Cobra": 2.61,
     "Player 456": 2.66,
-    "Poison Ivy": 3.99,
+    "Poison Ivy": 3.98,
     "Polka Dot": 2.5,
     "Popcorn": 3.18,
     "Prison Cell": 3.36,
@@ -289,5 +289,5 @@
     "Snake Wok": 4.88,
     "Sunshine": 2.5
   },
-  "last_updated": 1781870991
+  "last_updated": 1781871772
 }
