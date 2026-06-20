@@ -3,82 +3,162 @@
     {
       "full_name": "Artisan Brick",
       "short_name": "artisan_brick",
-      "regular_id": "6005797617768858105"
+      "regular_id": "6005797617768858105",
+      "floor_price_ton": 51.28,
+      "portal_price_ton": 51.28,
+      "getgems_price_ton": 59.0,
+      "tgmrkt_price_ton": 48.84,
+      "models": "models/artisan_brick/prices.json"
     },
     {
       "full_name": "Astral Shard",
       "short_name": "astral_shard",
-      "regular_id": "5933629604416717361"
+      "regular_id": "5933629604416717361",
+      "floor_price_ton": 119.43,
+      "portal_price_ton": 119.43,
+      "getgems_price_ton": 125.0,
+      "tgmrkt_price_ton": 113.74,
+      "models": "models/astral_shard/prices.json"
     },
     {
       "full_name": "B-Day Candle",
       "short_name": "bday_candle",
-      "regular_id": "5782984811920491178"
+      "regular_id": "5782984811920491178",
+      "floor_price_ton": 3.46,
+      "portal_price_ton": 3.46,
+      "getgems_price_ton": 3.46,
+      "tgmrkt_price_ton": 3.54,
+      "models": "models/bday_candle/prices.json"
     },
     {
       "full_name": "Berry Box",
       "short_name": "berry_box",
-      "regular_id": "5882252952218894938"
+      "regular_id": "5882252952218894938",
+      "floor_price_ton": 6.47,
+      "portal_price_ton": 6.39,
+      "getgems_price_ton": 6.47,
+      "tgmrkt_price_ton": 6.09,
+      "models": "models/berry_box/prices.json"
     },
     {
       "full_name": "Big Year",
       "short_name": "big_year",
-      "regular_id": "6028283532500009446"
+      "regular_id": "6028283532500009446",
+      "floor_price_ton": 2.54,
+      "portal_price_ton": 2.54,
+      "getgems_price_ton": 2.78,
+      "tgmrkt_price_ton": 2.56,
+      "models": "models/big_year/prices.json"
     },
     {
       "full_name": "Bling Binky",
       "short_name": "bling_binky",
-      "regular_id": "5902339509239940491"
+      "regular_id": "5902339509239940491",
+      "floor_price_ton": 19.08,
+      "portal_price_ton": 19.08,
+      "getgems_price_ton": 19.08,
+      "tgmrkt_price_ton": 18.99,
+      "models": "models/bling_binky/prices.json"
     },
     {
       "full_name": "Bonded Ring",
       "short_name": "bonded_ring",
-      "regular_id": "5870661333703197240"
+      "regular_id": "5870661333703197240",
+      "floor_price_ton": 33.16,
+      "portal_price_ton": 33.36,
+      "getgems_price_ton": 33.99,
+      "tgmrkt_price_ton": 31.78,
+      "models": "models/bonded_ring/prices.json"
     },
     {
       "full_name": "Bow Tie",
       "short_name": "bow_tie",
-      "regular_id": "5895544372761461960"
+      "regular_id": "5895544372761461960",
+      "floor_price_ton": 3.95,
+      "portal_price_ton": 3.93,
+      "getgems_price_ton": 3.99,
+      "tgmrkt_price_ton": 3.77,
+      "models": "models/bow_tie/prices.json"
     },
     {
       "full_name": "Bunny Muffin",
       "short_name": "bunny_muffin",
-      "regular_id": "5935936766358847989"
+      "regular_id": "5935936766358847989",
+      "floor_price_ton": 5.81,
+      "portal_price_ton": 5.8,
+      "getgems_price_ton": 6.0,
+      "tgmrkt_price_ton": 5.52,
+      "models": "models/bunny_muffin/prices.json"
     },
     {
       "full_name": "Candy Cane",
       "short_name": "candy_cane",
-      "regular_id": "6003373314888696650"
+      "regular_id": "6003373314888696650",
+      "floor_price_ton": 2.44,
+      "portal_price_ton": 2.44,
+      "getgems_price_ton": 2.64,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/candy_cane/prices.json"
     },
     {
       "full_name": "Clover Pin",
       "short_name": "clover_pin",
-      "regular_id": "5960747083030856414"
+      "regular_id": "5960747083030856414",
+      "floor_price_ton": 3.89,
+      "portal_price_ton": 3.5,
+      "getgems_price_ton": 3.994,
+      "tgmrkt_price_ton": 3.91,
+      "models": "models/clover_pin/prices.json"
     },
     {
       "full_name": "Cookie Heart",
       "short_name": "cookie_heart",
-      "regular_id": "6001538689543439169"
+      "regular_id": "6001538689543439169",
+      "floor_price_ton": 3.18,
+      "portal_price_ton": 3.15,
+      "getgems_price_ton": 3.9,
+      "tgmrkt_price_ton": 3.67,
+      "models": "models/cookie_heart/prices.json"
     },
     {
       "full_name": "Crystal Ball",
       "short_name": "crystal_ball",
-      "regular_id": "5841336413697606412"
+      "regular_id": "5841336413697606412",
+      "floor_price_ton": 9.53,
+      "portal_price_ton": 9.6,
+      "getgems_price_ton": 9.6,
+      "tgmrkt_price_ton": 9.13,
+      "models": "models/crystal_ball/prices.json"
     },
     {
       "full_name": "Cupid Charm",
       "short_name": "cupid_charm",
-      "regular_id": "5868561433997870501"
+      "regular_id": "5868561433997870501",
+      "floor_price_ton": 17.08,
+      "portal_price_ton": 17.08,
+      "getgems_price_ton": 17.085,
+      "tgmrkt_price_ton": 16.84,
+      "models": "models/cupid_charm/prices.json"
     },
     {
       "full_name": "Desk Calendar",
       "short_name": "desk_calendar",
-      "regular_id": "5782988952268964995"
+      "regular_id": "5782988952268964995",
+      "floor_price_ton": 4.25,
+      "portal_price_ton": 4.25,
+      "getgems_price_ton": 4.2,
+      "tgmrkt_price_ton": 4.01,
+      "models": "models/desk_calendar/prices.json"
     },
     {
       "full_name": "Diamond Ring",
       "short_name": "diamond_ring",
-      "regular_id": "5868503709637411929"
+      "regular_id": "5868503709637411929",
+      "floor_price_ton": 26.8,
+      "portal_price_ton": 26.74,
+      "getgems_price_ton": 27.0,
+      "tgmrkt_price_ton": 25.88,
+      "models": "models/diamond_ring/prices.json"
     },
     {
       "full_name": "Durov’s Cap",
@@ -88,152 +168,302 @@
     {
       "full_name": "Easter Egg",
       "short_name": "easter_egg",
-      "regular_id": "5773668482394620318"
+      "regular_id": "5773668482394620318",
+      "floor_price_ton": 3,
+      "portal_price_ton": 3.0,
+      "getgems_price_ton": 3.0,
+      "tgmrkt_price_ton": 2.87,
+      "models": "models/easter_egg/prices.json"
     },
     {
       "full_name": "Electric Skull",
       "short_name": "electric_skull",
-      "regular_id": "5846192273657692751"
+      "regular_id": "5846192273657692751",
+      "floor_price_ton": 21.7,
+      "portal_price_ton": 21.7,
+      "getgems_price_ton": 21.7,
+      "tgmrkt_price_ton": 21.36,
+      "models": "models/electric_skull/prices.json"
     },
     {
       "full_name": "Eternal Candle",
       "short_name": "eternal_candle",
-      "regular_id": "5821205665758053411"
+      "regular_id": "5821205665758053411",
+      "floor_price_ton": 4.44,
+      "portal_price_ton": 4.43,
+      "getgems_price_ton": 4.54,
+      "tgmrkt_price_ton": 4.22,
+      "models": "models/eternal_candle/prices.json"
     },
     {
       "full_name": "Eternal Rose",
       "short_name": "eternal_rose",
-      "regular_id": "5882125812596999035"
+      "regular_id": "5882125812596999035",
+      "floor_price_ton": 20,
+      "portal_price_ton": 20.0,
+      "getgems_price_ton": 20.0,
+      "tgmrkt_price_ton": 19.48,
+      "models": "models/eternal_rose/prices.json"
     },
     {
       "full_name": "Evil Eye",
       "short_name": "evil_eye",
-      "regular_id": "5825480571261813595"
+      "regular_id": "5825480571261813595",
+      "floor_price_ton": 5.8,
+      "portal_price_ton": 5.8,
+      "getgems_price_ton": 5.8,
+      "tgmrkt_price_ton": 5.6232,
+      "models": "models/evil_eye/prices.json"
     },
     {
       "full_name": "Faith Amulet",
       "short_name": "faith_amulet",
-      "regular_id": "6003456431095808759"
+      "regular_id": "6003456431095808759",
+      "floor_price_ton": 3.71,
+      "portal_price_ton": 3.71,
+      "getgems_price_ton": 4.19,
+      "tgmrkt_price_ton": 3.91,
+      "models": "models/faith_amulet/prices.json"
     },
     {
       "full_name": "Flying Broom",
       "short_name": "flying_broom",
-      "regular_id": "5837063436634161765"
+      "regular_id": "5837063436634161765",
+      "floor_price_ton": 8.79,
+      "portal_price_ton": 8.79,
+      "getgems_price_ton": 8.79,
+      "tgmrkt_price_ton": 8.47,
+      "models": "models/flying_broom/prices.json"
     },
     {
       "full_name": "Fresh Socks",
       "short_name": "fresh_socks",
-      "regular_id": "5895603153683874485"
+      "regular_id": "5895603153683874485",
+      "floor_price_ton": 3.2,
+      "portal_price_ton": 3.2,
+      "getgems_price_ton": 3.2,
+      "tgmrkt_price_ton": 3.1,
+      "models": "models/fresh_socks/prices.json"
     },
     {
       "full_name": "Gem Signet",
       "short_name": "gem_signet",
-      "regular_id": "5859442703032386168"
+      "regular_id": "5859442703032386168",
+      "floor_price_ton": 51.87,
+      "portal_price_ton": 51.86,
+      "getgems_price_ton": 52.8,
+      "tgmrkt_price_ton": 49.39,
+      "models": "models/gem_signet/prices.json"
     },
     {
       "full_name": "Genie Lamp",
       "short_name": "genie_lamp",
-      "regular_id": "5933531623327795414"
+      "regular_id": "5933531623327795414",
+      "floor_price_ton": 29.69,
+      "portal_price_ton": 29.62,
+      "getgems_price_ton": 33.0,
+      "tgmrkt_price_ton": 28.85,
+      "models": "models/genie_lamp/prices.json"
     },
     {
       "full_name": "Ginger Cookie",
       "short_name": "ginger_cookie",
-      "regular_id": "5983484377902875708"
+      "regular_id": "5983484377902875708",
+      "floor_price_ton": 3.04,
+      "portal_price_ton": 2.86,
+      "getgems_price_ton": 3.04,
+      "tgmrkt_price_ton": 2.96,
+      "models": "models/ginger_cookie/prices.json"
     },
     {
       "full_name": "Hanging Star",
       "short_name": "hanging_star",
-      "regular_id": "5915733223018594841"
+      "regular_id": "5915733223018594841",
+      "floor_price_ton": 6.72,
+      "portal_price_ton": 6.73,
+      "getgems_price_ton": 6.8,
+      "tgmrkt_price_ton": 6.41,
+      "models": "models/hanging_star/prices.json"
     },
     {
       "full_name": "Happy Brownie",
       "short_name": "happy_brownie",
-      "regular_id": "6006064678835323371"
+      "regular_id": "6006064678835323371",
+      "floor_price_ton": 3.15,
+      "portal_price_ton": 3.15,
+      "getgems_price_ton": 3.2,
+      "tgmrkt_price_ton": 3.17,
+      "models": "models/happy_brownie/prices.json"
     },
     {
       "full_name": "Heart Locket",
       "short_name": "heart_locket",
-      "regular_id": "5868455043362980631"
+      "regular_id": "5868455043362980631",
+      "floor_price_ton": 1002.74,
+      "portal_price_ton": 986.99,
+      "getgems_price_ton": 1050.0,
+      "tgmrkt_price_ton": 939.99,
+      "models": "models/heart_locket/prices.json"
     },
     {
       "full_name": "Heroic Helmet",
       "short_name": "heroic_helmet",
-      "regular_id": "5895328365971244193"
+      "regular_id": "5895328365971244193",
+      "floor_price_ton": 162.75,
+      "portal_price_ton": 164.26,
+      "getgems_price_ton": 195.0,
+      "tgmrkt_price_ton": 156.44,
+      "models": "models/heroic_helmet/prices.json"
     },
     {
       "full_name": "Hex Pot",
       "short_name": "hex_pot",
-      "regular_id": "5825801628657124140"
+      "regular_id": "5825801628657124140",
+      "floor_price_ton": 3.33,
+      "portal_price_ton": 3.33,
+      "getgems_price_ton": 3.33,
+      "tgmrkt_price_ton": 3.27,
+      "models": "models/hex_pot/prices.json"
     },
     {
       "full_name": "Holiday Drink",
       "short_name": "holiday_drink",
-      "regular_id": "6003735372041814769"
+      "regular_id": "6003735372041814769",
+      "floor_price_ton": 2.79,
+      "portal_price_ton": 2.78,
+      "getgems_price_ton": 2.95,
+      "tgmrkt_price_ton": 2.75,
+      "models": "models/holiday_drink/prices.json"
     },
     {
       "full_name": "Homemade Cake",
       "short_name": "homemade_cake",
-      "regular_id": "5783075783622787539"
+      "regular_id": "5783075783622787539",
+      "floor_price_ton": 3.67,
+      "portal_price_ton": 3.67,
+      "getgems_price_ton": 3.8,
+      "tgmrkt_price_ton": 3.84,
+      "models": "models/homemade_cake/prices.json"
     },
     {
       "full_name": "Hypno Lollipop",
       "short_name": "hypno_lollipop",
-      "regular_id": "5825895989088617224"
+      "regular_id": "5825895989088617224",
+      "floor_price_ton": 2.94,
+      "portal_price_ton": 2.94,
+      "getgems_price_ton": 3.0,
+      "tgmrkt_price_ton": 2.81,
+      "models": "models/hypno_lollipop/prices.json"
     },
     {
       "full_name": "Ice Cream",
       "short_name": "ice_cream",
-      "regular_id": "5900177027566142759"
+      "regular_id": "5900177027566142759",
+      "floor_price_ton": 2.63,
+      "portal_price_ton": 2.63,
+      "getgems_price_ton": 2.69,
+      "tgmrkt_price_ton": 2.66,
+      "models": "models/ice_cream/prices.json"
     },
     {
       "full_name": "Input Key",
       "short_name": "input_key",
-      "regular_id": "5870972044522291836"
+      "regular_id": "5870972044522291836",
+      "floor_price_ton": 4.2,
+      "portal_price_ton": 4.2,
+      "getgems_price_ton": 4.2,
+      "tgmrkt_price_ton": 4.41,
+      "models": "models/input_key/prices.json"
     },
     {
       "full_name": "Instant Ramen",
       "short_name": "instant_ramen",
-      "regular_id": "6005564615793050414"
+      "regular_id": "6005564615793050414",
+      "floor_price_ton": 2.65,
+      "portal_price_ton": 2.65,
+      "getgems_price_ton": 2.69,
+      "tgmrkt_price_ton": 2.7,
+      "models": "models/instant_ramen/prices.json"
     },
     {
       "full_name": "Ion Gem",
       "short_name": "ion_gem",
-      "regular_id": "5843762284240831056"
+      "regular_id": "5843762284240831056",
+      "floor_price_ton": 57.57,
+      "portal_price_ton": 57.42,
+      "getgems_price_ton": 65.8,
+      "tgmrkt_price_ton": 54.69,
+      "models": "models/ion_gem/prices.json"
     },
     {
       "full_name": "Ionic Dryer",
       "short_name": "ionic_dryer",
-      "regular_id": "5933937398953018107"
+      "regular_id": "5933937398953018107",
+      "floor_price_ton": 11.4,
+      "portal_price_ton": 11.39,
+      "getgems_price_ton": 11.5,
+      "tgmrkt_price_ton": 10.84,
+      "models": "models/ionic_dryer/prices.json"
     },
     {
       "full_name": "Jack-in-the-Box",
       "short_name": "jackinthebox",
-      "regular_id": "6005659564635063386"
+      "regular_id": "6005659564635063386",
+      "floor_price_ton": 3,
+      "portal_price_ton": 3.0,
+      "getgems_price_ton": 3.0,
+      "tgmrkt_price_ton": 3.12,
+      "models": "models/jackinthebox/prices.json"
     },
     {
       "full_name": "Jelly Bunny",
       "short_name": "jelly_bunny",
-      "regular_id": "5915502858152706668"
+      "regular_id": "5915502858152706668",
+      "floor_price_ton": 5.72,
+      "portal_price_ton": 5.72,
+      "getgems_price_ton": 5.72,
+      "tgmrkt_price_ton": 5.5341,
+      "models": "models/jelly_bunny/prices.json"
     },
     {
       "full_name": "Jester Hat",
       "short_name": "jester_hat",
-      "regular_id": "5933590374185435592"
+      "regular_id": "5933590374185435592",
+      "floor_price_ton": 2.94,
+      "portal_price_ton": 2.98,
+      "getgems_price_ton": 2.98,
+      "tgmrkt_price_ton": 2.84,
+      "models": "models/jester_hat/prices.json"
     },
     {
       "full_name": "Jingle Bells",
       "short_name": "jingle_bells",
-      "regular_id": "6001473264306619020"
+      "regular_id": "6001473264306619020",
+      "floor_price_ton": 5.68,
+      "portal_price_ton": 5.68,
+      "getgems_price_ton": 5.68,
+      "tgmrkt_price_ton": 5.66,
+      "models": "models/jingle_bells/prices.json"
     },
     {
       "full_name": "Jolly Chimp",
       "short_name": "jolly_chimp",
-      "regular_id": "6005880141270483700"
+      "regular_id": "6005880141270483700",
+      "floor_price_ton": 6.15,
+      "portal_price_ton": 6.14,
+      "getgems_price_ton": 6.3,
+      "tgmrkt_price_ton": 5.85,
+      "models": "models/jolly_chimp/prices.json"
     },
     {
       "full_name": "Joyful Bundle",
       "short_name": "joyful_bundle",
-      "regular_id": "5870862540036113469"
+      "regular_id": "5870862540036113469",
+      "floor_price_ton": 5.9,
+      "portal_price_ton": 5.88,
+      "getgems_price_ton": 5.9,
+      "tgmrkt_price_ton": 5.69,
+      "models": "models/joyful_bundle/prices.json"
     },
     {
       "full_name": "Khabib’s Papakha",
@@ -243,352 +473,702 @@
     {
       "full_name": "Kissed Frog",
       "short_name": "kissed_frog",
-      "regular_id": "5845776576658015084"
+      "regular_id": "5845776576658015084",
+      "floor_price_ton": 35.99,
+      "portal_price_ton": 35.99,
+      "getgems_price_ton": 35.99,
+      "tgmrkt_price_ton": 34.45,
+      "models": "models/kissed_frog/prices.json"
     },
     {
       "full_name": "Light Sword",
       "short_name": "light_sword",
-      "regular_id": "5897581235231785485"
+      "regular_id": "5897581235231785485",
+      "floor_price_ton": 5.47,
+      "portal_price_ton": 5.47,
+      "getgems_price_ton": 5.56,
+      "tgmrkt_price_ton": 5.2,
+      "models": "models/light_sword/prices.json"
     },
     {
       "full_name": "Lol Pop",
       "short_name": "lol_pop",
-      "regular_id": "5170594532177215681"
+      "regular_id": "5170594532177215681",
+      "floor_price_ton": 2.63,
+      "portal_price_ton": 2.63,
+      "getgems_price_ton": 2.83,
+      "tgmrkt_price_ton": 2.67,
+      "models": "models/lol_pop/prices.json"
     },
     {
       "full_name": "Loot Bag",
       "short_name": "loot_bag",
-      "regular_id": "5868659926187901653"
+      "regular_id": "5868659926187901653",
+      "floor_price_ton": 98.94,
+      "portal_price_ton": 98.16,
+      "getgems_price_ton": 85.0,
+      "tgmrkt_price_ton": 93.49,
+      "models": "models/loot_bag/prices.json"
     },
     {
       "full_name": "Love Candle",
       "short_name": "love_candle",
-      "regular_id": "5915550639663874519"
+      "regular_id": "5915550639663874519",
+      "floor_price_ton": 7.27,
+      "portal_price_ton": 7.27,
+      "getgems_price_ton": 7.269,
+      "tgmrkt_price_ton": 6.96,
+      "models": "models/love_candle/prices.json"
     },
     {
       "full_name": "Love Potion",
       "short_name": "love_potion",
-      "regular_id": "5868348541058942091"
+      "regular_id": "5868348541058942091",
+      "floor_price_ton": 11.4,
+      "portal_price_ton": 11.4,
+      "getgems_price_ton": 11.4,
+      "tgmrkt_price_ton": 10.98,
+      "models": "models/love_potion/prices.json"
     },
     {
       "full_name": "Low Rider",
       "short_name": "low_rider",
-      "regular_id": "6014675319464657779"
+      "regular_id": "6014675319464657779",
+      "floor_price_ton": 39.49,
+      "portal_price_ton": 39.49,
+      "getgems_price_ton": 39.49,
+      "tgmrkt_price_ton": 38.68,
+      "models": "models/low_rider/prices.json"
     },
     {
       "full_name": "Lunar Snake",
       "short_name": "lunar_snake",
-      "regular_id": "6028426950047957932"
+      "regular_id": "6028426950047957932",
+      "floor_price_ton": 2.44,
+      "portal_price_ton": 2.44,
+      "getgems_price_ton": 2.754,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/lunar_snake/prices.json"
     },
     {
       "full_name": "Lush Bouquet",
       "short_name": "lush_bouquet",
-      "regular_id": "5871002671934079382"
+      "regular_id": "5871002671934079382",
+      "floor_price_ton": 4.48,
+      "portal_price_ton": 4.45,
+      "getgems_price_ton": 4.7,
+      "tgmrkt_price_ton": 4.24,
+      "models": "models/lush_bouquet/prices.json"
     },
     {
       "full_name": "Mad Pumpkin",
       "short_name": "mad_pumpkin",
-      "regular_id": "5841632504448025405"
+      "regular_id": "5841632504448025405",
+      "floor_price_ton": 9.4,
+      "portal_price_ton": 9.37,
+      "getgems_price_ton": 9.55,
+      "tgmrkt_price_ton": 8.92,
+      "models": "models/mad_pumpkin/prices.json"
     },
     {
       "full_name": "Magic Potion",
       "short_name": "magic_potion",
-      "regular_id": "5846226946928673709"
+      "regular_id": "5846226946928673709",
+      "floor_price_ton": 44.44,
+      "portal_price_ton": 44.44,
+      "getgems_price_ton": 49.6621,
+      "tgmrkt_price_ton": 43.29,
+      "models": "models/magic_potion/prices.json"
     },
     {
       "full_name": "Mighty Arm",
       "short_name": "mighty_arm",
-      "regular_id": "5895518353849582541"
+      "regular_id": "5895518353849582541",
+      "floor_price_ton": 98.49,
+      "portal_price_ton": 98.17,
+      "getgems_price_ton": 130.0,
+      "tgmrkt_price_ton": 94.25,
+      "models": "models/mighty_arm/prices.json"
     },
     {
       "full_name": "Mini Oscar",
       "short_name": "mini_oscar",
-      "regular_id": "5879737836550226478"
+      "regular_id": "5879737836550226478",
+      "floor_price_ton": 60.54,
+      "portal_price_ton": 60.54,
+      "getgems_price_ton": 64.0,
+      "tgmrkt_price_ton": 57.66,
+      "models": "models/mini_oscar/prices.json"
     },
     {
       "full_name": "Money Pot",
       "short_name": "money_pot",
-      "regular_id": "5963238670868677492"
+      "regular_id": "5963238670868677492",
+      "floor_price_ton": 3.13,
+      "portal_price_ton": 3.13,
+      "getgems_price_ton": 3.25,
+      "tgmrkt_price_ton": 3.18,
+      "models": "models/money_pot/prices.json"
     },
     {
       "full_name": "Moon Pendant",
       "short_name": "moon_pendant",
-      "regular_id": "5998981470310368313"
+      "regular_id": "5998981470310368313",
+      "floor_price_ton": 4.74,
+      "portal_price_ton": 4.75,
+      "getgems_price_ton": 4.75,
+      "tgmrkt_price_ton": 4.57,
+      "models": "models/moon_pendant/prices.json"
     },
     {
       "full_name": "Mousse Cake",
       "short_name": "mousse_cake",
-      "regular_id": "5935877878062253519"
+      "regular_id": "5935877878062253519",
+      "floor_price_ton": 3.49,
+      "portal_price_ton": 3.49,
+      "getgems_price_ton": 3.9,
+      "tgmrkt_price_ton": 3.61,
+      "models": "models/mousse_cake/prices.json"
     },
     {
       "full_name": "Nail Bracelet",
       "short_name": "nail_bracelet",
-      "regular_id": "5870720080265871962"
+      "regular_id": "5870720080265871962",
+      "floor_price_ton": 90.78,
+      "portal_price_ton": 90.78,
+      "getgems_price_ton": 90.78,
+      "tgmrkt_price_ton": 86.83,
+      "models": "models/nail_bracelet/prices.json"
     },
     {
       "full_name": "Neko Helmet",
       "short_name": "neko_helmet",
-      "regular_id": "5933793770951673155"
+      "regular_id": "5933793770951673155",
+      "floor_price_ton": 28,
+      "portal_price_ton": 28.0,
+      "getgems_price_ton": 28.0,
+      "tgmrkt_price_ton": 28.23,
+      "models": "models/neko_helmet/prices.json"
     },
     {
       "full_name": "Party Sparkler",
       "short_name": "party_sparkler",
-      "regular_id": "6003643167683903930"
+      "regular_id": "6003643167683903930",
+      "floor_price_ton": 3,
+      "portal_price_ton": 3.0,
+      "getgems_price_ton": 3.0,
+      "tgmrkt_price_ton": 2.9,
+      "models": "models/party_sparkler/prices.json"
     },
     {
       "full_name": "Perfume Bottle",
       "short_name": "perfume_bottle",
-      "regular_id": "5913517067138499193"
+      "regular_id": "5913517067138499193",
+      "floor_price_ton": 60.86,
+      "portal_price_ton": 60.85,
+      "getgems_price_ton": 67.0,
+      "tgmrkt_price_ton": 57.93,
+      "models": "models/perfume_bottle/prices.json"
     },
     {
       "full_name": "Pet Snake",
       "short_name": "pet_snake",
-      "regular_id": "6023917088358269866"
+      "regular_id": "6023917088358269866",
+      "floor_price_ton": 2.6,
+      "portal_price_ton": 2.6,
+      "getgems_price_ton": 2.83,
+      "tgmrkt_price_ton": 2.85,
+      "models": "models/pet_snake/prices.json"
     },
     {
       "full_name": "Plush Pepe",
       "short_name": "plush_pepe",
-      "regular_id": "5936013938331222567"
+      "regular_id": "5936013938331222567",
+      "floor_price_ton": 4929.1,
+      "portal_price_ton": 4929.1,
+      "getgems_price_ton": 4929.102,
+      "tgmrkt_price_ton": 4950.0,
+      "models": "models/plush_pepe/prices.json"
     },
     {
       "full_name": "Precious Peach",
       "short_name": "precious_peach",
-      "regular_id": "5933671725160989227"
+      "regular_id": "5933671725160989227",
+      "floor_price_ton": 255,
+      "portal_price_ton": 255.0,
+      "getgems_price_ton": 255.0,
+      "tgmrkt_price_ton": 242.96,
+      "models": "models/precious_peach/prices.json"
     },
     {
       "full_name": "Pretty Posy",
       "short_name": "pretty_posy",
-      "regular_id": "5933737850477478635"
+      "regular_id": "5933737850477478635",
+      "floor_price_ton": 3.67,
+      "portal_price_ton": 3.67,
+      "getgems_price_ton": 3.6697,
+      "tgmrkt_price_ton": 3.63,
+      "models": "models/pretty_posy/prices.json"
     },
     {
       "full_name": "Record Player",
       "short_name": "record_player",
-      "regular_id": "5856973938650776169"
+      "regular_id": "5856973938650776169",
+      "floor_price_ton": 8.7,
+      "portal_price_ton": 8.7,
+      "getgems_price_ton": 8.7,
+      "tgmrkt_price_ton": 8.43,
+      "models": "models/record_player/prices.json"
     },
     {
       "full_name": "Restless Jar",
       "short_name": "restless_jar",
-      "regular_id": "5870784783948186838"
+      "regular_id": "5870784783948186838",
+      "floor_price_ton": 4,
+      "portal_price_ton": 4.0,
+      "getgems_price_ton": 4.0,
+      "tgmrkt_price_ton": 3.88,
+      "models": "models/restless_jar/prices.json"
     },
     {
       "full_name": "Sakura Flower",
       "short_name": "sakura_flower",
-      "regular_id": "5167939598143193218"
+      "regular_id": "5167939598143193218",
+      "floor_price_ton": 7.89,
+      "portal_price_ton": 7.89,
+      "getgems_price_ton": 7.89,
+      "tgmrkt_price_ton": 7.91,
+      "models": "models/sakura_flower/prices.json"
     },
     {
       "full_name": "Santa Hat",
       "short_name": "santa_hat",
-      "regular_id": "5983471780763796287"
+      "regular_id": "5983471780763796287",
+      "floor_price_ton": 3.09,
+      "portal_price_ton": 3.04,
+      "getgems_price_ton": 3.3,
+      "tgmrkt_price_ton": 3.11,
+      "models": "models/santa_hat/prices.json"
     },
     {
       "full_name": "Scared Cat",
       "short_name": "scared_cat",
-      "regular_id": "5837059369300132790"
+      "regular_id": "5837059369300132790",
+      "floor_price_ton": 151.5,
+      "portal_price_ton": 151.5,
+      "getgems_price_ton": 151.5,
+      "tgmrkt_price_ton": 147.99,
+      "models": "models/scared_cat/prices.json"
     },
     {
       "full_name": "Sharp Tongue",
       "short_name": "sharp_tongue",
-      "regular_id": "5841689550203650524"
+      "regular_id": "5841689550203650524",
+      "floor_price_ton": 35.96,
+      "portal_price_ton": 36.0,
+      "getgems_price_ton": 37.185,
+      "tgmrkt_price_ton": 34.29,
+      "models": "models/sharp_tongue/prices.json"
     },
     {
       "full_name": "Signet Ring",
       "short_name": "signet_ring",
-      "regular_id": "5936085638515261992"
+      "regular_id": "5936085638515261992",
+      "floor_price_ton": 27.47,
+      "portal_price_ton": 27.48,
+      "getgems_price_ton": 27.48,
+      "tgmrkt_price_ton": 26.7,
+      "models": "models/signet_ring/prices.json"
     },
     {
       "full_name": "Skull Flower",
       "short_name": "skull_flower",
-      "regular_id": "5839038009193792264"
+      "regular_id": "5839038009193792264",
+      "floor_price_ton": 8.35,
+      "portal_price_ton": 8.51,
+      "getgems_price_ton": 8.75,
+      "tgmrkt_price_ton": 8.09,
+      "models": "models/skull_flower/prices.json"
     },
     {
       "full_name": "Sky Stilettos",
       "short_name": "sky_stilettos",
-      "regular_id": "5870947077877400011"
+      "regular_id": "5870947077877400011",
+      "floor_price_ton": 13.57,
+      "portal_price_ton": 13.57,
+      "getgems_price_ton": 13.57,
+      "tgmrkt_price_ton": 13.1175,
+      "models": "models/sky_stilettos/prices.json"
     },
     {
       "full_name": "Sleigh Bell",
       "short_name": "sleigh_bell",
-      "regular_id": "5981026247860290310"
+      "regular_id": "5981026247860290310",
+      "floor_price_ton": 5.5,
+      "portal_price_ton": 5.5,
+      "getgems_price_ton": 5.5,
+      "tgmrkt_price_ton": 5.4,
+      "models": "models/sleigh_bell/prices.json"
     },
     {
       "full_name": "Snake Box",
       "short_name": "snake_box",
-      "regular_id": "6023679164349940429"
+      "regular_id": "6023679164349940429",
+      "floor_price_ton": 2.43,
+      "portal_price_ton": 2.43,
+      "getgems_price_ton": 2.69,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/snake_box/prices.json"
     },
     {
       "full_name": "Snoop Cigar",
       "short_name": "snoop_cigar",
-      "regular_id": "6012435906336654262"
+      "regular_id": "6012435906336654262",
+      "floor_price_ton": 9.77,
+      "portal_price_ton": 9.77,
+      "getgems_price_ton": 9.77,
+      "tgmrkt_price_ton": 9.77,
+      "models": "models/snoop_cigar/prices.json"
     },
     {
       "full_name": "Snoop Dogg",
       "short_name": "snoop_dogg",
-      "regular_id": "6014591077976114307"
+      "regular_id": "6014591077976114307",
+      "floor_price_ton": 4.29,
+      "portal_price_ton": 4.29,
+      "getgems_price_ton": 4.57,
+      "tgmrkt_price_ton": 4.34,
+      "models": "models/snoop_dogg/prices.json"
     },
     {
       "full_name": "Snow Globe",
       "short_name": "snow_globe",
-      "regular_id": "5981132629905245483"
+      "regular_id": "5981132629905245483",
+      "floor_price_ton": 3.62,
+      "portal_price_ton": 3.63,
+      "getgems_price_ton": 3.8,
+      "tgmrkt_price_ton": 3.46,
+      "models": "models/snow_globe/prices.json"
     },
     {
       "full_name": "Snow Mittens",
       "short_name": "snow_mittens",
-      "regular_id": "5980789805615678057"
+      "regular_id": "5980789805615678057",
+      "floor_price_ton": 3.4,
+      "portal_price_ton": 3.18,
+      "getgems_price_ton": 3.4,
+      "tgmrkt_price_ton": 3.32,
+      "models": "models/snow_mittens/prices.json"
     },
     {
       "full_name": "Spiced Wine",
       "short_name": "spiced_wine",
-      "regular_id": "5913442287462908725"
+      "regular_id": "5913442287462908725",
+      "floor_price_ton": 3.27,
+      "portal_price_ton": 3.27,
+      "getgems_price_ton": 3.28,
+      "tgmrkt_price_ton": 3.11,
+      "models": "models/spiced_wine/prices.json"
     },
     {
       "full_name": "Spring Basket",
       "short_name": "spring_basket",
-      "regular_id": "5773725897517433693"
+      "regular_id": "5773725897517433693",
+      "floor_price_ton": 3.88,
+      "portal_price_ton": 3.88,
+      "getgems_price_ton": 4.65,
+      "tgmrkt_price_ton": 4.09,
+      "models": "models/spring_basket/prices.json"
     },
     {
       "full_name": "Spy Agaric",
       "short_name": "spy_agaric",
-      "regular_id": "5821261908354794038"
+      "regular_id": "5821261908354794038",
+      "floor_price_ton": 3.95,
+      "portal_price_ton": 3.95,
+      "getgems_price_ton": 4.0,
+      "tgmrkt_price_ton": 3.84,
+      "models": "models/spy_agaric/prices.json"
     },
     {
       "full_name": "Star Notepad",
       "short_name": "star_notepad",
-      "regular_id": "5936017773737018241"
+      "regular_id": "5936017773737018241",
+      "floor_price_ton": 3.43,
+      "portal_price_ton": 3.41,
+      "getgems_price_ton": 3.45,
+      "tgmrkt_price_ton": 3.36,
+      "models": "models/star_notepad/prices.json"
     },
     {
       "full_name": "Stellar Rocket",
       "short_name": "stellar_rocket",
-      "regular_id": "6042113507581755979"
+      "regular_id": "6042113507581755979",
+      "floor_price_ton": 3.63,
+      "portal_price_ton": 3.63,
+      "getgems_price_ton": 3.8,
+      "tgmrkt_price_ton": 3.48,
+      "models": "models/stellar_rocket/prices.json"
     },
     {
       "full_name": "Swag Bag",
       "short_name": "swag_bag",
-      "regular_id": "6012607142387778152"
+      "regular_id": "6012607142387778152",
+      "floor_price_ton": 3.98,
+      "portal_price_ton": 3.98,
+      "getgems_price_ton": 3.98,
+      "tgmrkt_price_ton": 3.93,
+      "models": "models/swag_bag/prices.json"
     },
     {
       "full_name": "Swiss Watch",
       "short_name": "swiss_watch",
-      "regular_id": "5936043693864651359"
+      "regular_id": "5936043693864651359",
+      "floor_price_ton": 38.33,
+      "portal_price_ton": 38.27,
+      "getgems_price_ton": 38.69,
+      "tgmrkt_price_ton": 36.49,
+      "models": "models/swiss_watch/prices.json"
     },
     {
       "full_name": "Tama Gadget",
       "short_name": "tama_gadget",
-      "regular_id": "6023752243218481939"
+      "regular_id": "6023752243218481939",
+      "floor_price_ton": 2.63,
+      "portal_price_ton": 2.63,
+      "getgems_price_ton": 3.0,
+      "tgmrkt_price_ton": 2.85,
+      "models": "models/tama_gadget/prices.json"
     },
     {
       "full_name": "Top Hat",
       "short_name": "top_hat",
-      "regular_id": "5897593557492957738"
+      "regular_id": "5897593557492957738",
+      "floor_price_ton": 7.5,
+      "portal_price_ton": 7.5,
+      "getgems_price_ton": 7.5,
+      "tgmrkt_price_ton": 7.35,
+      "models": "models/top_hat/prices.json"
     },
     {
       "full_name": "Toy Bear",
       "short_name": "toy_bear",
-      "regular_id": "5868220813026526561"
+      "regular_id": "5868220813026526561",
+      "floor_price_ton": 30.95,
+      "portal_price_ton": 30.93,
+      "getgems_price_ton": 30.93,
+      "tgmrkt_price_ton": 30.15,
+      "models": "models/toy_bear/prices.json"
     },
     {
       "full_name": "Trapped Heart",
       "short_name": "trapped_heart",
-      "regular_id": "5841391256135008713"
+      "regular_id": "5841391256135008713",
+      "floor_price_ton": 10.57,
+      "portal_price_ton": 10.58,
+      "getgems_price_ton": 10.89,
+      "tgmrkt_price_ton": 10.09,
+      "models": "models/trapped_heart/prices.json"
     },
     {
       "full_name": "UFC Strike",
       "short_name": "ufc_strike",
-      "regular_id": "5882260270843168924"
+      "regular_id": "5882260270843168924",
+      "floor_price_ton": 12.47,
+      "portal_price_ton": 12.45,
+      "getgems_price_ton": 12.48,
+      "tgmrkt_price_ton": 11.86,
+      "models": "models/ufc_strike/prices.json"
     },
     {
       "full_name": "Valentine Box",
       "short_name": "valentine_box",
-      "regular_id": "5868595669182186720"
+      "regular_id": "5868595669182186720",
+      "floor_price_ton": 7.69,
+      "portal_price_ton": 7.69,
+      "getgems_price_ton": 7.69,
+      "tgmrkt_price_ton": 7.48,
+      "models": "models/valentine_box/prices.json"
     },
     {
       "full_name": "Vintage Cigar",
       "short_name": "vintage_cigar",
-      "regular_id": "5857140566201991735"
+      "regular_id": "5857140566201991735",
+      "floor_price_ton": 28.79,
+      "portal_price_ton": 28.61,
+      "getgems_price_ton": 28.79,
+      "tgmrkt_price_ton": 27.5,
+      "models": "models/vintage_cigar/prices.json"
     },
     {
       "full_name": "Voodoo Doll",
       "short_name": "voodoo_doll",
-      "regular_id": "5836780359634649414"
+      "regular_id": "5836780359634649414",
+      "floor_price_ton": 29.99,
+      "portal_price_ton": 29.99,
+      "getgems_price_ton": 29.99,
+      "tgmrkt_price_ton": 29.17,
+      "models": "models/voodoo_doll/prices.json"
     },
     {
       "full_name": "Westside Sign",
       "short_name": "westside_sign",
-      "regular_id": "6014697240977737490"
+      "regular_id": "6014697240977737490",
+      "floor_price_ton": 63.9,
+      "portal_price_ton": 63.9,
+      "getgems_price_ton": 63.9,
+      "tgmrkt_price_ton": 61.74,
+      "models": "models/westside_sign/prices.json"
     },
     {
       "full_name": "Whip Cupcake",
       "short_name": "whip_cupcake",
-      "regular_id": "5933543975653737112"
+      "regular_id": "5933543975653737112",
+      "floor_price_ton": 2.54,
+      "portal_price_ton": 2.54,
+      "getgems_price_ton": 2.8,
+      "tgmrkt_price_ton": 2.68,
+      "models": "models/whip_cupcake/prices.json"
     },
     {
       "full_name": "Winter Wreath",
       "short_name": "winter_wreath",
-      "regular_id": "5983259145522906006"
+      "regular_id": "5983259145522906006",
+      "floor_price_ton": 2.53,
+      "portal_price_ton": 2.53,
+      "getgems_price_ton": 2.65,
+      "tgmrkt_price_ton": 2.56,
+      "models": "models/winter_wreath/prices.json"
     },
     {
       "full_name": "Witch Hat",
       "short_name": "witch_hat",
-      "regular_id": "5821384757304362229"
+      "regular_id": "5821384757304362229",
+      "floor_price_ton": 3.79,
+      "portal_price_ton": 3.79,
+      "getgems_price_ton": 3.79,
+      "tgmrkt_price_ton": 3.78,
+      "models": "models/witch_hat/prices.json"
     },
     {
       "full_name": "Xmas Stocking",
       "short_name": "xmas_stocking",
-      "regular_id": "6003767644426076664"
+      "regular_id": "6003767644426076664",
+      "floor_price_ton": 2.59,
+      "portal_price_ton": 2.59,
+      "getgems_price_ton": 2.65,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/xmas_stocking/prices.json"
     },
     {
       "full_name": "Timeless Book",
       "short_name": "timeless_book",
-      "regular_id": "5886387158889005864"
+      "regular_id": "5886387158889005864",
+      "floor_price_ton": 3.48,
+      "portal_price_ton": 3.46,
+      "getgems_price_ton": 3.55,
+      "tgmrkt_price_ton": 3.3,
+      "models": "models/timeless_book/prices.json"
     },
     {
       "full_name": "Vice Cream",
       "short_name": "vice_cream",
-      "regular_id": "5898012527257715797"
+      "regular_id": "5898012527257715797",
+      "floor_price_ton": 2.47,
+      "portal_price_ton": 2.47,
+      "getgems_price_ton": 2.56,
+      "tgmrkt_price_ton": 2.48,
+      "models": "models/vice_cream/prices.json"
     },
     {
       "full_name": "Victory Medal",
       "short_name": "victory_medal",
-      "regular_id": "5830340739074097859"
+      "regular_id": "5830340739074097859",
+      "floor_price_ton": 3.61,
+      "portal_price_ton": 3.61,
+      "getgems_price_ton": 3.56,
+      "tgmrkt_price_ton": 3.46,
+      "models": "models/victory_medal/prices.json"
     },
     {
       "full_name": "Pool Float",
       "short_name": "pool_float",
-      "regular_id": "5832644211639321671"
+      "regular_id": "5832644211639321671",
+      "floor_price_ton": 2.76,
+      "portal_price_ton": 2.76,
+      "getgems_price_ton": 2.99,
+      "tgmrkt_price_ton": 2.92,
+      "models": "models/pool_float/prices.json"
     },
     {
       "full_name": "Rare Bird",
       "short_name": "rare_bird",
-      "regular_id": "5832325860073407546"
+      "regular_id": "5832325860073407546",
+      "floor_price_ton": 20.73,
+      "portal_price_ton": 20.71,
+      "getgems_price_ton": 20.4,
+      "tgmrkt_price_ton": 19.71,
+      "models": "models/rare_bird/prices.json"
     },
     {
       "full_name": "Vice Cream",
       "short_name": "vice_cream",
-      "regular_id": "5897607679345427347"
+      "regular_id": "5897607679345427347",
+      "floor_price_ton": 2.47,
+      "portal_price_ton": 2.47,
+      "getgems_price_ton": 2.56,
+      "tgmrkt_price_ton": 2.48,
+      "models": "models/vice_cream/prices.json"
     },
     {
       "full_name": "Chill Flame",
       "short_name": "chill_flame",
-      "regular_id": "5913351908466098791"
+      "regular_id": "5913351908466098791",
+      "floor_price_ton": 2.44,
+      "portal_price_ton": 2.44,
+      "getgems_price_ton": 2.6,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/chill_flame/prices.json"
     },
     {
       "full_name": "Mood Pack",
       "short_name": "mood_pack",
-      "regular_id": "5775966332847654507"
+      "regular_id": "5775966332847654507",
+      "floor_price_ton": 3.3,
+      "portal_price_ton": 3.3,
+      "getgems_price_ton": 3.2,
+      "tgmrkt_price_ton": 3.18,
+      "models": "models/mood_pack/prices.json"
     },
     {
       "full_name": "Rare Bird",
       "short_name": "rare_bird",
-      "regular_id": "5999116401002939514"
+      "regular_id": "5999116401002939514",
+      "floor_price_ton": 20.73,
+      "portal_price_ton": 20.71,
+      "getgems_price_ton": 20.4,
+      "tgmrkt_price_ton": 19.71,
+      "models": "models/rare_bird/prices.json"
     },
     {
       "full_name": "Chill Flame",
       "short_name": "chill_flame",
-      "regular_id": "5999277561060787166"
+      "regular_id": "5999277561060787166",
+      "floor_price_ton": 2.44,
+      "portal_price_ton": 2.44,
+      "getgems_price_ton": 2.6,
+      "tgmrkt_price_ton": 2.47,
+      "models": "models/chill_flame/prices.json"
     },
     {
       "full_name": "Mood Pack",
       "short_name": "mood_pack",
-      "regular_id": "5886756255493523118"
+      "regular_id": "5886756255493523118",
+      "floor_price_ton": 3.3,
+      "portal_price_ton": 3.3,
+      "getgems_price_ton": 3.2,
+      "tgmrkt_price_ton": 3.18,
+      "models": "models/mood_pack/prices.json"
     }
   ],
   "unupgraded": [],
@@ -600,102 +1180,122 @@
     {
       "full_name": "1 May",
       "short_name": "may",
-      "id": "5807641025165919973"
+      "id": "5807641025165919973",
+      "price_ton": 9.0
     },
     {
       "full_name": "Airplane",
       "short_name": "airplane",
-      "id": "5818708013426410448"
+      "id": "5818708013426410448",
+      "price_ton": 5233.4531
     },
     {
       "full_name": "Case",
       "short_name": "case",
-      "id": "5884080014126745057"
+      "id": "5884080014126745057",
+      "price_ton": 29.0
     },
     {
       "full_name": "Coconut Drink",
       "short_name": "coconut_drink",
-      "id": "5832371318007268701"
+      "id": "5832371318007268701",
+      "price_ton": 2.25
     },
     {
       "full_name": "Coffin",
       "short_name": "coffin",
-      "id": "5776227780391864916"
+      "id": "5776227780391864916",
+      "price_ton": 17.60304
     },
     {
       "full_name": "Durov Glasses",
       "short_name": "durov_glasses",
-      "id": "5834651202612102354"
+      "id": "5834651202612102354",
+      "price_ton": 240.0
     },
     {
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
-      "id": "6003477390536213997"
+      "id": "6003477390536213997",
+      "price_ton": 1149.5
     },
     {
       "full_name": "Easter Cake",
       "short_name": "easter_cake",
-      "id": "5773791997064119815"
+      "id": "5773791997064119815",
+      "price_ton": 8.88
     },
     {
       "full_name": "Eight Roses",
       "short_name": "eight_roses",
-      "id": "5933770397739647689"
+      "id": "5933770397739647689",
+      "price_ton": 20.0
     },
     {
       "full_name": "Gravestone",
       "short_name": "gravestone",
-      "id": "5775955135867913556"
+      "id": "5775955135867913556",
+      "price_ton": 41.60957
     },
     {
       "full_name": "Heart Pendant",
       "short_name": "heart_pendant",
-      "id": "5872744075014177223"
+      "id": "5872744075014177223",
+      "price_ton": 25.0
     },
     {
       "full_name": "Pencil",
       "short_name": "pencil",
-      "id": "5882129648002794519"
+      "id": "5882129648002794519",
+      "price_ton": 13.5
     },
     {
       "full_name": "REDO",
       "short_name": "redo",
-      "id": "5832279504491381684"
+      "id": "5832279504491381684",
+      "price_ton": 205.0
     },
     {
       "full_name": "Red Star",
       "short_name": "red_star",
-      "id": "5830323722413671504"
+      "id": "5830323722413671504",
+      "price_ton": 7.5
     },
     {
       "full_name": "Sand Castle",
       "short_name": "sand_castle",
-      "id": "5834918435477259676"
+      "id": "5834918435477259676",
+      "price_ton": 5.6
     },
     {
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
-      "id": "6001229799790478558"
+      "id": "6001229799790478558",
+      "price_ton": 63.81102
     },
     {
       "full_name": "Statue",
       "short_name": "statue",
-      "id": "5999298447486747746"
+      "id": "5999298447486747746",
+      "price_ton": 4.33
     },
     {
       "full_name": "Surfboard",
       "short_name": "surfboard",
-      "id": "5832497899283415733"
+      "id": "5832497899283415733",
+      "price_ton": 18.5
     },
     {
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
-      "id": "6001425315291727333"
+      "id": "6001425315291727333",
+      "price_ton": 70.0485
     },
     {
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
-      "id": "5956308547863052791"
+      "id": "5956308547863052791",
+      "price_ton": 46.493716
     },
     {
       "full_name": "Gift 5170145012310081615",
@@ -752,5 +1352,6 @@
       "short_name": "gift_6028601630662853006",
       "id": "6028601630662853006"
     }
-  ]
+  ],
+  "last_updated": 1781990326
 }
