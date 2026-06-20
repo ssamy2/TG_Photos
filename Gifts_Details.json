@@ -67,7 +67,7 @@
       "floor_price_ton": 33.16,
       "portal_price_ton": 33.36,
       "getgems_price_ton": 33.99,
-      "tgmrkt_price_ton": 31.78,
+      "tgmrkt_price_ton": 31.77,
       "models": "models/bonded_ring/prices.json"
     },
     {
@@ -77,7 +77,7 @@
       "floor_price_ton": 3.95,
       "portal_price_ton": 3.93,
       "getgems_price_ton": 3.99,
-      "tgmrkt_price_ton": 3.77,
+      "tgmrkt_price_ton": 3.75,
       "models": "models/bow_tie/prices.json"
     },
     {
@@ -87,7 +87,7 @@
       "floor_price_ton": 5.81,
       "portal_price_ton": 5.8,
       "getgems_price_ton": 6.0,
-      "tgmrkt_price_ton": 5.52,
+      "tgmrkt_price_ton": 5.49,
       "models": "models/bunny_muffin/prices.json"
     },
     {
@@ -117,7 +117,7 @@
       "floor_price_ton": 3.18,
       "portal_price_ton": 3.15,
       "getgems_price_ton": 3.9,
-      "tgmrkt_price_ton": 3.67,
+      "tgmrkt_price_ton": 3.66,
       "models": "models/cookie_heart/prices.json"
     },
     {
@@ -127,7 +127,7 @@
       "floor_price_ton": 9.53,
       "portal_price_ton": 9.6,
       "getgems_price_ton": 9.6,
-      "tgmrkt_price_ton": 9.13,
+      "tgmrkt_price_ton": 9.12,
       "models": "models/crystal_ball/prices.json"
     },
     {
@@ -172,7 +172,7 @@
       "floor_price_ton": 3,
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.87,
+      "tgmrkt_price_ton": 2.89,
       "models": "models/easter_egg/prices.json"
     },
     {
@@ -202,7 +202,7 @@
       "floor_price_ton": 20,
       "portal_price_ton": 20.0,
       "getgems_price_ton": 20.0,
-      "tgmrkt_price_ton": 19.48,
+      "tgmrkt_price_ton": 19.4,
       "models": "models/eternal_rose/prices.json"
     },
     {
@@ -212,7 +212,7 @@
       "floor_price_ton": 5.8,
       "portal_price_ton": 5.8,
       "getgems_price_ton": 5.8,
-      "tgmrkt_price_ton": 5.6232,
+      "tgmrkt_price_ton": 5.68,
       "models": "models/evil_eye/prices.json"
     },
     {
@@ -322,7 +322,7 @@
       "floor_price_ton": 3.33,
       "portal_price_ton": 3.33,
       "getgems_price_ton": 3.33,
-      "tgmrkt_price_ton": 3.27,
+      "tgmrkt_price_ton": 3.26,
       "models": "models/hex_pot/prices.json"
     },
     {
@@ -332,7 +332,7 @@
       "floor_price_ton": 2.79,
       "portal_price_ton": 2.78,
       "getgems_price_ton": 2.95,
-      "tgmrkt_price_ton": 2.75,
+      "tgmrkt_price_ton": 2.78,
       "models": "models/holiday_drink/prices.json"
     },
     {
@@ -352,7 +352,7 @@
       "floor_price_ton": 2.94,
       "portal_price_ton": 2.94,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.81,
+      "tgmrkt_price_ton": 2.82,
       "models": "models/hypno_lollipop/prices.json"
     },
     {
@@ -412,7 +412,7 @@
       "floor_price_ton": 3,
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 3.12,
+      "tgmrkt_price_ton": 3.3,
       "models": "models/jackinthebox/prices.json"
     },
     {
@@ -506,8 +506,8 @@
       "regular_id": "5868659926187901653",
       "floor_price_ton": 98.94,
       "portal_price_ton": 98.16,
-      "getgems_price_ton": 85.0,
-      "tgmrkt_price_ton": 93.49,
+      "getgems_price_ton": 99.0,
+      "tgmrkt_price_ton": 93.48,
       "models": "models/loot_bag/prices.json"
     },
     {
@@ -537,7 +537,7 @@
       "floor_price_ton": 39.49,
       "portal_price_ton": 39.49,
       "getgems_price_ton": 39.49,
-      "tgmrkt_price_ton": 38.68,
+      "tgmrkt_price_ton": 38.66,
       "models": "models/low_rider/prices.json"
     },
     {
@@ -636,7 +636,7 @@
       "regular_id": "5870720080265871962",
       "floor_price_ton": 90.78,
       "portal_price_ton": 90.78,
-      "getgems_price_ton": 90.78,
+      "getgems_price_ton": 90.0,
       "tgmrkt_price_ton": 86.83,
       "models": "models/nail_bracelet/prices.json"
     },
@@ -707,7 +707,7 @@
       "floor_price_ton": 3.67,
       "portal_price_ton": 3.67,
       "getgems_price_ton": 3.6697,
-      "tgmrkt_price_ton": 3.63,
+      "tgmrkt_price_ton": 3.59,
       "models": "models/pretty_posy/prices.json"
     },
     {
@@ -727,7 +727,7 @@
       "floor_price_ton": 4,
       "portal_price_ton": 4.0,
       "getgems_price_ton": 4.0,
-      "tgmrkt_price_ton": 3.88,
+      "tgmrkt_price_ton": 3.89,
       "models": "models/restless_jar/prices.json"
     },
     {
@@ -747,7 +747,7 @@
       "floor_price_ton": 3.09,
       "portal_price_ton": 3.04,
       "getgems_price_ton": 3.3,
-      "tgmrkt_price_ton": 3.11,
+      "tgmrkt_price_ton": 3.1,
       "models": "models/santa_hat/prices.json"
     },
     {
@@ -757,7 +757,7 @@
       "floor_price_ton": 151.5,
       "portal_price_ton": 151.5,
       "getgems_price_ton": 151.5,
-      "tgmrkt_price_ton": 147.99,
+      "tgmrkt_price_ton": 147.98,
       "models": "models/scared_cat/prices.json"
     },
     {
@@ -797,7 +797,7 @@
       "floor_price_ton": 13.57,
       "portal_price_ton": 13.57,
       "getgems_price_ton": 13.57,
-      "tgmrkt_price_ton": 13.1175,
+      "tgmrkt_price_ton": 13.24,
       "models": "models/sky_stilettos/prices.json"
     },
     {
@@ -917,7 +917,7 @@
       "floor_price_ton": 3.98,
       "portal_price_ton": 3.98,
       "getgems_price_ton": 3.98,
-      "tgmrkt_price_ton": 3.93,
+      "tgmrkt_price_ton": 3.92,
       "models": "models/swag_bag/prices.json"
     },
     {
@@ -977,7 +977,7 @@
       "floor_price_ton": 12.47,
       "portal_price_ton": 12.45,
       "getgems_price_ton": 12.48,
-      "tgmrkt_price_ton": 11.86,
+      "tgmrkt_price_ton": 11.84,
       "models": "models/ufc_strike/prices.json"
     },
     {
@@ -1027,7 +1027,7 @@
       "floor_price_ton": 2.54,
       "portal_price_ton": 2.54,
       "getgems_price_ton": 2.8,
-      "tgmrkt_price_ton": 2.68,
+      "tgmrkt_price_ton": 2.7,
       "models": "models/whip_cupcake/prices.json"
     },
     {
@@ -1047,7 +1047,7 @@
       "floor_price_ton": 3.79,
       "portal_price_ton": 3.79,
       "getgems_price_ton": 3.79,
-      "tgmrkt_price_ton": 3.78,
+      "tgmrkt_price_ton": 3.76,
       "models": "models/witch_hat/prices.json"
     },
     {
@@ -1087,7 +1087,7 @@
       "floor_price_ton": 3.61,
       "portal_price_ton": 3.61,
       "getgems_price_ton": 3.56,
-      "tgmrkt_price_ton": 3.46,
+      "tgmrkt_price_ton": 3.45,
       "models": "models/victory_medal/prices.json"
     },
     {
@@ -1353,5 +1353,5 @@
       "id": "6028601630662853006"
     }
   ],
-  "last_updated": 1781990326
+  "last_updated": 1781990644
 }
