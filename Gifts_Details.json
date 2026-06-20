@@ -3,262 +3,314 @@
     {
       "full_name": "Artisan Brick",
       "short_name": "artisan_brick",
-      "regular_id": "6005797617768858105"
+      "regular_id": "6005797617768858105",
+      "custom_emoji_id": "5886313032048451698"
     },
     {
       "full_name": "Astral Shard",
       "short_name": "astral_shard",
-      "regular_id": "5933629604416717361"
+      "regular_id": "5933629604416717361",
+      "custom_emoji_id": "5886482039011548418"
     },
     {
       "full_name": "B-Day Candle",
       "short_name": "bday_candle",
-      "regular_id": "5782984811920491178"
+      "regular_id": "5782984811920491178",
+      "custom_emoji_id": "5886602079052504489"
     },
     {
       "full_name": "Berry Box",
       "short_name": "berry_box",
-      "regular_id": "5882252952218894938"
+      "regular_id": "5882252952218894938",
+      "custom_emoji_id": "5886230719000223029"
     },
     {
       "full_name": "Big Year",
       "short_name": "big_year",
-      "regular_id": "6028283532500009446"
+      "regular_id": "6028283532500009446",
+      "custom_emoji_id": "5886331564832333239"
     },
     {
       "full_name": "Bling Binky",
       "short_name": "bling_binky",
-      "regular_id": "5902339509239940491"
+      "regular_id": "5902339509239940491",
+      "custom_emoji_id": "5886736910960827369"
     },
     {
       "full_name": "Bonded Ring",
       "short_name": "bonded_ring",
-      "regular_id": "5870661333703197240"
+      "regular_id": "5870661333703197240",
+      "custom_emoji_id": "5886755834586735118"
     },
     {
       "full_name": "Bow Tie",
       "short_name": "bow_tie",
-      "regular_id": "5895544372761461960"
+      "regular_id": "5895544372761461960",
+      "custom_emoji_id": "5886452554061061490"
     },
     {
       "full_name": "Bunny Muffin",
       "short_name": "bunny_muffin",
-      "regular_id": "5935936766358847989"
+      "regular_id": "5935936766358847989",
+      "custom_emoji_id": "5886662973098827171"
     },
     {
       "full_name": "Candy Cane",
       "short_name": "candy_cane",
-      "regular_id": "6003373314888696650"
+      "regular_id": "6003373314888696650",
+      "custom_emoji_id": "5886529202047425753"
     },
     {
       "full_name": "Clover Pin",
       "short_name": "clover_pin",
-      "regular_id": "5960747083030856414"
+      "regular_id": "5960747083030856414",
+      "custom_emoji_id": "5886503002746921570"
     },
     {
       "full_name": "Cookie Heart",
       "short_name": "cookie_heart",
-      "regular_id": "6001538689543439169"
+      "regular_id": "6001538689543439169",
+      "custom_emoji_id": "5886607868668421597"
     },
     {
       "full_name": "Crystal Ball",
       "short_name": "crystal_ball",
-      "regular_id": "5841336413697606412"
+      "regular_id": "5841336413697606412",
+      "custom_emoji_id": "5886734381225090844"
     },
     {
       "full_name": "Cupid Charm",
       "short_name": "cupid_charm",
-      "regular_id": "5868561433997870501"
+      "regular_id": "5868561433997870501",
+      "custom_emoji_id": "5886321269795726682"
     },
     {
       "full_name": "Desk Calendar",
       "short_name": "desk_calendar",
-      "regular_id": "5782988952268964995"
+      "regular_id": "5782988952268964995",
+      "custom_emoji_id": "5886535438339939540"
     },
     {
       "full_name": "Diamond Ring",
       "short_name": "diamond_ring",
-      "regular_id": "5868503709637411929"
+      "regular_id": "5868503709637411929",
+      "custom_emoji_id": "5886478852145815438"
     },
     {
       "full_name": "Durov’s Cap",
       "short_name": "durovs_cap",
-      "regular_id": "5915521180483191380"
+      "regular_id": "5915521180483191380",
+      "custom_emoji_id": "5886758471696653828"
     },
     {
       "full_name": "Easter Egg",
       "short_name": "easter_egg",
-      "regular_id": "5773668482394620318"
+      "regular_id": "5773668482394620318",
+      "custom_emoji_id": "5886720817718369789"
     },
     {
       "full_name": "Electric Skull",
       "short_name": "electric_skull",
-      "regular_id": "5846192273657692751"
+      "regular_id": "5846192273657692751",
+      "custom_emoji_id": "5886273733097693402"
     },
     {
       "full_name": "Eternal Candle",
       "short_name": "eternal_candle",
-      "regular_id": "5821205665758053411"
+      "regular_id": "5821205665758053411",
+      "custom_emoji_id": "5886598763337751729"
     },
     {
       "full_name": "Eternal Rose",
       "short_name": "eternal_rose",
-      "regular_id": "5882125812596999035"
+      "regular_id": "5882125812596999035",
+      "custom_emoji_id": "5886215128268939551"
     },
     {
       "full_name": "Evil Eye",
       "short_name": "evil_eye",
-      "regular_id": "5825480571261813595"
+      "regular_id": "5825480571261813595",
+      "custom_emoji_id": "5886366281052987442"
     },
     {
       "full_name": "Faith Amulet",
       "short_name": "faith_amulet",
-      "regular_id": "6003456431095808759"
+      "regular_id": "6003456431095808759",
+      "custom_emoji_id": "5886258649172549640"
     },
     {
       "full_name": "Flying Broom",
       "short_name": "flying_broom",
-      "regular_id": "5837063436634161765"
+      "regular_id": "5837063436634161765",
+      "custom_emoji_id": "5886481154248285039"
     },
     {
       "full_name": "Fresh Socks",
       "short_name": "fresh_socks",
-      "regular_id": "5895603153683874485"
+      "regular_id": "5895603153683874485",
+      "custom_emoji_id": "5886260276965154537"
     },
     {
       "full_name": "Gem Signet",
       "short_name": "gem_signet",
-      "regular_id": "5859442703032386168"
+      "regular_id": "5859442703032386168",
+      "custom_emoji_id": "5886280729599418766"
     },
     {
       "full_name": "Genie Lamp",
       "short_name": "genie_lamp",
-      "regular_id": "5933531623327795414"
+      "regular_id": "5933531623327795414",
+      "custom_emoji_id": "5886608298165149924"
     },
     {
       "full_name": "Ginger Cookie",
       "short_name": "ginger_cookie",
-      "regular_id": "5983484377902875708"
+      "regular_id": "5983484377902875708",
+      "custom_emoji_id": "5886316210324250360"
     },
     {
       "full_name": "Hanging Star",
       "short_name": "hanging_star",
-      "regular_id": "5915733223018594841"
+      "regular_id": "5915733223018594841",
+      "custom_emoji_id": "5886721878575292425"
     },
     {
       "full_name": "Happy Brownie",
       "short_name": "happy_brownie",
-      "regular_id": "6006064678835323371"
+      "regular_id": "6006064678835323371",
+      "custom_emoji_id": "5886630017814764573"
     },
     {
       "full_name": "Heart Locket",
       "short_name": "heart_locket",
-      "regular_id": "5868455043362980631"
+      "regular_id": "5868455043362980631",
+      "custom_emoji_id": "5886688914701297048"
     },
     {
       "full_name": "Heroic Helmet",
       "short_name": "heroic_helmet",
-      "regular_id": "5895328365971244193"
+      "regular_id": "5895328365971244193",
+      "custom_emoji_id": "5886316356353138186"
     },
     {
       "full_name": "Hex Pot",
       "short_name": "hex_pot",
-      "regular_id": "5825801628657124140"
+      "regular_id": "5825801628657124140",
+      "custom_emoji_id": "5886370636149825172"
     },
     {
       "full_name": "Holiday Drink",
       "short_name": "holiday_drink",
-      "regular_id": "6003735372041814769"
+      "regular_id": "6003735372041814769",
+      "custom_emoji_id": "5886762156778593598"
     },
     {
       "full_name": "Homemade Cake",
       "short_name": "homemade_cake",
-      "regular_id": "5783075783622787539"
+      "regular_id": "5783075783622787539",
+      "custom_emoji_id": "5886623334845652803"
     },
     {
       "full_name": "Hypno Lollipop",
       "short_name": "hypno_lollipop",
-      "regular_id": "5825895989088617224"
+      "regular_id": "5825895989088617224",
+      "custom_emoji_id": "5886506722188599284"
     },
     {
       "full_name": "Ice Cream",
       "short_name": "ice_cream",
-      "regular_id": "5900177027566142759"
+      "regular_id": "5900177027566142759",
+      "custom_emoji_id": "5886625340595380880"
     },
     {
       "full_name": "Input Key",
       "short_name": "input_key",
-      "regular_id": "5870972044522291836"
+      "regular_id": "5870972044522291836",
+      "custom_emoji_id": "5886323825301267047"
     },
     {
       "full_name": "Instant Ramen",
       "short_name": "instant_ramen",
-      "regular_id": "6005564615793050414"
+      "regular_id": "6005564615793050414",
+      "custom_emoji_id": "5886674887338106595"
     },
     {
       "full_name": "Ion Gem",
       "short_name": "ion_gem",
-      "regular_id": "5843762284240831056"
+      "regular_id": "5843762284240831056",
+      "custom_emoji_id": "5886214312225152821"
     },
     {
       "full_name": "Ionic Dryer",
       "short_name": "ionic_dryer",
-      "regular_id": "5933937398953018107"
+      "regular_id": "5933937398953018107",
+      "custom_emoji_id": "5886374140843138062"
     },
     {
       "full_name": "Jack-in-the-Box",
       "short_name": "jackinthebox",
-      "regular_id": "6005659564635063386"
+      "regular_id": "6005659564635063386",
+      "custom_emoji_id": "5886293008910918131"
     },
     {
       "full_name": "Jelly Bunny",
       "short_name": "jelly_bunny",
-      "regular_id": "5915502858152706668"
+      "regular_id": "5915502858152706668",
+      "custom_emoji_id": "5886690387875079845"
     },
     {
       "full_name": "Jester Hat",
       "short_name": "jester_hat",
-      "regular_id": "5933590374185435592"
+      "regular_id": "5933590374185435592",
+      "custom_emoji_id": "5886372195222953177"
     },
     {
       "full_name": "Jingle Bells",
       "short_name": "jingle_bells",
-      "regular_id": "6001473264306619020"
+      "regular_id": "6001473264306619020",
+      "custom_emoji_id": "5886363472144379724"
     },
     {
       "full_name": "Jolly Chimp",
       "short_name": "jolly_chimp",
-      "regular_id": "6005880141270483700"
+      "regular_id": "6005880141270483700",
+      "custom_emoji_id": "5886680578169774043"
     },
     {
       "full_name": "Joyful Bundle",
       "short_name": "joyful_bundle",
-      "regular_id": "5870862540036113469"
+      "regular_id": "5870862540036113469",
+      "custom_emoji_id": "5886443564694510902"
     },
     {
       "full_name": "Khabib’s Papakha",
       "short_name": "khabibs_papakha",
-      "regular_id": "5839094187366024301"
+      "regular_id": "5839094187366024301",
+      "custom_emoji_id": "5886291720420728249"
     },
     {
       "full_name": "Kissed Frog",
       "short_name": "kissed_frog",
-      "regular_id": "5845776576658015084"
+      "regular_id": "5845776576658015084",
+      "custom_emoji_id": "5886626856718835939"
     },
     {
       "full_name": "Light Sword",
       "short_name": "light_sword",
-      "regular_id": "5897581235231785485"
+      "regular_id": "5897581235231785485",
+      "custom_emoji_id": "5886735437787045425"
     },
     {
       "full_name": "Lol Pop",
       "short_name": "lol_pop",
-      "regular_id": "5170594532177215681"
+      "regular_id": "5170594532177215681",
+      "custom_emoji_id": "5886292961666277316"
     },
     {
       "full_name": "Loot Bag",
       "short_name": "loot_bag",
-      "regular_id": "5868659926187901653"
+      "regular_id": "5868659926187901653",
+      "custom_emoji_id": "5886374634764378760"
     },
     {
       "full_name": "Love Candle",
@@ -595,157 +647,188 @@
     {
       "full_name": "1 May",
       "short_name": "may",
-      "id": "5807641025165919973"
+      "id": "5807641025165919973",
+      "custom_emoji_id": "5886303518695891483"
     },
     {
       "full_name": "Airplane",
       "short_name": "airplane",
-      "id": "5818708013426410448"
+      "id": "5818708013426410448",
+      "custom_emoji_id": "5886659099038326586"
     },
     {
       "full_name": "Case",
       "short_name": "case",
-      "id": "5884080014126745057"
+      "id": "5884080014126745057",
+      "custom_emoji_id": "5886657883562581474"
     },
     {
       "full_name": "Coconut Drink",
       "short_name": "coconut_drink",
-      "id": "5832371318007268701"
+      "id": "5832371318007268701",
+      "custom_emoji_id": "5886365714117304537"
     },
     {
       "full_name": "Coffin",
       "short_name": "coffin",
-      "id": "5776227780391864916"
+      "id": "5776227780391864916",
+      "custom_emoji_id": "5888783192294432186"
     },
     {
       "full_name": "Durov Glasses",
       "short_name": "durov_glasses",
-      "id": "5834651202612102354"
+      "id": "5834651202612102354",
+      "custom_emoji_id": "5886590671619366002"
     },
     {
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
-      "id": "6003477390536213997"
+      "id": "6003477390536213997",
+      "custom_emoji_id": "5886685590396608390"
     },
     {
       "full_name": "Easter Cake",
       "short_name": "easter_cake",
-      "id": "5773791997064119815"
+      "id": "5773791997064119815",
+      "custom_emoji_id": "5886406069630018015"
     },
     {
       "full_name": "Eight Roses",
       "short_name": "eight_roses",
-      "id": "5933770397739647689"
+      "id": "5933770397739647689",
+      "custom_emoji_id": "5886616441423142451"
     },
     {
       "full_name": "Gravestone",
       "short_name": "gravestone",
-      "id": "5775955135867913556"
+      "id": "5775955135867913556",
+      "custom_emoji_id": "5886732233741443047"
     },
     {
       "full_name": "Heart Pendant",
       "short_name": "heart_pendant",
-      "id": "5872744075014177223"
+      "id": "5872744075014177223",
+      "custom_emoji_id": "5886723562202473392"
     },
     {
       "full_name": "Pencil",
       "short_name": "pencil",
-      "id": "5882129648002794519"
+      "id": "5882129648002794519",
+      "custom_emoji_id": "5886292751212879705"
     },
     {
       "full_name": "REDO",
       "short_name": "redo",
-      "id": "5832279504491381684"
+      "id": "5832279504491381684",
+      "custom_emoji_id": "5886599961633630947"
     },
     {
       "full_name": "Red Star",
       "short_name": "red_star",
-      "id": "5830323722413671504"
+      "id": "5830323722413671504",
+      "custom_emoji_id": "5886328519700520845"
     },
     {
       "full_name": "Sand Castle",
       "short_name": "sand_castle",
-      "id": "5834918435477259676"
+      "id": "5834918435477259676",
+      "custom_emoji_id": "5886633539687948866"
     },
     {
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
-      "id": "6001229799790478558"
+      "id": "6001229799790478558",
+      "custom_emoji_id": "5886293820659736208"
     },
     {
       "full_name": "Statue",
       "short_name": "statue",
-      "id": "5999298447486747746"
+      "id": "5999298447486747746",
+      "custom_emoji_id": "5886341438962146518"
     },
     {
       "full_name": "Surfboard",
       "short_name": "surfboard",
-      "id": "5832497899283415733"
+      "id": "5832497899283415733",
+      "custom_emoji_id": "5886608104891621740"
     },
     {
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
-      "id": "6001425315291727333"
+      "id": "6001425315291727333",
+      "custom_emoji_id": "5886332986466509268"
     },
     {
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
-      "id": "5956308547863052791"
+      "id": "5956308547863052791",
+      "custom_emoji_id": "5886487798562692459"
     },
     {
       "full_name": "Gift 5170145012310081615",
       "short_name": "gift_5170145012310081615",
-      "id": "5170145012310081615"
+      "id": "5170145012310081615",
+      "custom_emoji_id": "5886374385656273732"
     },
     {
       "full_name": "Gift 5170233102089322756",
       "short_name": "gift_5170233102089322756",
-      "id": "5170233102089322756"
+      "id": "5170233102089322756",
+      "custom_emoji_id": "5886252361340428194"
     },
     {
       "full_name": "Gift 5170250947678437525",
       "short_name": "gift_5170250947678437525",
-      "id": "5170250947678437525"
+      "id": "5170250947678437525",
+      "custom_emoji_id": "5886680724198661650"
     },
     {
       "full_name": "Gift 5168103777563050263",
       "short_name": "gift_5168103777563050263",
-      "id": "5168103777563050263"
+      "id": "5168103777563050263",
+      "custom_emoji_id": "5886760318532590708"
     },
     {
       "full_name": "Gift 5170144170496491616",
       "short_name": "gift_5170144170496491616",
-      "id": "5170144170496491616"
+      "id": "5170144170496491616",
+      "custom_emoji_id": "5886216678752131838"
     },
     {
       "full_name": "Gift 5170314324215857265",
       "short_name": "gift_5170314324215857265",
-      "id": "5170314324215857265"
+      "id": "5170314324215857265",
+      "custom_emoji_id": "5886317365670453413"
     },
     {
       "full_name": "Gift 5170564780938756245",
       "short_name": "gift_5170564780938756245",
-      "id": "5170564780938756245"
+      "id": "5170564780938756245",
+      "custom_emoji_id": "5886524554892811587"
     },
     {
       "full_name": "Gift 5168043875654172773",
       "short_name": "gift_5168043875654172773",
-      "id": "5168043875654172773"
+      "id": "5168043875654172773",
+      "custom_emoji_id": "5886763969254791755"
     },
     {
       "full_name": "Gift 5170690322832818290",
       "short_name": "gift_5170690322832818290",
-      "id": "5170690322832818290"
+      "id": "5170690322832818290",
+      "custom_emoji_id": "5886356677506114240"
     },
     {
       "full_name": "Gift 5170521118301225164",
       "short_name": "gift_5170521118301225164",
-      "id": "5170521118301225164"
+      "id": "5170521118301225164",
+      "custom_emoji_id": "5886281863470784536"
     },
     {
       "full_name": "Gift 6028601630662853006",
       "short_name": "gift_6028601630662853006",
-      "id": "6028601630662853006"
+      "id": "6028601630662853006",
+      "custom_emoji_id": "5886273432449982290"
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
