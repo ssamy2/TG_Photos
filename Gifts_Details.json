@@ -1171,12 +1171,7 @@
       "models": "models/mood_pack/prices.json"
     }
   ],
-  "unupgraded": [],
-  "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
-  "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
-  "regular_description": "A regular gift you can send to your friends for a nominal price.",
-  "models": "models/",
-  "regular": [
+  "unupgraded": [
     {
       "full_name": "1 May",
       "short_name": "may",
@@ -1296,7 +1291,13 @@
       "short_name": "trojan_horse",
       "id": "5956308547863052791",
       "price_ton": 46.493716
-    },
+    }
+  ],
+  "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
+  "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
+  "regular_description": "A regular gift you can send to your friends for a nominal price.",
+  "models": "models/",
+  "regular": [
     {
       "full_name": "Gift 5170145012310081615",
       "short_name": "gift_5170145012310081615",
