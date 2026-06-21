@@ -12,10 +12,10 @@
     "Purple": 2.47,
     "Amber": 2.47,
     "Grape": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Rosewood": 2.47,
     "Cyberpunk": 2.52,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Fandango": 2.47,
     "Shamrock Green": 2.47,
     "Indigo Dye": 2.47,
@@ -31,9 +31,9 @@
     "Roman Silver": 2.47,
     "Electric Indigo": 2.5,
     "Lavender": 2.47,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Turquoise": 2.48,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Cobalt Blue": 2.46,
     "Cappuccino": 2.47,
     "Ivory White": 2.5,
@@ -255,7 +255,7 @@
     "Blued Steel": 26.99,
     "Candy Cane": 26.62,
     "Carpenter": 27.87,
-    "Christmas": 28.0,
+    "Christmas": 33.0,
     "Chrome": 35.0,
     "Citrine": 34.99,
     "Clubs": 31.4,
@@ -300,5 +300,5 @@
     "White Gold": 31.4,
     "Yin-Yang": 37.9
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }

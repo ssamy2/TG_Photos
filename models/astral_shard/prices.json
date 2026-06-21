@@ -20,12 +20,12 @@
     "Fandango": 2.47,
     "Navy Blue": 2.47,
     "Pacific Green": 2.47,
-    "Persimmon": 2.47,
-    "Chocolate": 2.47,
+    "Persimmon": 2.49,
+    "Chocolate": 2.48,
     "Indigo Dye": 2.47,
     "Mint Green": 2.47,
     "Sapphire": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Purple": 2.47,
     "Neon Blue": 2.47,
     "Turquoise": 2.48,
@@ -36,7 +36,7 @@
     "Platinum": 2.48,
     "Silver Blue": 2.47,
     "Hunter Green": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Lavender": 2.47,
     "Cappuccino": 2.47,
     "Shamrock Green": 2.47,
@@ -226,8 +226,8 @@
     "Tourmaline": 116.79,
     "True Opal": 192.0,
     "Uranium": 150.0,
-    "Warholite": 130.0,
+    "Warholite": 125.0,
     "White Opal": 230.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011150
 }

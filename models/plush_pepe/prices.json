@@ -22,7 +22,7 @@
     "Midnight Blue": 2.54,
     "Mint Green": 2.47,
     "Desert Sand": 2.48,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Cobalt Blue": 2.46,
     "French Blue": 2.47,
     "Platinum": 2.48,
@@ -30,7 +30,7 @@
     "Amber": 2.47,
     "Satin Gold": 2.47,
     "Caramel": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Grape": 2.47,
     "Sapphire": 2.47,
     "Sky Blue": 2.47,
@@ -53,8 +53,8 @@
     "Cappuccino": 2.47,
     "Dark Lilac": 2.47,
     "Azure Blue": 2.47,
-    "Persimmon": 2.47,
-    "Chocolate": 2.47,
+    "Persimmon": 2.49,
+    "Chocolate": 2.48,
     "Pistachio": 2.49,
     "Ivory White": 2.5,
     "Copper": 2.47
@@ -166,5 +166,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }

@@ -1,14 +1,14 @@
 {
   "backdrops": {
     "Electric Purple": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Ivory White": 2.5,
     "Tomato": 2.47,
     "Satin Gold": 2.47,
     "Amber": 2.47,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Mexican Pink": 2.54,
-    "French Violet": 2.47,
+    "French Violet": 2.48,
     "Emerald": 2.47,
     "Pure Gold": 2.47,
     "Jade Green": 2.48,
@@ -19,9 +19,9 @@
     "Purple": 2.47,
     "Light Olive": 2.48,
     "Mystic Pearl": 2.48,
-    "Fire Engine": 2.55,
+    "Fire Engine": 2.54,
     "Pacific Green": 2.47,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Roman Silver": 2.47,
     "Seal Brown": 2.5,
     "Copper": 2.47,
@@ -45,7 +45,7 @@
     "Fandango": 2.47,
     "Steel Grey": 2.49,
     "Cobalt Blue": 2.46,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Moonstone": 2.47,
     "English Violet": 2.49,
     "Grape": 2.47,
@@ -90,7 +90,7 @@
     "Anchor": 15.84,
     "Angel": 12.0,
     "Anthurium": 9.99,
-    "Apple": 16.4,
+    "Apple": 16.41,
     "Arcane Mirror": 7.71,
     "Astronaut": 10.0,
     "Balloon": 10.0,
@@ -205,7 +205,7 @@
     "Patched Heart": 22.0,
     "PC Mouse": 19.0,
     "Pencil": 22.5,
-    "Plum": 8.92,
+    "Plum": 8.56,
     "Plumeria": 8.4,
     "Polar Bear": 11.72,
     "Porrige": 8.4,
@@ -254,7 +254,7 @@
     "Worker Ant": 7.74
   },
   "models": {
-    "Art Deco": 7.4052,
+    "Art Deco": 8.0,
     "Blue Suede": 7.76,
     "Cherry": 8.3,
     "Chess Set": 30.0,
@@ -305,5 +305,5 @@
     "Vibrant": 7.5,
     "White Gold": 9.88
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }

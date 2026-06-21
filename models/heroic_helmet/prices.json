@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Pistachio": 2.49,
     "Chestnut": 2.47,
     "Silver Blue": 2.47,
@@ -22,7 +22,7 @@
     "Orange": 2.47,
     "Rosewood": 2.47,
     "Burgundy": 2.47,
-    "French Violet": 2.47,
+    "French Violet": 2.48,
     "Malachite": 2.47,
     "Ranger Green": 2.49,
     "Tomato": 2.47,
@@ -48,14 +48,14 @@
     "Tactical Pine": 2.48,
     "Light Olive": 2.48,
     "Midnight Blue": 1999.0,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Sapphire": 2.47,
     "Platinum": 2.48,
     "Neon Blue": 2.47,
     "Raspberry": 2.49,
     "Celtic Blue": 2.48,
     "Carmine": 2.6,
-    "Fire Engine": 2.55,
+    "Fire Engine": 2.54,
     "English Violet": 2.49,
     "Navy Blue": 2.47,
     "Moonstone": 2.47,
@@ -68,10 +68,10 @@
     "Rifle Green": 2.48,
     "Turquoise": 2.48,
     "Cyberpunk": 2.52,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Pure Gold": 2.47,
     "Grape": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Sky Blue": 2.47,
     "Deep Cyan": 2.49,
     "Hunter Green": 2.47,
@@ -306,5 +306,5 @@
     "Unicorn": 280.0,
     "Watermelon": 171.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011150
 }

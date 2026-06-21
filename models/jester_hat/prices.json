@@ -2,7 +2,7 @@
   "backdrops": {
     "Caramel": 2.47,
     "Hunter Green": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Fandango": 2.47,
     "Amber": 2.47,
     "Dark Lilac": 2.47,
@@ -14,7 +14,7 @@
     "Ivory White": 2.5,
     "Coral Red": 2.47,
     "Malachite": 2.47,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Raspberry": 2.49,
     "Carrot Juice": 2.47,
     "English Violet": 2.49,
@@ -37,10 +37,10 @@
     "Cobalt Blue": 2.46,
     "Satin Gold": 2.47,
     "Desert Sand": 2.48,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Lavender": 2.47,
     "Grape": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Electric Purple": 2.47,
     "Khaki Green": 2.47,
     "Silver Blue": 2.47,
@@ -59,7 +59,7 @@
     "Battleship Grey": 2.5,
     "Mystic Pearl": 2.48,
     "Black": 30.0,
-    "Onyx Black": 6.55
+    "Onyx Black": 6.6
   },
   "symbols": {
     "Acorn": 3.99,
@@ -94,7 +94,7 @@
     "Bull of Heaven": 4.77,
     "Bunny Ears": 3.99,
     "Bunny": 3.99,
-    "Burger": 2.89,
+    "Burger": 3.5,
     "Cactus": 3.9,
     "Calm Wolf": 2.93,
     "Candle": 5.0,
@@ -192,7 +192,7 @@
     "Kitsune": 2.88,
     "Knight": 2.96,
     "Koala": 3.99,
-    "Ladybug": 2.89,
+    "Ladybug": 3.99,
     "Leaf": 3.99,
     "Lemon Slice": 4.0,
     "Lemon": 6.3,
@@ -204,7 +204,7 @@
     "Lion King": 3.5,
     "Love Letter": 3.49,
     "Love Lock": 6.59,
-    "Lovely Kiss": 4.95,
+    "Lovely Kiss": 4.96,
     "Mafdet": 4.0,
     "Magic Wand": 2.93,
     "Mannaz Rune": 4.7,
@@ -271,7 +271,7 @@
     "Shark Knife": 3.3,
     "Sharp Sword": 3.19,
     "Shell": 3.5,
-    "Shield": 2.89,
+    "Shield": 4.79,
     "Shooting Star": 2.93,
     "Skull": 3.09,
     "Smartphone": 3.35,
@@ -382,7 +382,7 @@
     "Mind Blown": 5.0,
     "Moonlit": 3.2,
     "Motley Fool": 2.84,
-    "Mystery Mask": 3.17,
+    "Mystery Mask": 3.18,
     "Neon Night": 4.44,
     "Neon White": 5.0,
     "Night Bounce": 3.44,
@@ -421,5 +421,5 @@
     "Сourt Jester": 3.7,
     "Wanna Play?": 25.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }

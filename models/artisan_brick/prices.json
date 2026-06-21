@@ -5,7 +5,7 @@
     "Indigo Dye": 2.47,
     "Purple": 2.47,
     "Gunship Green": 2.49,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Light Olive": 2.48,
     "Carrot Juice": 2.47,
     "Khaki Green": 2.47,
@@ -16,9 +16,9 @@
     "Roman Silver": 2.47,
     "Mexican Pink": 2.54,
     "Moonstone": 2.47,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Tomato": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Rifle Green": 2.48,
     "Pure Gold": 2.47,
     "Raspberry": 2.49,
@@ -31,11 +31,11 @@
     "Cappuccino": 2.47,
     "Cobalt Blue": 2.46,
     "Seal Brown": 2.5,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Feldgrau": 2.5,
     "Jade Green": 2.48,
     "Copper": 2.47,
-    "Fire Engine": 2.55,
+    "Fire Engine": 2.54,
     "Celtic Blue": 2.48,
     "Sapphire": 2.47,
     "Azure Blue": 2.47,
@@ -64,7 +64,7 @@
     "Malachite": 2.47,
     "Dark Green": 2.47,
     "Ranger Green": 2.49,
-    "French Violet": 2.47,
+    "French Violet": 2.48,
     "Emerald": 2.47,
     "Orange": 2.47,
     "Gunmetal": 2.53,
@@ -209,7 +209,7 @@
     "Piranha": 139.0,
     "Plum": 60.0,
     "Plume Shako": 120.0,
-    "Polar Bear": 50.0,
+    "Polar Bear": 49.98,
     "Pomegranate": 80.0,
     "Porrige": 125.0,
     "Press Hat": 200.0,
@@ -262,7 +262,7 @@
     "Yin-Yang": 250.0
   },
   "models": {
-    "Art Nouveau": 55.0,
+    "Art Nouveau": 54.8,
     "Big Cubus": 109.0,
     "Bomb Planted": 138.0,
     "Brick 3310": 160.0,
@@ -324,5 +324,5 @@
     "Gold Bar": 1777.0,
     "Escher’s Cube": 56.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011150
 }

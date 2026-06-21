@@ -9,7 +9,7 @@
     "Pistachio": 2.49,
     "Desert Sand": 2.48,
     "Mint Green": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Cobalt Blue": 2.46,
     "Amber": 2.47,
     "Aquamarine": 2.47,
@@ -24,14 +24,14 @@
     "Turquoise": 2.48,
     "French Blue": 2.47,
     "Azure Blue": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Fandango": 2.47,
     "Coral Red": 2.47,
     "Mystic Pearl": 2.48,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "English Violet": 2.49,
     "Grape": 2.47,
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Purple": 2.47,
     "Indigo Dye": 2.47,
     "Khaki Green": 2.47,
@@ -132,7 +132,7 @@
     "Fishing Hook": 43.0,
     "Flag": 44.0,
     "Flaming Heart": 56.0,
-    "Fleur-de-lis": 30.42,
+    "Fleur-de-lis": 34.95,
     "Flirty Message": 33.0,
     "Flower Tulip": 52.0,
     "Flower": 79.0,
@@ -389,5 +389,5 @@
     "Wizard": 35.0,
     "Zebra": 33.29
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }

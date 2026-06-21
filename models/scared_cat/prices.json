@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Chocolate": 2.47,
+    "Chocolate": 2.48,
     "Dark Lilac": 2.47,
     "Mint Green": 2.47,
     "Silver Blue": 2.47,
@@ -10,11 +10,11 @@
     "Light Olive": 2.48,
     "Shamrock Green": 2.47,
     "Carrot Juice": 2.47,
-    "Lemongrass": 2.47,
+    "Lemongrass": 2.49,
     "Pure Gold": 2.47,
     "Cyberpunk": 2.52,
     "Burgundy": 2.47,
-    "Persimmon": 2.47,
+    "Persimmon": 2.49,
     "Pistachio": 2.49,
     "Desert Sand": 2.48,
     "Caramel": 2.47,
@@ -55,7 +55,7 @@
     "English Violet": 2.49,
     "Indigo Dye": 2.47,
     "Copper": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.46,
     "Midnight Blue": 390.0,
     "Raspberry": 2.49,
     "Black": 1800.0,
@@ -68,6 +68,7 @@
     "Ram of Amun": 153.95,
     "Gem": 220.0,
     "Scarab": 275.0,
+    "Unicorn": 250.0,
     "Anchor": 1490.0,
     "Autumn Leaves": 151.99,
     "Baphomet": 430.0,
@@ -158,10 +159,9 @@
     "Strawberry": 195.0,
     "Sword": 500.0,
     "The Eye": 8888.0,
-    "Treats": 177.0,
+    "Treats": 170.0,
     "Tribal Shield": 422.0,
     "UFO": 222.54,
-    "Unicorn": 250.0,
     "Viking": 1999.0,
     "Voodoo Doll": 169.0,
     "Witch's Hat": 228.0,
@@ -182,7 +182,7 @@
     "Chili Whisk": 175.0,
     "Cookie": 180.0,
     "Copperclaw": 158.99,
-    "Creeper": 170.0,
+    "Creeper": 179.0,
     "El Tigre": 177.0,
     "Endercat": 245.0,
     "Esmeralda": 180.0,
@@ -219,5 +219,5 @@
     "Weedcat": 155.0,
     "Yolkster": 350.0
   },
-  "last_updated": 1782007315
+  "last_updated": 1782011151
 }
