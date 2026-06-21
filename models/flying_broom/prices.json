@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Lavender": 2.47,
-    "Electric Purple": 2.47,
+    "Electric Purple": 2.48,
     "Light Olive": 2.48,
     "Mystic Pearl": 2.48,
     "English Violet": 2.47,
@@ -10,7 +10,7 @@
     "Azure Blue": 2.47,
     "Neon Blue": 2.47,
     "Pacific Green": 2.47,
-    "Navy Blue": 2.48,
+    "Navy Blue": 2.49,
     "Platinum": 2.47,
     "Burgundy": 2.47,
     "Lemongrass": 2.49,
@@ -23,14 +23,14 @@
     "Cappuccino": 2.47,
     "Rosewood": 2.47,
     "Desert Sand": 2.48,
-    "Sapphire": 2.46,
-    "Turquoise": 2.47,
+    "Sapphire": 2.47,
+    "Turquoise": 2.48,
     "Cyberpunk": 2.52,
     "Orange": 2.47,
     "Moonstone": 2.47,
     "Hunter Green": 2.47,
     "Satin Gold": 2.47,
-    "Steel Grey": 2.46,
+    "Steel Grey": 2.51,
     "Coral Red": 2.47,
     "Jade Green": 2.48,
     "Pure Gold": 2.47,
@@ -45,7 +45,7 @@
     "Dark Lilac": 2.47,
     "Chestnut": 2.47,
     "Aquamarine": 2.47,
-    "Emerald": 2.47,
+    "Emerald": 2.5,
     "Caramel": 2.47,
     "Strawberry": 2.47,
     "Copper": 2.47,
@@ -192,7 +192,7 @@
   },
   "models": {
     "Berry Blaster": 9.5,
-    "Bronze Dash": 10.5,
+    "Bronze Dash": 8.56,
     "Bubble Broom": 10.0,
     "Bunny Broom": 8.9,
     "Bunsen Burner": 10.0,
@@ -200,7 +200,7 @@
     "Chroma": 9.0,
     "Color Shift": 11.99,
     "Colorless": 8.9,
-    "Dark Pine": 8.58,
+    "Dark Pine": 8.53,
     "Dusk Duster": 9.9,
     "Emergency": 9.9,
     "Emoji Engine": 9.0,
@@ -235,7 +235,7 @@
     "Thunder": 9.89,
     "Tokyo Torch": 10.95,
     "Unreliable": 13.5,
-    "Vineyard": 8.59,
+    "Vineyard": 8.63,
     "Visionary": 9.4,
     "Warm Oak": 11.0,
     "Yellowtail": 8.9,
@@ -243,5 +243,5 @@
     "Zippy Hearts": 17.99,
     "Santa’s Stick": 8.8
   },
-  "last_updated": 1782022908
+  "last_updated": 1782026913
 }

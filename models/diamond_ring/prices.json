@@ -2,7 +2,7 @@
   "backdrops": {
     "Lemongrass": 2.49,
     "Mystic Pearl": 2.48,
-    "Steel Grey": 2.46,
+    "Steel Grey": 2.51,
     "Hunter Green": 2.47,
     "Moonstone": 2.47,
     "Orange": 2.47,
@@ -14,9 +14,9 @@
     "Jade Green": 2.48,
     "Dark Lilac": 2.47,
     "Platinum": 2.47,
-    "Sapphire": 2.46,
+    "Sapphire": 2.47,
     "Chocolate": 2.48,
-    "Emerald": 2.47,
+    "Emerald": 2.5,
     "Copper": 2.47,
     "Midnight Blue": 35.0,
     "Malachite": 2.47,
@@ -24,7 +24,7 @@
     "Ivory White": 2.5,
     "Raspberry": 2.49,
     "Coral Red": 2.47,
-    "Turquoise": 2.47,
+    "Turquoise": 2.48,
     "Indigo Dye": 2.47,
     "Light Olive": 2.48,
     "Cappuccino": 2.47,
@@ -42,7 +42,7 @@
     "Aquamarine": 2.47,
     "Desert Sand": 2.48,
     "Strawberry": 2.47,
-    "Electric Purple": 2.47,
+    "Electric Purple": 2.48,
     "Fandango": 2.47,
     "Burgundy": 2.47,
     "Electric Indigo": 2.5,
@@ -53,7 +53,7 @@
     "Carrot Juice": 2.47,
     "Cyberpunk": 2.52,
     "Pacific Cyan": 2.47,
-    "Navy Blue": 2.48,
+    "Navy Blue": 2.49,
     "French Blue": 2.47,
     "Cobalt Blue": 2.47,
     "Pure Gold": 2.47,
@@ -342,7 +342,7 @@
     "Yogi Shaman": 40.0
   },
   "models": {
-    "Acid Green": 25.82,
+    "Acid Green": 29.0,
     "Amethyst": 37.9,
     "Arabian Night": 30.0,
     "Aurora": 35.0,
@@ -364,7 +364,7 @@
     "Citrus Shift": 25.79,
     "Clam Shell": 32.0,
     "Cobalt Rose": 37.0,
-    "Cold Desire": 55.0,
+    "Cold Desire": 53.0,
     "Cold Fusion": 36.49,
     "Color Blocks": 26.0,
     "Color Chaos": 29.0,
@@ -383,7 +383,7 @@
     "Fireball": 33.0,
     "Firestorm": 38.0,
     "Flamingo": 30.0,
-    "Forest Lake": 26.19,
+    "Forest Lake": 26.99,
     "Freehand": 28.99,
     "Frostband": 199.0,
     "Glamour": 25.97,
@@ -443,5 +443,5 @@
     "Water Lily": 26.95,
     "Whirlpool": 28.92
   },
-  "last_updated": 1782022908
+  "last_updated": 1782026913
 }
