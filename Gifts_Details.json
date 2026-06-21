@@ -1364,7 +1364,7 @@
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
-      "price_ton": 13.0
+      "price_ton": 12.0
     },
     {
       "full_name": "REDO",
@@ -1391,7 +1391,7 @@
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
       "id": "6001229799790478558",
-      "price_ton": 61.9685,
+      "price_ton": 61.8202,
       "custom_emoji_id": "5891122557901351876"
     },
     {
@@ -1412,7 +1412,7 @@
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
       "id": "6001425315291727333",
-      "price_ton": 69.96275,
+      "price_ton": 69.40408,
       "custom_emoji_id": "5890786206127496579"
     },
     {
@@ -1484,7 +1484,7 @@
       "id": "6028601630662853006"
     }
   ],
-  "last_updated": 1782057999,
+  "last_updated": 1782067213,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
