@@ -26,7 +26,7 @@
     "Cobalt Blue": 2.47,
     "French Blue": 2.47,
     "Platinum": 2.47,
-    "Steel Grey": 2.47,
+    "Steel Grey": 2.46,
     "Amber": 2.47,
     "Satin Gold": 2.47,
     "Caramel": 2.47,
@@ -42,12 +42,12 @@
     "Raspberry": 2.49,
     "Emerald": 2.47,
     "Malachite": 2.47,
-    "Turquoise": 2.48,
+    "Turquoise": 2.47,
     "Silver Blue": 2.47,
     "Roman Silver": 2.47,
     "Moonstone": 2.47,
     "Light Olive": 2.48,
-    "Navy Blue": 2.49,
+    "Navy Blue": 2.48,
     "Mystic Pearl": 2.48,
     "Carrot Juice": 2.47,
     "Cappuccino": 2.47,
@@ -166,5 +166,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1782018942
+  "last_updated": 1782022908
 }

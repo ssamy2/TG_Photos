@@ -10,7 +10,7 @@
     "Azure Blue": 2.47,
     "Neon Blue": 2.47,
     "Pacific Green": 2.47,
-    "Navy Blue": 2.49,
+    "Navy Blue": 2.48,
     "Platinum": 2.47,
     "Burgundy": 2.47,
     "Lemongrass": 2.49,
@@ -24,13 +24,13 @@
     "Rosewood": 2.47,
     "Desert Sand": 2.48,
     "Sapphire": 2.46,
-    "Turquoise": 2.48,
+    "Turquoise": 2.47,
     "Cyberpunk": 2.52,
     "Orange": 2.47,
     "Moonstone": 2.47,
     "Hunter Green": 2.47,
     "Satin Gold": 2.47,
-    "Steel Grey": 2.47,
+    "Steel Grey": 2.46,
     "Coral Red": 2.47,
     "Jade Green": 2.48,
     "Pure Gold": 2.47,
@@ -224,7 +224,7 @@
     "Ravenclaw": 10.0,
     "Red Rotation": 9.0,
     "RGB Branch": 12.0,
-    "Rosy Rocket": 11.0,
+    "Rosy Rocket": 9.9,
     "Santa's Stick": 9.42,
     "Scribbler": 8.8,
     "Sleep Sweeper": 11.0,
@@ -243,5 +243,5 @@
     "Zippy Hearts": 17.99,
     "Santa’s Stick": 8.8
   },
-  "last_updated": 1782018942
+  "last_updated": 1782022908
 }

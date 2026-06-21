@@ -9,7 +9,7 @@
     "Pacific Green": 2.47,
     "Orange": 2.47,
     "Khaki Green": 2.47,
-    "Navy Blue": 2.49,
+    "Navy Blue": 2.48,
     "Pistachio": 2.49,
     "Roman Silver": 2.47,
     "Burgundy": 2.47,
@@ -52,13 +52,13 @@
     "Chocolate": 2.48,
     "Jade Green": 2.48,
     "Strawberry": 2.47,
-    "Turquoise": 2.48,
-    "Steel Grey": 2.47,
+    "Turquoise": 2.47,
+    "Steel Grey": 2.46,
     "Purple": 2.47,
     "Mint Green": 2.47,
     "Hunter Green": 2.47,
     "Cappuccino": 2.47,
-    "Black": 21.49,
+    "Black": 21.4,
     "Onyx Black": 6.98
   },
   "symbols": {
@@ -144,7 +144,7 @@
     "Moon Eagle": 2.99,
     "Mountain Goat": 3.5,
     "Mustache": 4.0,
-    "New Year’s Eve": 3.63,
+    "New Year’s Eve": 3.3,
     "Nordic Wolf": 3.4,
     "Oak Leaf": 5.89,
     "Oculus": 3.61,
@@ -295,5 +295,5 @@
     "Waffle": 3.3,
     "White Gold": 6.7
   },
-  "last_updated": 1782018942
+  "last_updated": 1782022908
 }
