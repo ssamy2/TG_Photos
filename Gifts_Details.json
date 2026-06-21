@@ -591,7 +591,8 @@
       "portal_price_ton": 39.49,
       "getgems_price_ton": 39.49,
       "tgmrkt_price_ton": 38.65,
-      "models": "models/low_rider/prices.json"
+      "models": "models/low_rider/prices.json",
+      "custom_emoji_id": "5890821656787557728"
     },
     {
       "full_name": "Lunar Snake",
@@ -1225,7 +1226,8 @@
       "portal_price_ton": 2.47,
       "getgems_price_ton": 2.56,
       "tgmrkt_price_ton": 2.48,
-      "models": "models/vice_cream/prices.json"
+      "models": "models/vice_cream/prices.json",
+      "custom_emoji_id": "5890913891210239220"
     },
     {
       "full_name": "Chill Flame",
@@ -1246,7 +1248,8 @@
       "portal_price_ton": 3.3,
       "getgems_price_ton": 3.2,
       "tgmrkt_price_ton": 3.18,
-      "models": "models/mood_pack/prices.json"
+      "models": "models/mood_pack/prices.json",
+      "custom_emoji_id": "5890824268127674067"
     },
     {
       "full_name": "Rare Bird",
