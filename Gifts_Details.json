@@ -1298,7 +1298,7 @@
       "full_name": "Airplane",
       "short_name": "airplane",
       "id": "5818708013426410448",
-      "price_ton": 5120.5,
+      "price_ton": 4500.0,
       "custom_emoji_id": "5890749260818815894"
     },
     {
@@ -1319,7 +1319,7 @@
       "full_name": "Coffin",
       "short_name": "coffin",
       "id": "5776227780391864916",
-      "price_ton": 17.138,
+      "price_ton": 15.99,
       "custom_emoji_id": "5891098991415794702"
     },
     {
@@ -1333,7 +1333,7 @@
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
       "id": "6003477390536213997",
-      "price_ton": 1197.9968,
+      "price_ton": 945.0,
       "custom_emoji_id": "5891118327358562426"
     },
     {
@@ -1354,7 +1354,7 @@
       "full_name": "Gravestone",
       "short_name": "gravestone",
       "id": "5775955135867913556",
-      "price_ton": 40.645318,
+      "price_ton": 41.5,
       "custom_emoji_id": "5891103754534526296"
     },
     {
@@ -1368,7 +1368,7 @@
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
-      "price_ton": 12.0
+      "price_ton": 14.0
     },
     {
       "full_name": "REDO",
@@ -1395,7 +1395,7 @@
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
       "id": "6001229799790478558",
-      "price_ton": 61.31385,
+      "price_ton": 65.0,
       "custom_emoji_id": "5891122557901351876"
     },
     {
@@ -1416,14 +1416,14 @@
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
       "id": "6001425315291727333",
-      "price_ton": 69.31665,
+      "price_ton": 60.0,
       "custom_emoji_id": "5890786206127496579"
     },
     {
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
       "id": "5956308547863052791",
-      "price_ton": 50.2656,
+      "price_ton": 70.0,
       "custom_emoji_id": "5890736483291110891"
     }
   ],
@@ -1488,7 +1488,7 @@
       "id": "6028601630662853006"
     }
   ],
-  "last_updated": 1782132381,
+  "last_updated": 1782135046,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
