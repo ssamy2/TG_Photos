@@ -245,7 +245,8 @@
       "portal_price_ton": 3.71,
       "getgems_price_ton": 4.19,
       "tgmrkt_price_ton": 3.91,
-      "models": "models/faith_amulet/prices.json"
+      "models": "models/faith_amulet/prices.json",
+      "custom_emoji_id": "5893241437067156619"
     },
     {
       "full_name": "Flying Broom",
