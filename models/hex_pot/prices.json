@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Platinum": 2.47,
-    "Navy Blue": 2.46,
-    "Strawberry": 2.46,
+    "Navy Blue": 2.44,
+    "Strawberry": 2.47,
     "Sky Blue": 2.48,
     "Carrot Juice": 2.45,
     "Satin Gold": 2.45,
@@ -22,9 +22,9 @@
     "Pistachio": 2.47,
     "Moonstone": 2.46,
     "Hunter Green": 2.47,
-    "Mystic Pearl": 2.46,
+    "Mystic Pearl": 2.44,
     "French Blue": 2.47,
-    "Coral Red": 2.45,
+    "Coral Red": 2.46,
     "Fandango": 2.48,
     "Ivory White": 2.47,
     "Aquamarine": 2.47,
@@ -39,13 +39,13 @@
     "Light Olive": 2.47,
     "Chestnut": 2.47,
     "Indigo Dye": 2.47,
-    "Grape": 2.45,
+    "Grape": 2.46,
     "Dark Lilac": 2.47,
     "Malachite": 2.47,
     "Turquoise": 2.47,
     "Cobalt Blue": 2.47,
     "Chocolate": 2.47,
-    "Lavender": 2.47,
+    "Lavender": 2.45,
     "Sapphire": 2.48,
     "Electric Purple": 2.48,
     "Cyberpunk": 2.46,
@@ -57,7 +57,7 @@
     "Emerald": 2.47,
     "Desert Sand": 2.48,
     "Neon Blue": 2.47,
-    "Copper": 2.46,
+    "Copper": 2.44,
     "Black": 22.99,
     "Onyx Black": 7.7
   },
@@ -230,7 +230,7 @@
     "Felix Felicis": 13.29,
     "Fine Wine": 4.45,
     "Fire Storm": 8.55,
-    "Firefly": 3.5,
+    "Firefly": 3.45,
     "Full Moon": 3.6,
     "Golden Glow": 4.0,
     "Greenwitch": 4.54,
@@ -282,5 +282,5 @@
     "Violet Veil": 5.5,
     "Witchy": 3.5
   },
-  "last_updated": 1782099262
+  "last_updated": 1782103454
 }

@@ -3,7 +3,7 @@
     "Turquoise": 2.47,
     "Pine Green": 2.47,
     "Persimmon": 2.47,
-    "Lavender": 2.47,
+    "Lavender": 2.45,
     "Pacific Green": 2.47,
     "Azure Blue": 2.47,
     "Cobalt Blue": 2.47,
@@ -11,7 +11,7 @@
     "Electric Indigo": 2.48,
     "Pistachio": 2.47,
     "Satin Gold": 2.45,
-    "Mystic Pearl": 2.46,
+    "Mystic Pearl": 2.44,
     "Steel Grey": 2.47,
     "Midnight Blue": 9.0,
     "Fandango": 2.48,
@@ -19,12 +19,12 @@
     "Pure Gold": 2.45,
     "Silver Blue": 2.48,
     "Cyberpunk": 2.46,
-    "Copper": 2.46,
+    "Copper": 2.44,
     "Ivory White": 2.47,
     "Cappuccino": 2.47,
     "Orange": 2.49,
     "Aquamarine": 2.47,
-    "Strawberry": 2.46,
+    "Strawberry": 2.47,
     "Sapphire": 2.48,
     "Malachite": 2.47,
     "Moonstone": 2.46,
@@ -34,9 +34,9 @@
     "Light Olive": 2.47,
     "Raspberry": 2.47,
     "Rosewood": 2.47,
-    "Coral Red": 2.45,
+    "Coral Red": 2.46,
     "Dark Lilac": 2.47,
-    "Navy Blue": 2.46,
+    "Navy Blue": 2.44,
     "Pacific Cyan": 2.46,
     "Sky Blue": 2.48,
     "Khaki Green": 2.47,
@@ -47,7 +47,7 @@
     "Indigo Dye": 2.47,
     "Caramel": 2.45,
     "Mint Green": 2.47,
-    "Grape": 2.45,
+    "Grape": 2.46,
     "Chocolate": 2.47,
     "Chestnut": 2.47,
     "Emerald": 2.47,
@@ -58,7 +58,7 @@
     "Platinum": 2.47,
     "Roman Silver": 2.48,
     "Burgundy": 2.45,
-    "Black": 33.0,
+    "Black": 35.0,
     "Onyx Black": 10.0
   },
   "symbols": {
@@ -220,7 +220,7 @@
     "Sweets Box": 7.0,
     "Toilet Paper": 7.5,
     "Tooth": 9.5,
-    "Top Hat": 9.18,
+    "Top Hat": 9.19,
     "Totem Bear": 15.0,
     "Tree of Life": 13.0,
     "Trophy": 10.5,
@@ -230,7 +230,7 @@
     "Venetian Mask": 15.0,
     "Wasp": 6.3,
     "Water Drops": 7.0,
-    "Watermelon": 11.73,
+    "Watermelon": 11.74,
     "Wreath": 14.0
   },
   "models": {
@@ -305,5 +305,5 @@
     "White Cocoa": 7.99,
     "Zomberry": 7.0
   },
-  "last_updated": 1782099262
+  "last_updated": 1782103454
 }
