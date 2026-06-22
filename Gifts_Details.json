@@ -1374,7 +1374,7 @@
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
-      "price_ton": 14.9
+      "price_ton": 15.0
     },
     {
       "full_name": "REDO",
@@ -1487,7 +1487,7 @@
       "id": "6028601630662853006"
     }
   ],
-  "last_updated": 1782150362,
+  "last_updated": 1782152926,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
