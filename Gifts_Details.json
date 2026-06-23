@@ -1596,6 +1596,24 @@
         "5832497899283415733"
       ],
       "models": "models/upgraded_surfboard/prices.json"
+    },
+    {
+      "full_name": "Upgraded Chill Flame",
+      "short_name": "upgraded_chill_flame",
+      "regular_id": "5999277561060787166",
+      "custom_emoji_id": "5891147576085847661"
+    },
+    {
+      "full_name": "Upgraded Mood Pack",
+      "short_name": "upgraded_mood_pack",
+      "regular_id": "5886756255493523118",
+      "custom_emoji_id": "5890917636421721347"
+    },
+    {
+      "full_name": "Rare Bird",
+      "short_name": "rare_bird",
+      "regular_id": "5999116401002939514",
+      "custom_emoji_id": "5893391945606110355"
     }
   ],
   "unupgraded": [
@@ -1730,25 +1748,6 @@
       "id": "5956308547863052791",
       "price_ton": 70.0,
       "custom_emoji_id": "5890736483291110891"
-    },
-    {
-      "full_name": "Chill Flame",
-      "short_name": "chill_flame",
-      "id": "5999277561060787166",
-      "custom_emoji_id": "5891147576085847661"
-    },
-    {
-      "full_name": "Mood Pack",
-      "short_name": "mood_pack",
-      "id": "5886756255493523118",
-      "custom_emoji_id": "5890917636421721347",
-      "price_ton": 3.0
-    },
-    {
-      "full_name": "Rare Bird",
-      "short_name": "rare_bird",
-      "id": "5999116401002939514",
-      "custom_emoji_id": "5893391945606110355"
     },
     {
       "full_name": "Gift 5897607679345427347",
