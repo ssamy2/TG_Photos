@@ -1734,22 +1734,26 @@
     {
       "full_name": "Chill Flame",
       "short_name": "chill_flame",
-      "id": "5999277561060787166"
+      "id": "5999277561060787166",
+      "custom_emoji_id": "5891147576085847661"
     },
     {
       "full_name": "Mood Pack",
       "short_name": "mood_pack",
-      "id": "5886756255493523118"
+      "id": "5886756255493523118",
+      "custom_emoji_id": "5890917636421721347"
     },
     {
       "full_name": "Rare Bird",
       "short_name": "rare_bird",
-      "id": "5999116401002939514"
+      "id": "5999116401002939514",
+      "custom_emoji_id": "5893391945606110355"
     },
     {
       "full_name": "Gift 5897607679345427347",
       "short_name": "gift_5897607679345427347",
-      "id": "5897607679345427347"
+      "id": "5897607679345427347",
+      "custom_emoji_id": "5890913891210239220"
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
