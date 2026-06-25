@@ -516,7 +516,8 @@
       "full_name": "Khabib’s Papakha",
       "short_name": "khabibs_papakha",
       "regular_id": "5839094187366024301",
-      "custom_emoji_id": "5890852395868496901"
+      "custom_emoji_id": "5890852395868496901",
+      "models": "models/khabibs_papakha/prices.json"
     },
     {
       "full_name": "Kissed Frog",
