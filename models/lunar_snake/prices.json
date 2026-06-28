@@ -2,7 +2,7 @@
   "backdrops": {
     "Indigo Dye": 2.48,
     "Lemongrass": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Aquamarine": 2.48,
     "Sky Blue": 2.48,
     "Electric Purple": 2.48,
@@ -36,7 +36,7 @@
     "Purple": 2.48,
     "Mint Green": 2.48,
     "Persimmon": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Mystic Pearl": 2.48,
     "Roman Silver": 2.48,
     "Silver Blue": 2.48,
@@ -44,7 +44,7 @@
     "Electric Indigo": 2.5,
     "Coral Red": 2.49,
     "Fandango": 2.5,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Caramel": 2.5,
     "Malachite": 2.48,
     "Light Olive": 2.48,
@@ -57,7 +57,7 @@
     "Chocolate": 2.48,
     "Chestnut": 2.49,
     "Navy Blue": 2.49,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Black": 18.5,
     "Onyx Black": 5.79
   },
@@ -89,7 +89,7 @@
     "Clover": 2.6,
     "Coat of Arms": 2.5,
     "Cobra": 3.0,
-    "Cocktail": 2.65,
+    "Cocktail": 2.53,
     "Coconut": 5.0,
     "Coffee Bean": 8.4,
     "Coin Purse": 2.48,
@@ -97,7 +97,7 @@
     "Cone": 2.8,
     "Cookie": 2.6,
     "Corn": 2.8,
-    "Crab": 4.55,
+    "Crab": 4.31,
     "Crusader": 2.69,
     "Crystal Ball": 2.51,
     "Cupcake": 2.7,
@@ -117,7 +117,7 @@
     "Fireworks": 2.5,
     "Fish Skeleton": 4.99,
     "Fleur-de-lis": 2.52,
-    "Flower": 3.22,
+    "Flower": 3.21,
     "Gift Box": 2.5,
     "Gingerbread": 2.5,
     "Hand of God": 3.34,
@@ -190,7 +190,7 @@
     "Thief": 2.66,
     "Tribal Shield": 3.0,
     "Tulip": 2.9,
-    "Turtle": 2.52,
+    "Turtle": 2.54,
     "UFO": 10.0,
     "Venetian Mask": 3.0,
     "Viking": 2.9,
@@ -200,7 +200,7 @@
     "Wolf Rage": 2.95
   },
   "models": {
-    "Adhesive": 2.54,
+    "Adhesive": 2.47,
     "Albino": 2.5,
     "Amber Adder": 2.52,
     "Amethyssst": 2.53,
@@ -236,7 +236,7 @@
     "Gold Quartz": 2.6,
     "Gold Rush": 2.59,
     "Golden Bleu": 2.8,
-    "Golden Coal": 2.58,
+    "Golden Coal": 2.47,
     "Golden Sky": 2.48,
     "Green Flakes": 2.47,
     "Green Viper": 2.6,
@@ -288,7 +288,7 @@
     "Sun Serpent": 2.51,
     "Sunset Snake": 2.55,
     "Super Hot": 2.49,
-    "Synthwave": 14.54,
+    "Synthwave": 14.52,
     "Taipei": 2.52,
     "The Deadliest": 2.49,
     "Timelock": 3.49,
@@ -299,7 +299,7 @@
     "White Grape": 2.48,
     "Wood Snake": 2.49,
     "Xenomorph": 6.0,
-    "Yellow Cobra": 2.7
+    "Yellow Cobra": 2.47
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

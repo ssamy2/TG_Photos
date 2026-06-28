@@ -1,12 +1,12 @@
 {
   "backdrops": {
     "Neon Blue": 2.48,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Lavender": 2.48,
     "Roman Silver": 2.48,
     "Jade Green": 2.48,
     "Pine Green": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Hunter Green": 2.5,
     "Electric Indigo": 2.5,
     "Purple": 2.48,
@@ -14,13 +14,13 @@
     "Navy Blue": 2.49,
     "Electric Purple": 2.48,
     "Chocolate": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Turquoise": 2.48,
     "Sky Blue": 2.48,
     "Satin Gold": 2.48,
     "Desert Sand": 2.48,
     "Malachite": 2.48,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Sapphire": 2.5,
     "Amber": 2.47,
     "Pistachio": 2.48,
@@ -179,12 +179,12 @@
     "Sword": 23.0,
     "Totem Bear": 20.0,
     "Treats": 11.0,
-    "Tulip": 10.28,
-    "UFO": 10.7,
+    "Tulip": 9.92,
+    "UFO": 10.34,
     "Unicorn Head": 25.0,
     "Venetian Mask": 15.0,
     "Voodoo Doll": 11.0,
-    "Vortex": 24.83,
+    "Vortex": 24.82,
     "Witch’s Hat": 11.03,
     "Yogi Shaman": 30.0
   },
@@ -226,7 +226,7 @@
     "Pink Panther": 15.0,
     "Poor Kitty": 20.0,
     "Prophet": 9.27,
-    "Rainbow": 9.26,
+    "Rainbow": 9.32,
     "Red Skull": 9.72,
     "Refreshing": 9.85,
     "Samhain": 9.97,
@@ -245,5 +245,5 @@
     "Wednesday": 20.0,
     "World Cup": 34.5
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

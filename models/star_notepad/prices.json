@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Platinum": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Rosewood": 2.48,
     "Indigo Dye": 2.48,
     "Fandango": 2.5,
@@ -27,13 +27,13 @@
     "Malachite": 2.48,
     "Electric Purple": 2.48,
     "Pacific Green": 2.48,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Electric Indigo": 2.5,
     "Mystic Pearl": 2.48,
     "Cappuccino": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Mint Green": 2.48,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Purple": 2.48,
     "English Violet": 2.5,
     "Amber": 2.47,
@@ -168,7 +168,7 @@
     "Handset": 4.49,
     "Heater Shield": 4.6,
     "Heraldic Lily": 4.5,
-    "Hermit Shell": 5.54,
+    "Hermit Shell": 5.55,
     "Holy Grail": 7.83,
     "Horn": 60.0,
     "Hot Matcha": 3.58,
@@ -255,7 +255,7 @@
     "Sea Jelly": 5.7,
     "Seahorse": 4.3,
     "Serpent": 5.18,
-    "Shark Knife": 4.4,
+    "Shark Knife": 3.9,
     "Sharp Sword": 4.85,
     "Shell": 4.2,
     "Shield": 4.0,
@@ -351,7 +351,7 @@
     "Indigo": 4.02,
     "Inferno": 9.4,
     "Ink Splatter": 3.59,
-    "Joker's Notes": 3.63,
+    "Joker's Notes": 3.54,
     "King Arthur": 4.2,
     "Le Club": 4.6,
     "Leather": 3.4,
@@ -410,7 +410,7 @@
     "Trade Ledger": 8.47,
     "Tropical": 3.45,
     "True Love": 30.0,
-    "Tutti Frutti": 3.4,
+    "Tutti Frutti": 3.45,
     "Twin Stars": 3.55,
     "Vice City": 3.49,
     "Vineyard": 4.2,
@@ -419,5 +419,5 @@
     "Côte d’Azur": 3.4,
     "Joker’s Notes": 3.4
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

@@ -2,7 +2,7 @@
   "backdrops": {
     "Emerald": 2.5,
     "Roman Silver": 2.48,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Jade Green": 2.48,
     "Seal Brown": 2.48,
     "Sky Blue": 2.48,
@@ -40,13 +40,13 @@
     "Lemongrass": 2.48,
     "Cappuccino": 2.48,
     "Turquoise": 2.48,
-    "Marine Blue": 2.5,
+    "Marine Blue": 2.48,
     "Rifle Green": 2.5,
     "Camo Green": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Pacific Green": 2.48,
     "Rosewood": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Burnt Sienna": 2.5,
     "Aquamarine": 2.48,
     "Dark Lilac": 2.48,
@@ -59,7 +59,7 @@
     "Chocolate": 2.48,
     "French Blue": 2.48,
     "Gunmetal": 2.6,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Fandango": 2.5,
     "Gunship Green": 2.48,
     "Indigo Dye": 2.48,
@@ -83,7 +83,7 @@
   },
   "symbols": {},
   "models": {
-    "Adventure": 4.37,
+    "Adventure": 4.35,
     "Alcatraz": 3.18,
     "Ambition": 3.18,
     "Ballerina": 4.0,
@@ -116,7 +116,7 @@
     "Patriot": 3.35,
     "Peg Leg": 3.25,
     "Pepe Socks": 11.89,
-    "Puppet Master": 5.5,
+    "Puppet Master": 5.49,
     "Quest Item": 3.4,
     "Radioactive": 3.37,
     "Ratatouille": 3.35,
@@ -134,5 +134,5 @@
     "Trader": 4.5,
     "Twin Peaks": 3.58
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

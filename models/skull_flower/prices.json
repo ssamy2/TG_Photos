@@ -15,7 +15,7 @@
     "Azure Blue": 2.48,
     "Jade Green": 2.48,
     "Raspberry": 2.48,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Copper": 2.48,
     "Moonstone": 2.47,
     "Dark Lilac": 2.48,
@@ -27,9 +27,9 @@
     "Neon Blue": 2.48,
     "Coral Red": 2.49,
     "Pine Green": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Cyberpunk": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Light Olive": 2.48,
     "Pistachio": 2.48,
     "Rosewood": 2.48,
@@ -42,7 +42,7 @@
     "Orange": 2.48,
     "Midnight Blue": 17.0,
     "Fandango": 2.5,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Cobalt Blue": 2.48,
     "Emerald": 2.5,
     "Roman Silver": 2.48,
@@ -304,7 +304,7 @@
     "Health Risk": 16.24,
     "Hypercolor": 9.4,
     "Jack Sparrow": 9.9,
-    "Joyful Duck": 12.31,
+    "Joyful Duck": 11.99,
     "Leopard": 33.0,
     "Luau Lily": 8.95,
     "Marigold": 9.0,
@@ -332,5 +332,5 @@
     "White Rose": 12.0,
     "Wreath": 9.0
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

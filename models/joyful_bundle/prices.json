@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Emerald": 2.5,
-    "Carrot Juice": 2.48,
-    "Strawberry": 2.48,
+    "Carrot Juice": 2.49,
+    "Strawberry": 2.49,
     "English Violet": 2.5,
     "Midnight Blue": 6.5,
     "Seal Brown": 2.48,
@@ -31,7 +31,7 @@
     "Roman Silver": 2.48,
     "Grape": 2.49,
     "Silver Blue": 2.48,
-    "Marine Blue": 2.5,
+    "Marine Blue": 2.48,
     "Amber": 2.47,
     "French Blue": 2.48,
     "Mexican Pink": 2.5,
@@ -42,7 +42,7 @@
     "Tomato": 2.48,
     "Malachite": 2.48,
     "Moonstone": 2.47,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "Raspberry": 2.48,
     "Fandango": 2.5,
     "Pure Gold": 2.48,
@@ -55,7 +55,7 @@
     "Camo Green": 2.48,
     "Sapphire": 2.5,
     "Light Olive": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Shamrock Green": 2.5,
     "Pine Green": 2.48,
     "Cyberpunk": 2.48,
@@ -113,7 +113,7 @@
     "Bunny": 6.3,
     "Burger": 6.66,
     "Cactus Bloom": 7.5,
-    "Cake": 6.86,
+    "Cake": 6.62,
     "Calla Lily": 5.95,
     "Carrot": 7.35,
     "Champagne": 9.0,
@@ -176,7 +176,7 @@
     "Kudu Totem": 29.0,
     "Ladybug": 7.0,
     "Lavender": 21.0,
-    "Leprechaun": 16.0,
+    "Leprechaun": 16.01,
     "Light Bulb": 7.7,
     "Lightning": 5.99,
     "Lily": 12.0,
@@ -185,7 +185,7 @@
     "Lotus Flower": 30.0,
     "Lotus": 6.0,
     "Love Daisy": 7.0,
-    "Love Dove": 8.62,
+    "Love Dove": 8.61,
     "Love Mug": 40.0,
     "Love Puzzle": 50.0,
     "Love Scene": 9.0,
@@ -330,5 +330,5 @@
     "Watermelon": 7.7,
     "Steve’s Pet": 9.0
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }

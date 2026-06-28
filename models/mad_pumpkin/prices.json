@@ -3,7 +3,7 @@
     "Light Olive": 2.48,
     "Amber": 2.47,
     "Shamrock Green": 2.5,
-    "Carrot Juice": 2.48,
+    "Carrot Juice": 2.49,
     "Desert Sand": 2.48,
     "Roman Silver": 2.48,
     "Lavender": 2.48,
@@ -22,7 +22,7 @@
     "Burgundy": 2.5,
     "Sapphire": 2.5,
     "Cobalt Blue": 2.48,
-    "Strawberry": 2.48,
+    "Strawberry": 2.49,
     "Dark Lilac": 2.48,
     "Pacific Green": 2.48,
     "Platinum": 2.48,
@@ -31,7 +31,7 @@
     "Pure Gold": 2.48,
     "Persimmon": 2.48,
     "Hunter Green": 2.5,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.48,
     "Sky Blue": 2.48,
     "Chestnut": 2.49,
     "Cyberpunk": 2.48,
@@ -48,7 +48,7 @@
     "English Violet": 2.5,
     "Mint Green": 2.48,
     "Satin Gold": 2.48,
-    "Steel Grey": 2.48,
+    "Steel Grey": 2.49,
     "French Blue": 2.48,
     "Purple": 2.48,
     "Electric Indigo": 2.5,
@@ -199,7 +199,7 @@
     "Copperfield": 10.0,
     "Creepy Po": 23.5,
     "Cucurbita": 9.69,
-    "Daredevil": 9.3,
+    "Daredevil": 9.39,
     "Dark Dipsy": 21.1,
     "Dark Humor": 11.0,
     "Dark Ritual": 10.5,
@@ -245,5 +245,5 @@
     "Kinky-Winky": 27.77,
     "Joke-O’-Lantern": 9.16
   },
-  "last_updated": 1782618094
+  "last_updated": 1782621979
 }
