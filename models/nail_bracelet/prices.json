@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Cobalt Blue": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Mustard": 2.48,
     "Old Gold": 2.48,
     "Mexican Pink": 2.5,
@@ -71,7 +71,7 @@
     "Camo Green": 2.48,
     "Feldgrau": 2.49,
     "Satin Gold": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Grape": 2.49,
     "Tomato": 2.48,
     "Aquamarine": 2.48,
@@ -214,7 +214,7 @@
     "Narcissus": 2222.0,
     "Nemean Lion": 140.0,
     "Novus Ordo": 140.0,
-    "Obon Lantern": 84.34,
+    "Obon Lantern": 290.0,
     "Octopus": 154.95,
     "Old Candle": 98.99,
     "Onigiri": 250.0,
@@ -325,7 +325,7 @@
     "Rose Gold": 120.0,
     "Rose Thorn": 200.0,
     "Rusty Nail": 84.91,
-    "Scorpio": 200.0,
+    "Scorpio": 245.0,
     "Shadow": 123.8,
     "Skyline": 130.0,
     "Succubus": 140.0,
@@ -334,5 +334,5 @@
     "Vague Dream": 110.0,
     "X-Ray": 94.49
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -27,7 +27,7 @@
     "Shamrock Green": 2.5,
     "Burgundy": 2.5,
     "Mustard": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Emerald": 2.5,
     "Grape": 2.49,
     "Platinum": 2.48,
@@ -67,7 +67,7 @@
     "Roman Silver": 2.48,
     "Navy Blue": 2.49,
     "Fire Engine": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Seal Brown": 2.48,
     "Amber": 2.5,
     "Electric Indigo": 2.5,
@@ -193,7 +193,7 @@
     "Shooting Star": 2.9,
     "Smartphone": 12.0,
     "Snow Angel": 3.3,
-    "Snowflake": 2.79,
+    "Snowflake": 2.71,
     "Snowman": 3.88,
     "Sparks": 3.6,
     "Spellbook": 8.0,
@@ -241,7 +241,7 @@
     "Crossbones": 6.0,
     "Dragee": 3.49,
     "Everbright": 2.79,
-    "Evergreen": 2.68,
+    "Evergreen": 2.69,
     "Festive Pepe": 22.66,
     "Festivity": 2.69,
     "Fireworks": 4.89,
@@ -291,5 +291,5 @@
     "Winter Tea": 2.8,
     "Wonderland": 7.7
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

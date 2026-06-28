@@ -51,7 +51,7 @@
     "Burgundy": 2.5,
     "Sapphire": 2.5,
     "Silver Blue": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Grape": 2.49,
     "Amber": 2.5,
     "Carrot Juice": 2.48,
@@ -245,7 +245,7 @@
     "Miner’s Bloom": 9.79,
     "Mirage": 4.5,
     "Monoshroom": 5.5,
-    "Mysctic": 4.39,
+    "Mysctic": 5.0,
     "Night Light": 4.38,
     "Nighteye": 4.8,
     "Nitrous": 5.99,
@@ -285,5 +285,5 @@
     "Wizard Cap": 4.7,
     "Zebra Cap": 4.67
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

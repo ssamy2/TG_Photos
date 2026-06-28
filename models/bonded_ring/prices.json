@@ -16,11 +16,11 @@
     "Marine Blue": 2.48,
     "Chocolate": 2.48,
     "Midnight Blue": 67.0,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Neon Blue": 2.48,
     "Platinum": 2.48,
     "Pacific Cyan": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Satin Gold": 2.48,
     "Azure Blue": 2.48,
     "English Violet": 2.5,
@@ -84,6 +84,7 @@
   "symbols": {
     "Mannaz Rune": 100.0,
     "Wizard Hat": 34.84,
+    "Crusader Cross": 32.81,
     "Alarm": 300.0,
     "Anchor": 100.0,
     "Ancient Urn": 46.67,
@@ -118,7 +119,7 @@
     "Burger": 57.98,
     "Calm Wolf": 48.88,
     "Cap": 33.5,
-    "Car": 76.28,
+    "Car": 76.23,
     "Carambola": 58.0,
     "Cash": 80.0,
     "Cat Mask": 48.0,
@@ -139,7 +140,6 @@
     "Cowboy Hat": 145.0,
     "Crescent": 80.0,
     "Crown": 49.0,
-    "Crusader Cross": 32.81,
     "Diamond": 499.0,
     "Diamonds": 60.0,
     "Dice": 88.95,
@@ -349,7 +349,7 @@
     "Hot Wheel": 35.0,
     "Hourglass": 79.0,
     "Ironwood": 32.5,
-    "Kraken's Grip": 32.81,
+    "Kraken's Grip": 49.9,
     "Leopard": 32.42,
     "Lime Factory": 32.8,
     "Line Art": 37.0,
@@ -379,5 +379,5 @@
     "Zebra": 32.5,
     "Kraken’s Grip": 35.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

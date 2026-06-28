@@ -46,7 +46,7 @@
     "Raspberry": 2.48,
     "Silver Blue": 2.48,
     "Caramel": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Jade Green": 2.48,
     "Ivory White": 2.5,
     "Pistachio": 2.48,
@@ -141,7 +141,7 @@
     "Heart Shades": 1400.0,
     "High Heels": 3000.0,
     "Ice Pop": 2899.0,
-    "Illuminati": 268.0,
+    "Illuminati": 254.98,
     "Inguz Rune": 399.0,
     "Jumbo Pencil": 1101.0,
     "Kitsune": 2222.0,
@@ -299,5 +299,5 @@
     "Berry Pit": 250.0,
     "Twilight": 1000.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -30,7 +30,7 @@
     "Electric Purple": 2.48,
     "Battleship Grey": 2.48,
     "Dark Green": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Neon Blue": 2.48,
     "Navy Blue": 2.49,
     "Sapphire": 2.5,
@@ -60,7 +60,7 @@
     "Rifle Green": 2.5,
     "Cyberpunk": 2.48,
     "Pine Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Rosewood": 2.48,
     "English Violet": 2.5,
     "Strawberry": 2.48,
@@ -78,7 +78,7 @@
     "Burgundy": 2.5,
     "Indigo Dye": 2.48,
     "Electric Indigo": 2.5,
-    "Black": 24.9,
+    "Black": 24.5,
     "Onyx Black": 6.75
   },
   "symbols": {
@@ -95,7 +95,7 @@
     "Aztec Totem": 3.6,
     "Bandage": 3.99,
     "Bandana": 6.0,
-    "Baseball Cap": 4.4,
+    "Baseball Cap": 4.37,
     "Bearskin": 3.5,
     "Bee": 3.5,
     "Bell Pepper": 4.7,
@@ -154,7 +154,7 @@
     "Fenrir": 3.41,
     "Fire": 5.0,
     "Firebird": 3.5,
-    "Fish Skeleton": 3.5,
+    "Fish Skeleton": 3.4,
     "Fish": 3.97,
     "Fishing Hook": 3.5,
     "Flag": 8.0,
@@ -304,18 +304,18 @@
     "Yogi Shaman": 4.99
   },
   "models": {
-    "Academic": 3.34,
+    "Academic": 3.38,
     "Alphabet": 3.38,
     "Anatomy": 4.0,
     "Animal Friends": 3.4,
-    "Animator": 3.4,
+    "Animator": 3.34,
     "Astrology": 6.7,
     "Big Brother": 3.55,
     "Billy Milligan": 3.52,
     "Burn Book": 4.9,
     "Chemistry": 3.39,
     "Clay Tablets": 3.4,
-    "Cookbook": 3.34,
+    "Cookbook": 3.33,
     "Crazy Book": 3.35,
     "Crystal Tome": 4.0,
     "Death Note": 440.0,
@@ -341,7 +341,7 @@
     "Mystique": 3.88,
     "Paleontology": 3.38,
     "Pirate Tales": 3.9,
-    "Rebel Dog": 43.9,
+    "Rebel Dog": 43.5,
     "Rocket Sceince": 16.5,
     "Secret Chapter": 3.4,
     "Secret Files": 3.4,
@@ -359,5 +359,5 @@
     "Tom’s Diary": 20.0,
     "Rocket Science": 4.45
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

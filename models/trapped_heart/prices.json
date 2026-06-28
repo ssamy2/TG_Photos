@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Azure Blue": 2.48,
     "Emerald": 2.5,
     "Sapphire": 2.5,
@@ -83,7 +83,7 @@
     "Boat": 40.0,
     "Bottlenose": 13.0,
     "Bow Tie": 11.86,
-    "Broken Heart": 10.92,
+    "Broken Heart": 10.8,
     "Bubble Tea": 16.0,
     "Bubbles": 31.6,
     "Bunny Ears": 16.99,
@@ -123,7 +123,7 @@
     "Diamond": 55.0,
     "Doberman": 65.0,
     "Dolphin": 15.0,
-    "Double Bed": 11.39,
+    "Double Bed": 10.79,
     "Dragonfly": 15.0,
     "Eagle": 28.0,
     "Eggplant": 14.79,
@@ -272,14 +272,14 @@
     "Colorful Beats": 10.32,
     "Comic Book": 17.9,
     "Cozy Season": 18.0,
-    "Crime Scene": 11.09,
+    "Crime Scene": 10.51,
     "Empty Silent": 13.25,
     "Faded Relic": 10.46,
     "Feline Fury": 40.0,
     "Fire and Ice": 10.6524,
     "Glitch": 19.6,
     "Goldie": 14.41,
-    "Grey Ember": 10.33,
+    "Grey Ember": 10.32,
     "Heartworm": 11.29,
     "Iron Pulse": 13.77,
     "Jack-o-Love": 13.99,
@@ -306,12 +306,12 @@
     "Sweet Wrap": 17.0,
     "Sweetheart": 12.0,
     "Tattoo": 11.5,
-    "Toxic Love": 10.33,
+    "Toxic Love": 10.32,
     "Undead Beat": 10.51,
     "Valentine": 18.0,
     "Vampie": 16.99,
     "Violet Shadow": 12.8,
     "Zap Core": 15.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -34,7 +34,7 @@
     "Sky Blue": 2.48,
     "Copper": 2.48,
     "Tactical Pine": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Neon Blue": 2.48,
     "Khaki Green": 2.48,
     "Sapphire": 2.5,
@@ -64,7 +64,7 @@
     "Roman Silver": 2.48,
     "French Violet": 2.48,
     "Light Olive": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Cyberpunk": 2.48,
     "Battleship Grey": 2.48,
     "Amber": 2.5,
@@ -78,7 +78,7 @@
     "Satin Gold": 2.48,
     "Chocolate": 2.48,
     "Tomato": 2.48,
-    "Black": 17.0,
+    "Black": 16.97,
     "Onyx Black": 5.5
   },
   "symbols": {
@@ -291,5 +291,5 @@
     "Snake Wok": 4.0,
     "Sunshine": 2.65
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

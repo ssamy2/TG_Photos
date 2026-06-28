@@ -2,7 +2,7 @@
   "backdrops": {
     "Indigo Dye": 2.48,
     "Mystic Pearl": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Pistachio": 2.48,
     "Steel Grey": 2.49,
     "Cappuccino": 2.48,
@@ -91,7 +91,7 @@
     "Coffin": 31.89,
     "Coin Purse": 36.0,
     "Corn": 40.0,
-    "Crow": 34.5,
+    "Crow": 30.0,
     "Crystal Ball": 40.0,
     "Cupcake": 95.0,
     "Cursor": 59.9,
@@ -105,13 +105,13 @@
     "Flower Cross": 50.0,
     "Flying Witch": 31.6,
     "Gem": 999.0,
-    "Ghost": 35.18,
+    "Ghost": 34.1,
     "Glasses": 999.0,
     "Gold": 999.0,
     "Gravestone": 45.0,
     "Grim Reaper": 40.0,
     "Guitar": 39.8,
-    "Half Moon": 31.0,
+    "Half Moon": 30.0,
     "Hammerhead": 29.66,
     "Handset": 39.89,
     "Happy Smile": 40.0,
@@ -158,7 +158,7 @@
     "Shell": 75.0,
     "Shield": 36.97,
     "Skull": 42.0,
-    "Spider Web": 40.0,
+    "Spider Web": 35.0,
     "Spooky Cat": 39.0,
     "Star Crown": 60.0,
     "Sumerian Bird": 55.0,
@@ -225,8 +225,8 @@
     "Textile": 29.62,
     "Toxicity": 39.99,
     "Twilight": 30.64,
-    "Vendetta": 49.0,
+    "Vendetta": 45.0,
     "Vengeance": 31.7
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

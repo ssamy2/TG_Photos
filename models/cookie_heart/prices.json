@@ -44,7 +44,7 @@
     "Pacific Cyan": 2.48,
     "Strawberry": 2.48,
     "Carrot Juice": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Copper": 2.48,
     "Fandango": 2.5,
     "Coral Red": 2.49,
@@ -353,7 +353,7 @@
     "Neon Candy": 4.5,
     "Nightmare": 3.79,
     "Nyam Cat": 7.9,
-    "Oatmeal Star": 3.68,
+    "Oatmeal Star": 3.67,
     "Pink Yogurt": 4.44,
     "Pixel Beat": 5.0,
     "Rainbow": 4.3,
@@ -377,7 +377,7 @@
     "Sunlight": 4.4,
     "Superstar": 13.27,
     "Telecake": 3.84,
-    "The Circle": 3.69,
+    "The Circle": 3.86,
     "The Star": 3.8,
     "The Triangle": 4.0,
     "The Umbrella": 3.72,
@@ -392,5 +392,5 @@
     "Yamete Kudasai": 35.0,
     "Cupid’s Arrow": 4.1
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Chestnut": 2.48,
     "Purple": 2.48,
     "Pacific Cyan": 2.48,
@@ -9,7 +9,7 @@
     "Platinum": 2.48,
     "Malachite": 2.48,
     "Desert Sand": 2.48,
-    "Emerald": 2.48,
+    "Emerald": 2.5,
     "Electric Purple": 2.48,
     "Carrot Juice": 2.48,
     "Coral Red": 2.49,
@@ -48,7 +48,7 @@
     "Khaki Green": 2.48,
     "Light Olive": 2.48,
     "Indigo Dye": 2.48,
-    "English Violet": 2.48,
+    "English Violet": 2.5,
     "Grape": 2.49,
     "Pure Gold": 2.48,
     "Cobalt Blue": 2.48,
@@ -115,11 +115,11 @@
     "Firebird": 11.9,
     "Fireworks": 7.0,
     "Fish Skeleton": 13.0,
-    "Fish": 15.8,
+    "Fish": 15.81,
     "Flipper": 19.87,
     "Garden Pot": 7.6,
     "Genie Lamp": 11.0,
-    "Gift Box": 6.25,
+    "Gift Box": 5.99,
     "Gingerbread": 6.9,
     "Gold": 14.0,
     "Grape": 7.8,
@@ -147,7 +147,7 @@
     "Mittens": 6.89,
     "Moon": 7.5,
     "Moose Head": 9.0,
-    "Mountain Goat": 6.74,
+    "Mountain Goat": 6.42,
     "Mountain Lion": 19.87,
     "Mushroom": 13.8,
     "Narcissus": 6.9,
@@ -196,7 +196,7 @@
     "Unicorn Head": 10.0,
     "Venetian Mask": 13.9,
     "White Deer": 6.9,
-    "Winter House": 6.0,
+    "Winter House": 5.99,
     "Wolf Rage": 13.9
   },
   "models": {
@@ -206,7 +206,7 @@
     "Bellrog": 7.9,
     "Berry Bell": 11.0,
     "Black Gold": 13.49,
-    "Blue Chrome": 6.5,
+    "Blue Chrome": 6.25,
     "Blue Ribbon": 7.7,
     "Blue Sapphire": 9.78,
     "Blue Shadows": 7.99,
@@ -246,7 +246,7 @@
     "Flashlights": 7.4,
     "Fractal": 10.0,
     "Galaxy": 7.0,
-    "Gamer Color": 6.4,
+    "Gamer Color": 6.5,
     "Gingerbread": 8.98,
     "Glacier": 8.0,
     "Glass Bloom": 17.64,
@@ -308,7 +308,7 @@
     "Purple Glass": 6.5,
     "Purple Horns": 6.9,
     "Purple Jingle": 8.89,
-    "Purple Ring": 6.49,
+    "Purple Ring": 6.99,
     "Radar": 31.5,
     "Rainforest": 6.39,
     "Red Lotus": 18.04,
@@ -352,5 +352,5 @@
     "Woodland": 7.0,
     "Yule Bells": 14.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -7,7 +7,7 @@
     "Roman Silver": 2.48,
     "Carrot Juice": 2.48,
     "Jade Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Platinum": 2.48,
     "Malachite": 2.48,
     "Cobalt Blue": 2.48,
@@ -234,7 +234,7 @@
   },
   "models": {
     "Aurora Joy": 137.0,
-    "Azure Plum": 58.74,
+    "Azure Plum": 58.64,
     "Blizzard": 192.99,
     "Blush Petal": 69.99,
     "Candy Luxe": 69.0,
@@ -252,14 +252,14 @@
     "Golden Elixir": 269.0,
     "Grape Juice": 59.4,
     "Grape Splash": 58.83,
-    "Inkspire Red": 145.0,
+    "Inkspire Red": 65.0,
     "Jade Script": 61.45,
     "Jade Steel": 77.0,
     "Juicy Bliss": 499.0,
     "LoveSpritz": 150.0,
     "Luminous": 70.0,
     "Madmoiselle": 65.0,
-    "Millet Fields": 58.73,
+    "Millet Fields": 58.63,
     "Misty Smoke": 230.0,
     "Mono Delight": 138.0,
     "Noir": 129.0,
@@ -272,7 +272,7 @@
     "Serene Mist": 58.77,
     "Silver Essence": 255.0,
     "Sketch Shade": 98.0,
-    "Solar Eclipse": 58.73,
+    "Solar Eclipse": 61.0,
     "Sunny Doodle": 59.94,
     "Twilight Bliss": 78.9,
     "Venom Mist": 99.0,
@@ -284,5 +284,5 @@
     "Flame Kiss": 1000.0,
     "Prism Bubble": 150.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

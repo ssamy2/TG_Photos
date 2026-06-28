@@ -54,7 +54,7 @@
     "Pure Gold": 2.48,
     "Pacific Green": 2.48,
     "Rosewood": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Aquamarine": 2.48,
     "Roman Silver": 2.48,
     "Cyberpunk": 2.48,
@@ -96,7 +96,7 @@
     "Calm Wolf": 373.3,
     "Cap": 110.0,
     "Car": 87.0,
-    "Cash": 75.6,
+    "Cash": 75.59,
     "Cat Mask": 88.0,
     "Celtic Cross": 555.0,
     "Champagne": 165.0,
@@ -228,7 +228,7 @@
     "Tribal Shield": 240.0,
     "Trickster Fox": 150.0,
     "Trinity Knot": 148.0,
-    "Trophy": 76.34,
+    "Trophy": 76.3,
     "Turtle": 89.0,
     "UFO": 10000.0,
     "Unicorn Head": 220.0,
@@ -345,5 +345,5 @@
     "Obsidian": 150.0,
     "Trailer": 160.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

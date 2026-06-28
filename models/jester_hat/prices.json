@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Caramel": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Strawberry": 2.48,
     "Fandango": 2.5,
     "Amber": 2.5,
@@ -80,7 +80,7 @@
     "Bell Pepper": 7.5,
     "Birthday Cake": 4.98,
     "Bishop": 5.0,
-    "Blood Drop": 3.3,
+    "Blood Drop": 3.18,
     "Boat": 4.3,
     "Bone": 9.23,
     "Book": 3.4,
@@ -204,7 +204,7 @@
     "Lion King": 3.5,
     "Love Letter": 3.49,
     "Love Lock": 6.59,
-    "Lovely Kiss": 4.95,
+    "Lovely Kiss": 4.96,
     "Mafdet": 3.19,
     "Magic Wand": 3.8,
     "Mannaz Rune": 4.7,
@@ -239,7 +239,7 @@
     "Pearl": 8.0,
     "Pegasus": 9.34,
     "Pencil": 3.7,
-    "Phoenix": 4.63,
+    "Phoenix": 4.64,
     "Pickaxe": 5.0,
     "Piggy Bank": 3.5,
     "Pineapple": 5.88,
@@ -402,7 +402,7 @@
     "Sketchy": 4.0,
     "So Cute!": 5.6,
     "Sparkler": 3.5,
-    "Spring Meadow": 3.0,
+    "Spring Meadow": 3.1,
     "Star Kissed": 3.8,
     "Stardust": 3.25,
     "Sugar Dust": 3.05,
@@ -421,5 +421,5 @@
     "Xmas Prank": 3.03,
     "Сourt Jester": 3.7
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

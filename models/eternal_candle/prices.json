@@ -12,7 +12,7 @@
     "Coral Red": 2.49,
     "Purple": 2.48,
     "Moonstone": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Ivory White": 2.5,
     "Raspberry": 2.48,
     "Shamrock Green": 2.5,
@@ -159,7 +159,7 @@
     "Pizza Slice": 9.0,
     "Planet": 4.3,
     "Plume": 4.3,
-    "Poison Drop": 4.23,
+    "Poison Drop": 4.13,
     "Pomegranate": 4.8,
     "Potion": 4.19,
     "Pyramid": 4.34,
@@ -202,7 +202,7 @@
     "Baphomet": 9.19,
     "Blue Beam": 4.7,
     "Blue Steel": 4.69,
-    "Bronze Rose": 4.14,
+    "Bronze Rose": 4.39,
     "Bubble Bath": 12.31,
     "Burnt Amber": 4.85,
     "Candyman": 5.0,
@@ -280,5 +280,5 @@
     "Wolfsbane": 4.23,
     "Yellow Gold": 4.34
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -15,15 +15,15 @@
     "Azure Blue": 2.48,
     "Turquoise": 2.48,
     "Cappuccino": 2.48,
-    "Midnight Blue": 3.77,
+    "Midnight Blue": 3.75,
     "Satin Gold": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Pine Green": 2.48,
     "Tactical Pine": 2.48,
     "Khaki Green": 2.48,
     "Ranger Green": 2.5,
     "Dark Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Persimmon": 2.48,
     "Copper": 2.48,
     "Camo Green": 2.48,
@@ -85,7 +85,7 @@
     "Alarm": 3.99,
     "Alert Serpent": 3.0,
     "Ancient Urn": 5.1,
-    "Arabian Horse": 2.91,
+    "Arabian Horse": 6.26,
     "Arcane Mirror": 4.0,
     "Axe": 4.38,
     "Aztec Totem": 3.2,
@@ -317,7 +317,7 @@
     "Trinity Knot": 2.91,
     "Trophy": 2.91,
     "Tulip": 4.0,
-    "Turban": 2.91,
+    "Turban": 4.24,
     "Turtle": 3.95,
     "Twin Koi": 4.98,
     "Twin Peaks": 3.5,
@@ -403,5 +403,5 @@
     "Treasure Map": 2.99,
     "Unicorn": 12.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -34,11 +34,11 @@
     "Mint Green": 2.48,
     "Battleship Grey": 2.48,
     "Shamrock Green": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "French Blue": 2.48,
     "Marine Blue": 2.48,
     "Tactical Pine": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Old Gold": 2.48,
     "Carrot Juice": 2.48,
     "Raspberry": 2.48,
@@ -92,7 +92,7 @@
     "Anchor": 15.84,
     "Angel": 8.12,
     "Anthurium": 9.99,
-    "Apple": 16.41,
+    "Apple": 16.4,
     "Arcane Mirror": 11.0,
     "Astronaut": 10.0,
     "Balloon": 8.95,
@@ -306,5 +306,5 @@
     "Vibrant": 7.88,
     "White Gold": 9.88
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

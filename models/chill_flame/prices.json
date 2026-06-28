@@ -26,8 +26,8 @@
     "French Blue": 2.48,
     "Rifle Green": 2.5,
     "Seal Brown": 2.48,
-    "Hunter Green": 2.48,
-    "Gunship Green": 2.49,
+    "Hunter Green": 2.5,
+    "Gunship Green": 2.48,
     "Tactical Pine": 2.48,
     "Ivory White": 2.5,
     "Dark Green": 2.48,
@@ -79,12 +79,12 @@
     "Silver Blue": 2.48,
     "Copper": 2.48,
     "Onyx Black": 5.96,
-    "Black": 17.87
+    "Black": 17.79
   },
   "symbols": {
     "Acorn": 2.53,
     "Alarm": 2.8,
-    "Alert Serpent": 2.48,
+    "Alert Serpent": 2.7,
     "All-Seeing Eye": 2.55,
     "Anchor": 2.5,
     "Ancient Urn": 2.75,
@@ -113,7 +113,7 @@
     "Bone": 2.51,
     "Bonsai": 2.99,
     "Bottle": 2.51,
-    "Bowler Hat": 2.6,
+    "Bowler Hat": 2.48,
     "Brain": 2.5,
     "Breeze": 2.7,
     "Bubble Tea": 2.53,
@@ -134,7 +134,7 @@
     "Celtic Wolf": 2.51,
     "Cheese": 2.5,
     "Chick": 2.6,
-    "Cicada": 2.5,
+    "Cicada": 2.53,
     "Clubs": 2.51,
     "Coat of Arms": 2.51,
     "Coconut": 3.0,
@@ -180,7 +180,7 @@
     "Fireman Hat": 2.79,
     "Fish Skeleton": 2.49,
     "Fish": 2.7,
-    "Flamingo": 2.9,
+    "Flamingo": 2.48,
     "Flashlight": 2.6,
     "Flat Cap": 2.49,
     "Fleur-de-lis": 2.5,
@@ -193,7 +193,7 @@
     "Gear": 2.57,
     "Genie Lamp": 2.52,
     "Ghost": 2.5,
-    "Glasses": 2.47,
+    "Glasses": 2.5,
     "Golden Scarab": 2.5,
     "Grenade": 2.5,
     "Gua Pi Mao": 2.5,
@@ -228,7 +228,7 @@
     "Lightning": 2.55,
     "Like": 2.51,
     "Lion King": 2.53,
-    "Lotus Flower": 2.5,
+    "Lotus Flower": 2.54,
     "Love Letter": 2.6,
     "Love Lock": 2.6,
     "Lovely Kiss": 2.51,
@@ -324,7 +324,7 @@
     "Smartphone": 2.5,
     "Snail": 2.5,
     "Spellbook": 2.54,
-    "Spider": 2.7,
+    "Spider": 2.49,
     "Spring Chick": 2.5,
     "Sprout": 2.89,
     "Star Crown": 2.75,
@@ -384,7 +384,7 @@
     "Yin-Yang": 2.49
   },
   "models": {
-    "Baba Yaga": 3.79,
+    "Baba Yaga": 3.8,
     "Balinese": 2.46,
     "Bear Market": 2.54,
     "Birthday Cake": 2.46,
@@ -392,7 +392,7 @@
     "Bubble Prism": 2.52,
     "Bull Run": 2.55,
     "Camelot": 2.52,
-    "Candelabra": 2.48,
+    "Candelabra": 2.49,
     "Carousel": 2.47,
     "Dark Relic": 2.95,
     "Dark Souls": 3.99,
@@ -435,7 +435,7 @@
     "Tiki Torch": 2.46,
     "Tribal Totem": 2.46,
     "Triumph": 2.52,
-    "Victory": 2.55
+    "Victory": 2.5
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

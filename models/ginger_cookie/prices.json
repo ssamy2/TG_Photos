@@ -56,13 +56,13 @@
     "Steel Grey": 2.49,
     "Purple": 2.48,
     "Mint Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Cappuccino": 2.48,
     "Black": 27.9,
     "Onyx Black": 6.25
   },
   "symbols": {
-    "Alert Serpent": 3.24,
+    "Alert Serpent": 3.5,
     "All-Seeing Eye": 5.0,
     "Anchor": 3.78,
     "Apple": 4.0,
@@ -179,7 +179,7 @@
     "Sumerian Bird": 9.1,
     "Sun Lion": 4.0,
     "Thunderbird": 3.3,
-    "Tie": 4.0,
+    "Tie": 3.05,
     "Toilet Paper": 3.4,
     "Trickster Fox": 9.0,
     "Turkey": 5.5,
@@ -251,7 +251,7 @@
     "Madagascar": 3.14,
     "Marshmallow": 3.0,
     "Marzipan": 3.16,
-    "Matrix": 2.99,
+    "Matrix": 3.1,
     "Melonius": 3.29,
     "Mint Fringe": 3.1,
     "Moon Dust": 3.05,
@@ -272,7 +272,7 @@
     "Rose Gold": 18.76,
     "Rose Water": 3.04,
     "Royal Sundae": 3.23,
-    "Rubber Duck": 2.97,
+    "Rubber Duck": 3.08,
     "Santa Claus": 3.25,
     "Shanker": 3.8,
     "Shortbread": 4.75,
@@ -295,5 +295,5 @@
     "Waffle": 3.15,
     "White Gold": 8.7
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -45,7 +45,7 @@
     "Mystic Pearl": 2.48,
     "Mint Green": 2.48,
     "Amber": 2.5,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Orange": 2.48,
     "Fire Engine": 2.48,
     "Chocolate": 2.48,
@@ -76,7 +76,7 @@
     "Navy Blue": 2.49,
     "Old Gold": 2.48,
     "Persimmon": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Camo Green": 2.48,
     "Black": 27.0,
     "Onyx Black": 6.45
@@ -141,7 +141,7 @@
     "Deerstalker": 3.45,
     "Dessert": 4.3,
     "Diamond": 7.0,
-    "Dice": 3.4,
+    "Dice": 3.59,
     "Doctor Hat": 4.5,
     "Double Axe": 5.5,
     "Dragonfly": 5.09,
@@ -203,7 +203,7 @@
     "Keffiyeh": 6.0,
     "Key": 3.48,
     "Khinkali": 4.0,
-    "Kitsune Mask": 3.65,
+    "Kitsune Mask": 3.5,
     "Knight": 3.99,
     "La Corona": 5.0,
     "Ladybug": 3.99,
@@ -324,7 +324,7 @@
     "Two Katanas": 7.77,
     "UFO": 9.0,
     "Valkyrie": 4.99,
-    "Viking": 5.12,
+    "Viking": 4.8,
     "Viper": 3.6,
     "Visor": 4.5,
     "Wagasa": 5.15,
@@ -397,8 +397,8 @@
     "Undead": 3.48,
     "Unicorn": 4.0,
     "Wonderland": 3.62,
-    "Let’s Rock": 3.47,
+    "Let’s Rock": 3.38,
     "Rubik’s Cube": 4.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -12,7 +12,7 @@
     "Silver Blue": 2.48,
     "Shamrock Green": 2.5,
     "Pistachio": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Khaki Green": 2.48,
     "Amber": 2.5,
     "Mint Green": 2.48,
@@ -112,7 +112,7 @@
     "Coin Purse": 17.5,
     "Conch": 13.7,
     "Cow Skull": 13.5,
-    "Crescent": 13.69,
+    "Crescent": 13.66,
     "Crusader Cross": 14.0,
     "Crystal Ball": 20.0,
     "Cunning Fox": 32.2,
@@ -302,7 +302,7 @@
     "Thunderbird": 17.0,
     "Tic-Tac-Toe": 35.0,
     "Tongue": 25.0,
-    "Top Hat": 12.14,
+    "Top Hat": 12.04,
     "Totem Bear": 12.9,
     "Tree of Life": 33.0,
     "Trinity Knot": 24.0,
@@ -381,7 +381,7 @@
     "Romeo": 18.0,
     "Royal Spritz": 12.5,
     "Ruby Essence": 11.69,
-    "Rusty Water": 11.48,
+    "Rusty Water": 11.46,
     "Sea Salt": 12.53,
     "Seeker's Wish": 12.04,
     "Sour Cider": 11.49,
@@ -391,7 +391,7 @@
     "Sugar Ponies": 12.5,
     "Sunset Serum": 11.65,
     "Surreal": 11.99,
-    "Toxic Waste": 12.0,
+    "Toxic Waste": 11.45,
     "Tropicano": 16.0,
     "Unicorn Tears": 16.7,
     "White Ink": 12.73,
@@ -399,5 +399,5 @@
     "Nurgle’s Rot": 15.3,
     "Seeker’s Wish": 11.7
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

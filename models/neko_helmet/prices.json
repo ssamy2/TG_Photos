@@ -23,7 +23,7 @@
     "Light Olive": 2.48,
     "Pacific Cyan": 2.48,
     "Mustard": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Ivory White": 2.5,
     "Marine Blue": 2.48,
     "Mexican Pink": 2.5,
@@ -55,7 +55,7 @@
     "Electric Purple": 2.48,
     "Old Gold": 2.48,
     "Mint Green": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Cyberpunk": 2.48,
     "Midnight Blue": 60.0,
     "Indigo Dye": 2.48,
@@ -113,7 +113,7 @@
     "Cake": 70.0,
     "Calendula": 29.99,
     "Calla Lily": 47.0,
-    "Candle": 31.99,
+    "Candle": 65.65,
     "Carambola": 100.0,
     "Carnation": 31.5,
     "Carrot": 49.33,
@@ -166,7 +166,7 @@
     "Gingerbread": 54.95,
     "Glasses": 90.0,
     "Grape": 40.0,
-    "Griffon": 29.98,
+    "Griffon": 100.0,
     "Hammerhead": 50.0,
     "Handcuffs": 31.98,
     "Handset": 40.0,
@@ -367,5 +367,5 @@
     "Wild Cat": 80.0,
     "Wild Daisy": 33.5
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

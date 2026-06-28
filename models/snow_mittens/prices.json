@@ -57,7 +57,7 @@
     "Caramel": 2.5,
     "Navy Blue": 2.49,
     "Pine Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Black": 29.0,
     "Onyx Black": 9.99
   },
@@ -218,12 +218,12 @@
     "Candy Cane": 4.5,
     "Carnation": 3.99,
     "Cedar": 3.5,
-    "Champagne": 3.45,
+    "Champagne": 3.44,
     "Cheetah": 6.8,
     "Cherry": 4.0,
     "Currant": 3.63,
     "Cute Bunnies": 6.66,
-    "Dark Grape": 3.42,
+    "Dark Grape": 3.46,
     "Daydream": 5.0,
     "Diamond Hands": 20.0,
     "Dinosaurs": 3.79,
@@ -241,7 +241,7 @@
     "Grape Soda": 3.7,
     "Green Gloves": 3.6,
     "Greenland": 6.0,
-    "Heather": 3.43,
+    "Heather": 3.99,
     "Hive Five": 4.5,
     "Holly Hands": 4.6,
     "Honey Wine": 4.9,
@@ -284,7 +284,7 @@
     "Santa’s Gifts": 5.0,
     "Seafoam": 3.8,
     "Sencha": 4.9,
-    "Sequoia": 3.44,
+    "Sequoia": 3.9,
     "Shortcake": 5.0,
     "Skellington": 3.65,
     "Smitten": 10.64,
@@ -303,5 +303,5 @@
     "White Pear": 3.49,
     "Woodman": 4.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

@@ -8,7 +8,7 @@
     "Desert Sand": 2.48,
     "Khaki Green": 2.48,
     "Caramel": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Mystic Pearl": 2.48,
     "Coral Red": 2.49,
     "Navy Blue": 2.49,
@@ -109,7 +109,7 @@
     "Coin Purse": 197.0,
     "Coin": 333.33,
     "Conch": 98.0,
-    "Corn": 185.0,
+    "Corn": 130.0,
     "Cow Skull": 190.0,
     "Crab": 120.0,
     "Crown": 125.0,
@@ -307,7 +307,7 @@
     "Jaune Citrone": 128.0,
     "Jaune Poussin": 96.0,
     "Liberty": 300.0,
-    "Matte Mint": 150.0,
+    "Matte Mint": 114.0,
     "Menthol": 98.59,
     "Metro Trench": 222.0,
     "Miranda": 320.0,
@@ -344,7 +344,7 @@
     "Tressage": 100.0,
     "Tropical": 185.0,
     "Verso Blue": 150.0,
-    "Vert d'Eau": 185.0,
+    "Vert d'Eau": 130.0,
     "Vertigo": 122.0,
     "White Pony": 115.0,
     "Woof Pack": 355.0,
@@ -355,5 +355,5 @@
     "Faubourg": 281.0,
     "Vert d’Eau": 145.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

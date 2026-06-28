@@ -23,9 +23,9 @@
     "Platinum": 2.48,
     "Electric Purple": 2.48,
     "Fire Engine": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Tactical Pine": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Lemongrass": 2.48,
     "Shamrock Green": 2.5,
     "Turquoise": 2.48,
@@ -240,7 +240,7 @@
     "Durov's Cap": 3.69,
     "Fast Food": 3.1,
     "Flushed Away": 3.57,
-    "Froggy": 3.49,
+    "Froggy": 3.37,
     "Goofy Twins": 3.1,
     "Hisssmas": 2.99,
     "Hooded": 3.61,
@@ -248,7 +248,7 @@
     "King Cobra": 2.83,
     "Lava Viper": 2.84,
     "Libertarian": 2.84,
-    "Lollipop": 2.83,
+    "Lollipop": 2.8,
     "Luminous": 3.13,
     "Mistletoe": 2.91,
     "Mojito": 2.82,
@@ -268,7 +268,7 @@
     "Sketchy": 3.7,
     "Snakey Mouse": 3.98,
     "Soap Bubble": 3.9,
-    "Sour Bites": 2.89,
+    "Sour Bites": 2.8,
     "Spicy Wings": 3.5,
     "Spooky": 8.41,
     "Sunflower": 4.0,
@@ -283,5 +283,5 @@
     "Durov’s Cap": 3.4,
     "Santa’s Helper": 2.82
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

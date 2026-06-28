@@ -53,7 +53,7 @@
     "Midnight Blue": 4.5,
     "Malachite": 2.48,
     "Jade Green": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Persimmon": 2.48,
     "Copper": 2.48,
     "Coral Red": 2.49,
@@ -86,7 +86,7 @@
     "Bottle": 4.79,
     "Bottlenose": 5.0,
     "Bow Tie": 5.7,
-    "Brain": 5.0,
+    "Brain": 4.7,
     "Bread": 5.5,
     "Bubble Tea": 5.56,
     "Bubbles": 4.98,
@@ -172,7 +172,7 @@
     "Golden Scarab": 4.5,
     "Grape": 4.89,
     "Grenade": 5.49,
-    "Guitar": 3.94,
+    "Guitar": 4.0,
     "Hamburger": 5.0,
     "Hammerhead": 4.9,
     "Hand of God": 4.0,
@@ -215,7 +215,7 @@
     "Mask": 7.79,
     "Mayan Moth": 5.89,
     "Melon": 7.79,
-    "Money Bag": 5.83,
+    "Money Bag": 5.84,
     "Monstera": 5.79,
     "Moon Cross": 7.5,
     "Moon Eagle": 7.79,
@@ -267,7 +267,7 @@
     "Scissors": 4.5,
     "Scorpion": 5.0,
     "Sea Horse": 7.5,
-    "Sea Jelly": 6.9,
+    "Sea Jelly": 6.91,
     "Seahorse": 7.79,
     "Shark Knife": 4.0,
     "Sharp Sword": 4.2,
@@ -422,5 +422,5 @@
     "Сhoco Сhips": 4.0,
     "Сitrus Matcha": 4.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

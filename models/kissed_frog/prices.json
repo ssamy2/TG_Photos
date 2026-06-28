@@ -11,7 +11,7 @@
     "Persimmon": 2.48,
     "Copper": 2.48,
     "Amber": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Caramel": 2.5,
     "Turquoise": 2.48,
     "Steel Grey": 2.49,
@@ -281,7 +281,7 @@
     "Starry Night": 50.0,
     "Sweet Dream": 350.0,
     "Tesla Frog": 95.0,
-    "Tide Pod": 35.1,
+    "Tide Pod": 46.0,
     "Toadberry": 35.07,
     "Toadstool": 75.0,
     "Tree Frog": 105.0,
@@ -289,5 +289,5 @@
     "Void Hopper": 40.0,
     "Zodiak Croak": 102.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

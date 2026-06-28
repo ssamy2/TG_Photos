@@ -36,13 +36,13 @@
     "Coral Red": 2.49,
     "Raspberry": 2.48,
     "Khaki Green": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Gunmetal": 2.6,
     "Mexican Pink": 2.5,
     "Pacific Green": 2.48,
     "Strawberry": 2.48,
     "Moonstone": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Desert Sand": 2.48,
     "Midnight Blue": 3.79,
     "Ranger Green": 2.5,
@@ -132,7 +132,7 @@
     "Shitty Coffee": 3.4,
     "Slime": 3.24,
     "Smelly Yeti": 3.28,
-    "Snowman": 3.45,
+    "Snowman": 3.19,
     "Solid Waste": 3.5,
     "Sponge Boi": 4.45,
     "Stool Sample": 3.5,
@@ -143,5 +143,5 @@
     "Winnie Poo": 3.39,
     "Wrestler": 3.6
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

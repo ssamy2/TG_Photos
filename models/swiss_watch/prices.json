@@ -15,9 +15,9 @@
     "Jade Green": 2.48,
     "Pacific Green": 2.48,
     "Neon Blue": 2.48,
-    "English Violet": 2.48,
+    "English Violet": 2.5,
     "Chocolate": 2.48,
-    "Emerald": 2.48,
+    "Emerald": 2.5,
     "Carrot Juice": 2.48,
     "Cappuccino": 2.48,
     "Lemongrass": 2.48,
@@ -55,7 +55,7 @@
     "Aquamarine": 2.48,
     "Persimmon": 2.48,
     "Sapphire": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Ivory White": 2.5,
     "Purple": 2.48,
     "Black": 464.0,
@@ -123,7 +123,7 @@
     "Crab": 99.0,
     "Crown": 73.0,
     "Crusader": 38.34,
-    "Crystal Ball": 99.0,
+    "Crystal Ball": 49.87,
     "Cupcake": 119.0,
     "Diamond": 73.0,
     "Diamonds": 110.0,
@@ -187,7 +187,7 @@
     "Ouroboros": 46.0,
     "Owl": 299.0,
     "Oxen of Fire": 120.0,
-    "Palette": 132.0,
+    "Palette": 131.97,
     "Pawn": 188.0,
     "PC Mouse": 145.0,
     "Pearl": 41.0,
@@ -302,5 +302,5 @@
     "Xenowatch": 47.0,
     "Zenith": 88.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

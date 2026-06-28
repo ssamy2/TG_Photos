@@ -34,9 +34,9 @@
     "Purple": 2.48,
     "Sapphire": 2.5,
     "Deep Cyan": 2.5,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Fire Engine": 2.48,
-    "Gunship Green": 2.49,
+    "Gunship Green": 2.48,
     "Light Olive": 2.48,
     "Orange": 2.48,
     "Azure Blue": 2.48,
@@ -131,7 +131,7 @@
     "Chick": 19.0,
     "Chili": 6.2,
     "Cicada": 15.0,
-    "Clubs": 8.71,
+    "Clubs": 8.7,
     "Cobra": 16.5,
     "Coin": 4.0,
     "Cone": 4.2,
@@ -143,7 +143,7 @@
     "Crusader Cross": 6.9,
     "Crusader": 6.0,
     "Crystal Ball": 8.1,
-    "Crystal": 11.93,
+    "Crystal": 11.94,
     "Cursor": 5.79,
     "Dagger": 6.33,
     "Dessert": 7.0,
@@ -389,5 +389,5 @@
     "Durov’s Dog": 8.89,
     "Cupid’s Bow": 5.2
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

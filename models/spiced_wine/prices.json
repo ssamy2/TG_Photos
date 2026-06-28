@@ -18,7 +18,7 @@
     "Azure Blue": 2.48,
     "Jade Green": 2.48,
     "Steel Grey": 2.49,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Rosewood": 2.48,
     "Cyberpunk": 2.48,
     "Electric Indigo": 2.5,
@@ -108,7 +108,7 @@
     "Celtic Cross": 4.5,
     "Celtic Wolf": 4.12,
     "Champagne": 7.0,
-    "Cheese": 6.28,
+    "Cheese": 6.04,
     "Cherry": 5.2,
     "Chest": 4.99,
     "Chili Pepper": 4.69,
@@ -242,7 +242,7 @@
     "Phoenix": 5.0,
     "Pickaxe": 6.5,
     "Piggy Bank": 8.0,
-    "Pineapple": 6.0,
+    "Pineapple": 5.76,
     "Pizza Slice": 8.1,
     "Piñata": 4.99,
     "Planet": 4.12,
@@ -421,5 +421,5 @@
     "With Caution": 4.5,
     "Yellow Pop": 8.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }

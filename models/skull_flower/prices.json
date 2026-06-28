@@ -40,7 +40,7 @@
     "Lavender": 2.48,
     "Lemongrass": 2.48,
     "Orange": 2.48,
-    "Midnight Blue": 16.0,
+    "Midnight Blue": 17.0,
     "Fandango": 2.5,
     "Steel Grey": 2.49,
     "Cobalt Blue": 2.48,
@@ -57,7 +57,7 @@
     "Turquoise": 2.48,
     "Amber": 2.5,
     "Mystic Pearl": 2.48,
-    "Hunter Green": 2.48,
+    "Hunter Green": 2.5,
     "Black": 47.9,
     "Onyx Black": 16.2
   },
@@ -296,7 +296,7 @@
     "Dark Carnival": 19.1,
     "Dewdrop": 8.69,
     "Early Green": 9.0,
-    "Frozen Violet": 8.5,
+    "Frozen Violet": 8.48,
     "Ghost Rider": 45.0,
     "Glowing Goth": 14.0,
     "Gothic": 11.0,
@@ -332,5 +332,5 @@
     "White Rose": 12.0,
     "Wreath": 9.0
   },
-  "last_updated": 1782610330
+  "last_updated": 1782614224
 }
