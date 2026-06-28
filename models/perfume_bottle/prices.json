@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Midnight Blue": 400.0,
-    "Lavender": 2.48,
+    "Lavender": 2.5,
     "Pistachio": 2.48,
     "English Violet": 2.48,
     "Roman Silver": 2.48,
@@ -9,13 +9,13 @@
     "Jade Green": 2.48,
     "Hunter Green": 2.48,
     "Platinum": 2.48,
-    "Malachite": 2.48,
+    "Malachite": 2.47,
     "Cobalt Blue": 2.48,
     "Cyberpunk": 2.48,
-    "Dark Lilac": 2.47,
+    "Dark Lilac": 2.48,
     "Pine Green": 2.48,
     "Burgundy": 2.5,
-    "Coral Red": 2.49,
+    "Coral Red": 2.48,
     "Moonstone": 2.48,
     "Copper": 2.48,
     "Grape": 2.49,
@@ -45,9 +45,9 @@
     "Shamrock Green": 2.5,
     "Silver Blue": 2.5,
     "Fandango": 2.5,
-    "Khaki Green": 2.48,
-    "Mint Green": 2.5,
-    "Sky Blue": 2.48,
+    "Khaki Green": 2.49,
+    "Mint Green": 2.48,
+    "Sky Blue": 2.49,
     "Desert Sand": 2.48,
     "Light Olive": 2.48,
     "Navy Blue": 2.49,
@@ -235,7 +235,7 @@
   },
   "models": {
     "Aurora Joy": 137.0,
-    "Azure Plum": 58.65,
+    "Azure Plum": 58.19,
     "Blizzard": 192.99,
     "Blush Petal": 69.99,
     "Candy Luxe": 69.0,
@@ -285,5 +285,5 @@
     "Flame Kiss": 1000.0,
     "Prism Bubble": 150.0
   },
-  "last_updated": 1782629810
+  "last_updated": 1782633790
 }

@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Lavender": 2.48,
+    "Lavender": 2.5,
     "Electric Purple": 2.48,
     "Light Olive": 2.48,
     "Mystic Pearl": 2.48,
@@ -16,7 +16,7 @@
     "Lemongrass": 2.48,
     "Indigo Dye": 2.48,
     "Electric Indigo": 2.5,
-    "Mint Green": 2.5,
+    "Mint Green": 2.48,
     "Ivory White": 2.55,
     "Raspberry": 2.48,
     "Shamrock Green": 2.5,
@@ -31,7 +31,7 @@
     "Hunter Green": 2.48,
     "Satin Gold": 2.49,
     "Steel Grey": 2.49,
-    "Coral Red": 2.49,
+    "Coral Red": 2.48,
     "Jade Green": 2.48,
     "Pure Gold": 2.48,
     "Midnight Blue": 11.9,
@@ -42,7 +42,7 @@
     "Chocolate": 2.48,
     "French Blue": 2.48,
     "Battleship Grey": 2.49,
-    "Dark Lilac": 2.47,
+    "Dark Lilac": 2.48,
     "Chestnut": 2.49,
     "Aquamarine": 2.48,
     "Emerald": 2.48,
@@ -50,13 +50,13 @@
     "Strawberry": 2.49,
     "Copper": 2.48,
     "Roman Silver": 2.48,
-    "Malachite": 2.48,
+    "Malachite": 2.47,
     "Persimmon": 2.48,
     "Amber": 2.5,
-    "Khaki Green": 2.48,
+    "Khaki Green": 2.49,
     "Pistachio": 2.48,
     "Carrot Juice": 2.48,
-    "Sky Blue": 2.48,
+    "Sky Blue": 2.49,
     "Pine Green": 2.48,
     "Black": 69.0,
     "Onyx Black": 16.5
@@ -76,7 +76,7 @@
     "Baphomet": 9.5,
     "Bastet": 25.0,
     "Birthday Cake": 20.2,
-    "Bishop": 11.63,
+    "Bishop": 11.6,
     "Black Widow": 9.25,
     "Blood Drop": 15.0,
     "Bloody Axe": 10.0,
@@ -228,7 +228,7 @@
     "Santa's Stick": 18.0,
     "Scribbler": 10.0,
     "Sleep Sweeper": 12.66,
-    "Slime Time": 9.2,
+    "Slime Time": 9.5,
     "Slytherin": 9.89,
     "Stealth Sweep": 13.6,
     "Sub-Zero": 9.4,
@@ -241,7 +241,7 @@
     "Yellowtail": 10.67,
     "Zig-Zag": 10.0,
     "Zippy Hearts": 17.99,
-    "Santa’s Stick": 9.1
+    "Santa’s Stick": 9.7
   },
-  "last_updated": 1782629810
+  "last_updated": 1782633790
 }
