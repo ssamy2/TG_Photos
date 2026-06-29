@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Navy Blue": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Moonstone": 2.5,
     "Seal Brown": 2.5,
     "Satin Gold": 2.51,
@@ -41,7 +41,7 @@
     "Tomato": 2.5,
     "Orange": 2.5,
     "Electric Purple": 2.51,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Cappuccino": 2.5,
     "Indigo Dye": 2.5,
     "Roman Silver": 2.5,
@@ -73,7 +73,7 @@
     "Old Gold": 2.53,
     "Malachite": 2.5,
     "Mystic Pearl": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Pacific Green": 2.5,
     "Gunship Green": 2.5,
     "Dark Green": 2.51,
@@ -103,7 +103,7 @@
     "Glam Doll": 23.6,
     "Glossy": 21.0,
     "Good Fairy": 16.45,
-    "Graphium": 14.6,
+    "Graphium": 14.5728,
     "Heartbeat": 23.2,
     "Heliconius": 16.5,
     "Hellcat": 73.0,
@@ -134,5 +134,5 @@
     "White Rose": 27.99,
     "Wild Cherry": 20.0
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

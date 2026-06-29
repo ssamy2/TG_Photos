@@ -18,8 +18,8 @@
     "Silver Blue": 2.5,
     "Aquamarine": 2.5,
     "Cobalt Blue": 2.5,
-    "Raspberry": 2.5,
-    "Lemongrass": 2.5,
+    "Raspberry": 2.52,
+    "Lemongrass": 2.49,
     "Turquoise": 2.5,
     "Cyberpunk": 2.5,
     "Chocolate": 2.5,
@@ -34,7 +34,7 @@
     "Fandango": 2.5,
     "Jade Green": 2.5,
     "Coral Red": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Copper": 2.5,
     "Steel Grey": 2.51,
     "Malachite": 2.5,
@@ -216,7 +216,7 @@
     "Bronze": 3.05,
     "Bubblegum": 3.02,
     "Bumble": 5.22,
-    "Burnt End": 3.8,
+    "Burnt End": 3.2,
     "Candy Goth": 3.5,
     "Carapace": 4.0,
     "Chosen One": 3.39,
@@ -241,7 +241,7 @@
     "Hellfire": 3.95,
     "Holographic": 3.1,
     "Hot Core": 3.91,
-    "Hot Handle": 2.97,
+    "Hot Handle": 3.5,
     "Indigo Dance": 3.94,
     "Inverted": 3.51,
     "Iridescent": 3.31,
@@ -274,7 +274,7 @@
     "Power Line": 11.0,
     "Premium": 25.0,
     "Privacy": 6.0,
-    "Punk Caster": 3.3,
+    "Punk Caster": 3.5,
     "Punk Pink": 3.04,
     "Purple Rain": 4.5,
     "Rainbow": 3.2,
@@ -301,5 +301,5 @@
     "Windy Day": 3.88,
     "Yoshi Green": 3.3
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

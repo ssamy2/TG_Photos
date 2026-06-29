@@ -25,12 +25,12 @@
     "Strawberry": 2.5,
     "Cobalt Blue": 2.5,
     "French Blue": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Steel Grey": 2.51,
     "Amber": 2.5,
     "Satin Gold": 2.51,
     "Caramel": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Grape": 2.54,
     "Sapphire": 2.5,
     "Sky Blue": 2.51,
@@ -39,7 +39,7 @@
     "Burgundy": 2.5,
     "Hunter Green": 2.53,
     "Khaki Green": 2.51,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Emerald": 2.51,
     "Malachite": 2.5,
     "Turquoise": 2.5,
@@ -183,5 +183,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

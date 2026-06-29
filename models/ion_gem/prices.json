@@ -1,13 +1,13 @@
 {
   "backdrops": {
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Satin Gold": 2.51,
     "Khaki Green": 2.51,
     "Carrot Juice": 2.5,
     "Pacific Green": 2.5,
     "Roman Silver": 2.5,
     "Silver Blue": 2.5,
-    "Midnight Blue": 2.54,
+    "Midnight Blue": 2.51,
     "Fandango": 2.5,
     "Electric Purple": 2.51,
     "Ivory White": 2.5,
@@ -24,7 +24,7 @@
     "Dark Lilac": 2.5,
     "Coral Red": 2.5,
     "Azure Blue": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Chestnut": 2.5,
     "Navy Blue": 2.5,
     "Pine Green": 2.5,
@@ -37,7 +37,7 @@
     "Persimmon": 2.5,
     "Orange": 2.5,
     "Rosewood": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Chocolate": 2.5,
     "Sky Blue": 2.51,
     "Moonstone": 2.5,
@@ -269,7 +269,7 @@
     "Honey Gold": 64.0,
     "Ice Crystal": 80.0,
     "King Midas": 145.0,
-    "Limestone": 56.27,
+    "Limestone": 56.3,
     "Live Wire": 57.0,
     "Love Stones": 80.0,
     "Lustrous": 80.0,
@@ -300,5 +300,5 @@
     "Jamaica": 450.0,
     "Solid Waste": 100.0
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

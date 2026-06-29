@@ -13,10 +13,10 @@
     "Satin Gold": 2.51,
     "Cappuccino": 2.5,
     "Lavender": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Indigo Dye": 2.5,
     "Light Olive": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Coral Red": 2.5,
     "Shamrock Green": 2.5,
     "Chestnut": 2.5,
@@ -37,7 +37,7 @@
     "Roman Silver": 2.5,
     "Pacific Cyan": 2.5,
     "Cobalt Blue": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Copper": 2.5,
     "Neon Blue": 2.5,
     "Rosewood": 2.5,
@@ -406,5 +406,5 @@
     "Wild Mango": 2.83,
     "Wonka Berry": 2.99
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

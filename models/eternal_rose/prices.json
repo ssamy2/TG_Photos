@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Turquoise": 2.5,
     "Malachite": 2.5,
     "Burgundy": 2.5,
@@ -21,7 +21,7 @@
     "Neon Blue": 2.5,
     "Shamrock Green": 2.5,
     "Pacific Cyan": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Battleship Grey": 2.51,
     "Steel Grey": 2.51,
     "Pistachio": 2.5,
@@ -39,7 +39,7 @@
     "Chocolate": 2.5,
     "Pure Gold": 2.5,
     "Silver Blue": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Amber": 2.5,
     "English Violet": 2.5,
     "Mint Green": 2.5,
@@ -67,7 +67,7 @@
     "Lemon Slice": 19.94,
     "Acorn": 170.0,
     "Alkonost": 55.0,
-    "Amour Scoops": 20.43,
+    "Amour Scoops": 24.9,
     "Apple": 24.7,
     "Aubergine": 24.9,
     "Axe": 35.0,
@@ -83,7 +83,7 @@
     "Broken Heart": 25.0,
     "Bubbles": 22.0,
     "Bug": 23.0,
-    "Bunny Ears": 20.48,
+    "Bunny Ears": 24.9,
     "Bunny": 27.0,
     "Butterfly": 40.0,
     "Cactus": 70.0,
@@ -263,7 +263,7 @@
     "Ink Blaze": 21.5,
     "Jade Bloom": 20.4,
     "Lilac Relic": 26.0,
-    "Lunar Charm": 20.36,
+    "Lunar Charm": 20.38,
     "Midnight Glow": 21.0,
     "Mirage": 23.22,
     "Moonstone": 20.75,
@@ -292,5 +292,5 @@
     "Vivid Prize": 32.0,
     "Winter": 22.99
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

@@ -12,12 +12,12 @@
     "Cyberpunk": 2.5,
     "Pure Gold": 2.5,
     "Tactical Pine": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Steel Grey": 2.51,
     "Indigo Dye": 2.5,
     "Electric Indigo": 2.5,
     "Caramel": 2.5,
-    "Midnight Blue": 2.54,
+    "Midnight Blue": 2.51,
     "Ranger Green": 2.5,
     "Persimmon": 2.5,
     "Malachite": 2.5,
@@ -59,7 +59,7 @@
     "Gunmetal": 2.6,
     "Desert Sand": 2.51,
     "Coral Red": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Orange": 2.5,
     "Burnt Sienna": 2.51,
     "Seal Brown": 2.5,
@@ -77,7 +77,7 @@
     "Aquamarine": 2.5,
     "French Blue": 2.5,
     "Pacific Cyan": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Black": 1200.0,
     "Onyx Black": 300.0
   },
@@ -288,7 +288,7 @@
     "Black Panther": 333.0,
     "Blue Dolphin": 120.0,
     "Blue Velvet": 155.0,
-    "Candle Wax": 87.96,
+    "Candle Wax": 87.95,
     "Carrot Bunny": 150.0,
     "Cat Person": 162.0,
     "Crypto Gem": 248.0,
@@ -334,5 +334,5 @@
     "Vague Dream": 110.0,
     "X-Ray": 89.94
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

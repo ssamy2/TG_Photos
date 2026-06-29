@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Indigo Dye": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Strawberry": 2.5,
     "Aquamarine": 2.5,
     "Sky Blue": 2.51,
@@ -26,11 +26,11 @@
     "Desert Sand": 2.51,
     "Orange": 2.5,
     "Satin Gold": 2.51,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Cyberpunk": 2.5,
     "Pistachio": 2.5,
     "Azure Blue": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Khaki Green": 2.51,
     "Burgundy": 2.5,
     "Purple": 2.5,
@@ -58,7 +58,7 @@
     "Chestnut": 2.5,
     "Navy Blue": 2.5,
     "Steel Grey": 2.51,
-    "Black": 17.37,
+    "Black": 17.8,
     "Onyx Black": 7.0
   },
   "symbols": {
@@ -169,7 +169,7 @@
     "Rhino Warrior": 4.37,
     "Ring": 2.6,
     "Rocket": 2.59,
-    "Rudolph": 2.52,
+    "Rudolph": 2.54,
     "Santa Hat": 2.65,
     "Scissors": 2.99,
     "Scorpion": 2.7,
@@ -182,9 +182,9 @@
     "Snowman": 2.85,
     "Sparks": 2.6,
     "Spider Web": 5.5,
-    "Star": 2.54,
+    "Star": 2.5,
     "Stocking": 2.69,
-    "Strawberry": 2.5,
+    "Strawberry": 3.0,
     "Sun": 2.6,
     "Sunflower": 2.7,
     "Thief": 2.66,
@@ -203,7 +203,7 @@
     "Adhesive": 2.53,
     "Albino": 2.5,
     "Amber Adder": 2.51,
-    "Amethyssst": 2.51,
+    "Amethyssst": 2.53,
     "Angelic": 3.93,
     "Arctic Viper": 2.59,
     "Aurium": 2.6,
@@ -214,7 +214,7 @@
     "Blood Adder": 2.5,
     "Blue Boa": 2.51,
     "Blue Horizon": 2.5,
-    "Candy Stripe": 2.57,
+    "Candy Stripe": 2.5,
     "Caustic Moss": 2.5,
     "Cherry Glitch": 2.5,
     "Copperhead": 2.6,
@@ -233,8 +233,8 @@
     "Gen Zmei": 6.0,
     "Geodesic": 2.6,
     "Glowbra": 2.59,
-    "Gold Quartz": 2.52,
-    "Gold Rush": 2.5,
+    "Gold Quartz": 2.5,
+    "Gold Rush": 2.6,
     "Golden Bleu": 2.8,
     "Golden Coal": 2.56,
     "Golden Sky": 2.5,
@@ -301,5 +301,5 @@
     "Xenomorph": 3.0,
     "Yellow Cobra": 2.51
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

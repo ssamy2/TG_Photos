@@ -6,7 +6,7 @@
     "Malachite": 2.5,
     "Amber": 2.5,
     "Persimmon": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Fandango": 2.5,
     "Cappuccino": 2.5,
     "Silver Blue": 2.5,
@@ -71,9 +71,9 @@
     "Celtic Blue": 2.5,
     "Feldgrau": 2.5,
     "Desert Sand": 2.51,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Carmine": 2.52,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Caramel": 2.5,
     "Cobalt Blue": 2.5,
     "Pure Gold": 2.5,
@@ -126,7 +126,7 @@
     "Divine Justice": 4.49,
     "Emperor": 3.08,
     "Extra Spicy": 2.88,
-    "Fresh Berry": 6.5,
+    "Fresh Berry": 6.99,
     "Fried Chicken": 2.87,
     "Funky Disco": 2.87,
     "Ghost Biters": 4.89,
@@ -136,7 +136,7 @@
     "Ice Craft": 2.99,
     "Kiwi Sorbet": 2.85,
     "Kraken": 5.5,
-    "Pawpsicle": 3.4,
+    "Pawpsicle": 3.39,
     "Pharaoh": 2.91,
     "Pigeon": 2.88,
     "Plastic Pop": 2.86,
@@ -156,5 +156,5 @@
     "Watermelon": 2.9,
     "Whisker": 2.91
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

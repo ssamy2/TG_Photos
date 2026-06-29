@@ -18,7 +18,7 @@
     "Pure Gold": 2.5,
     "Carrot Juice": 2.5,
     "Desert Sand": 2.51,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Cobalt Blue": 2.5,
     "Camo Green": 2.5,
     "Electric Indigo": 2.5,
@@ -39,7 +39,7 @@
     "Electric Purple": 2.51,
     "Pacific Cyan": 2.5,
     "Coral Red": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Fandango": 2.5,
     "Deep Cyan": 2.5,
     "Old Gold": 2.53,
@@ -76,7 +76,7 @@
     "Turquoise": 2.5,
     "Strawberry": 2.5,
     "Marine Blue": 2.51,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Feldgrau": 2.5,
     "Black": 20.66,
     "Onyx Black": 6.0
@@ -134,5 +134,5 @@
     "Velvet Crown": 4.0,
     "Wicked Pie": 3.76
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

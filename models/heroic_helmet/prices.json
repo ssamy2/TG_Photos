@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Pistachio": 2.5,
     "Chestnut": 2.5,
     "Silver Blue": 2.5,
@@ -50,9 +50,9 @@
     "Midnight Blue": 640.0,
     "Persimmon": 2.5,
     "Sapphire": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Neon Blue": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Celtic Blue": 2.5,
     "Carmine": 2.52,
     "Fire Engine": 2.53,
@@ -79,7 +79,7 @@
     "Electric Indigo": 2.5,
     "Marine Blue": 2.51,
     "Black": 5000.0,
-    "Onyx Black": 300.0
+    "Onyx Black": 295.0
   },
   "symbols": {
     "Wasp": 174.0,
@@ -288,7 +288,7 @@
     "Frozen Aegis": 310.0,
     "Galea Alba": 222.0,
     "Giraffe": 350.0,
-    "Gladiator": 156.05,
+    "Gladiator": 156.03,
     "Happy Frog": 250.0,
     "Hard Hat": 290.0,
     "Hard Rock": 196.0,
@@ -317,7 +317,7 @@
     "Spartan": 399.0,
     "Steampunk": 333.0,
     "Unicorn": 280.0,
-    "Watermelon": 156.06
+    "Watermelon": 156.04
   },
-  "last_updated": 1782696687
+  "last_updated": 1782700525
 }

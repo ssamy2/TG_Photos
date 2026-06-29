@@ -32,7 +32,7 @@
     "Turquoise": 2.5,
     "Desert Sand": 2.51,
     "Mint Green": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Roman Silver": 2.5,
     "Rosewood": 2.5,
     "Chestnut": 2.5,
@@ -41,7 +41,7 @@
     "Cappuccino": 2.5,
     "Shamrock Green": 2.5,
     "Navy Blue": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Grape": 2.54,
     "Pacific Green": 2.5,
     "Burgundy": 2.5,
@@ -55,7 +55,7 @@
     "Azure Blue": 2.5,
     "Cobalt Blue": 2.5,
     "Malachite": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Lavender": 2.5,
     "Moonstone": 2.5,
     "Black": 27.2,
@@ -216,7 +216,7 @@
     "Rook": 20.77,
     "Sakura": 12.99,
     "Scarab": 25.0,
-    "Scissors": 7.09,
+    "Scissors": 7.08,
     "Sea Horse": 8.42,
     "Seahorse": 6.95,
     "Sharp Sword": 190.0,
@@ -353,5 +353,5 @@
     "Сhamomile": 6.66,
     "Grandma’s Pie": 8.8
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

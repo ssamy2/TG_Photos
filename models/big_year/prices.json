@@ -1,11 +1,11 @@
 {
   "backdrops": {
     "Cyberpunk": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Purple": 2.5,
     "Electric Indigo": 2.5,
     "Ivory White": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Khaki Green": 2.51,
     "Silver Blue": 2.5,
     "Azure Blue": 2.5,
@@ -53,7 +53,7 @@
     "Shamrock Green": 2.5,
     "Gunship Green": 2.5,
     "Navy Blue": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Mustard": 2.59,
     "Sky Blue": 2.51,
     "Roman Silver": 2.5,
@@ -184,7 +184,7 @@
     "Hamburger": 4.02,
     "Hand of God": 5.6,
     "Hazelnut": 3.8,
-    "Heart": 4.24,
+    "Heart": 4.7,
     "Heater Shield": 5.99,
     "High Hat": 3.5,
     "High Heels": 3.9,
@@ -354,7 +354,7 @@
     "Da Vinci": 2.99,
     "Einstein": 3.0,
     "Emo Music": 4.0,
-    "Fallout": 2.89,
+    "Fallout": 2.88,
     "First Flight": 3.9,
     "First Website": 15.0,
     "Frankenstein": 2.92,
@@ -395,5 +395,5 @@
     "Zombie Film": 2.92,
     "AC/DC": 2.93
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

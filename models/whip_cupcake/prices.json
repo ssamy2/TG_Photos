@@ -15,7 +15,7 @@
     "Cappuccino": 2.5,
     "Feldgrau": 2.5,
     "Pacific Cyan": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Deep Cyan": 2.5,
     "Celtic Blue": 2.5,
     "Mexican Pink": 2.54,
@@ -35,7 +35,7 @@
     "Marine Blue": 2.51,
     "Amber": 2.5,
     "Mystic Pearl": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Mint Green": 2.5,
     "Rosewood": 2.5,
     "French Violet": 2.5,
@@ -50,7 +50,7 @@
     "Electric Purple": 2.51,
     "Pure Gold": 2.5,
     "Tactical Pine": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Azure Blue": 2.5,
     "Copper": 2.5,
     "Chestnut": 2.5,
@@ -260,7 +260,7 @@
   },
   "models": {
     "Alien Slime": 2.75,
-    "Arizona": 2.98,
+    "Arizona": 2.74,
     "Bag End": 2.77,
     "Biohazard": 3.33,
     "Bitcoin": 7.59,
@@ -271,7 +271,7 @@
     "Circus": 2.9,
     "Cloud Nine": 2.76,
     "Cream Scream": 4.4,
-    "Deep State": 3.44,
+    "Deep State": 3.37,
     "Demoman": 2.99,
     "Dracula": 2.97,
     "Fantastic Four": 2.75,
@@ -306,9 +306,9 @@
     "Trippy": 2.8,
     "Trump Cake": 3.18,
     "Two Sweet!": 2.75,
-    "Unicorn": 2.91,
+    "Unicorn": 2.69,
     "Wasteland": 2.9,
     "Zero Sugar": 2.92
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

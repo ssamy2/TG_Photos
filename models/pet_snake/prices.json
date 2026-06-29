@@ -20,13 +20,13 @@
     "Burnt Sienna": 2.51,
     "Indigo Dye": 2.5,
     "Old Gold": 2.53,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Electric Purple": 2.51,
     "Fire Engine": 2.53,
     "Hunter Green": 2.53,
     "Tactical Pine": 2.5,
     "Gunship Green": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Shamrock Green": 2.5,
     "Turquoise": 2.5,
     "Navy Blue": 2.5,
@@ -69,7 +69,7 @@
     "Persimmon": 2.5,
     "Desert Sand": 2.51,
     "Amber": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "French Blue": 2.5,
     "Emerald": 2.51,
     "English Violet": 2.5,
@@ -93,7 +93,7 @@
     "Bobble Hat": 3.0,
     "Bonsai": 3.99,
     "Bow Tie": 3.69,
-    "Bowtie": 3.6,
+    "Bowtie": 3.61,
     "Breeze": 3.5,
     "Bubbles": 3.0,
     "Bunny Ears": 3.07,
@@ -283,5 +283,5 @@
     "Durov’s Cap": 3.1,
     "Santa’s Helper": 2.75
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }

@@ -3,7 +3,7 @@
     "Desert Sand": 2.51,
     "Cyberpunk": 2.5,
     "Camo Green": 2.5,
-    "Raspberry": 2.5,
+    "Raspberry": 2.52,
     "Pacific Green": 2.5,
     "English Violet": 2.5,
     "Jade Green": 2.5,
@@ -37,7 +37,7 @@
     "Electric Indigo": 2.5,
     "Moonstone": 2.5,
     "Gunship Green": 2.5,
-    "Platinum": 2.53,
+    "Platinum": 2.5,
     "Sapphire": 2.5,
     "Fandango": 2.5,
     "Burgundy": 2.5,
@@ -48,7 +48,7 @@
     "Tomato": 2.5,
     "Ranger Green": 2.5,
     "Malachite": 2.5,
-    "Lemongrass": 2.5,
+    "Lemongrass": 2.49,
     "Silver Blue": 2.5,
     "Azure Blue": 2.5,
     "Sky Blue": 2.51,
@@ -78,7 +78,7 @@
     "Electric Purple": 2.51,
     "Cappuccino": 2.5,
     "Aquamarine": 2.5,
-    "Black": 18.89,
+    "Black": 18.8,
     "Onyx Black": 5.55
   },
   "symbols": {
@@ -88,7 +88,7 @@
     "Aztec Falcon": 7.0,
     "Bamboo": 3.0,
     "Bandage": 4.38,
-    "Bascinet": 4.16,
+    "Bascinet": 4.15,
     "Baseball Cap": 3.0,
     "Basketball": 3.0,
     "Bastet": 6.4,
@@ -205,7 +205,7 @@
     "Musical Note": 4.9,
     "Mustang": 3.0,
     "Nemes": 3.3,
-    "New Year's Eve": 3.28,
+    "New Year's Eve": 3.12,
     "Nordic Wolf": 3.99,
     "Novus Ordo": 3.4,
     "Oculus": 3.5,
@@ -295,8 +295,8 @@
     "Bowser Brew": 3.18,
     "Brain Gum": 4.75,
     "Bubblegum": 3.5,
-    "Candyman": 3.03,
-    "Checkmate": 3.03,
+    "Candyman": 3.02,
+    "Checkmate": 3.02,
     "Choco Mint": 3.15,
     "Citrus": 3.3,
     "Cotton Candy": 3.06,
@@ -337,5 +337,5 @@
     "Stickers": 3.07,
     "Toxic Waste": 3.39
   },
-  "last_updated": 1782696688
+  "last_updated": 1782700525
 }
