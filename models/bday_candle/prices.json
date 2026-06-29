@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Black": 17.5,
+    "Black": 17.49,
     "Chocolate": 2.5,
     "Strawberry": 2.5,
     "Dark Lilac": 2.5,
@@ -11,7 +11,7 @@
     "Steel Grey": 2.51,
     "Pacific Green": 2.5,
     "Neon Blue": 2.5,
-    "Turquoise": 2.49,
+    "Turquoise": 2.5,
     "Pine Green": 2.5,
     "Roman Silver": 2.5,
     "Navy Blue": 2.5,
@@ -21,9 +21,9 @@
     "Shamrock Green": 2.5,
     "Moonstone": 2.5,
     "Cyberpunk": 2.5,
-    "Light Olive": 2.5,
+    "Light Olive": 2.49,
     "Pistachio": 2.5,
-    "Aquamarine": 2.5,
+    "Aquamarine": 2.49,
     "Purple": 2.49,
     "Orange": 2.5,
     "Coral Red": 2.5,
@@ -35,7 +35,7 @@
     "Pacific Cyan": 2.5,
     "Sky Blue": 2.51,
     "Chestnut": 2.5,
-    "Battleship Grey": 2.49,
+    "Battleship Grey": 2.51,
     "Khaki Green": 2.5,
     "Ivory White": 2.5,
     "Satin Gold": 2.51,
@@ -58,7 +58,7 @@
     "Fandango": 2.49,
     "Lavender": 2.5,
     "Jade Green": 2.5,
-    "Mint Green": 2.49,
+    "Mint Green": 2.5,
     "Onyx Black": 6.0
   },
   "symbols": {
@@ -240,7 +240,7 @@
     "Pegasus": 4.0,
     "Pencil": 4.3,
     "Phoenix": 4.0,
-    "Pickaxe": 3.77,
+    "Pickaxe": 3.9,
     "Piggy Bank": 4.1,
     "Pineapple": 4.5,
     "Pizza Slice": 4.2,
@@ -421,5 +421,5 @@
     "Winter Noon": 3.99,
     "You Rock!": 3.94
   },
-  "last_updated": 1782689045
+  "last_updated": 1782692850
 }

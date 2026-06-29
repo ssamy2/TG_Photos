@@ -13,8 +13,8 @@
     "Malachite": 2.5,
     "Ivory White": 2.5,
     "Steel Grey": 2.51,
-    "Light Olive": 2.5,
-    "Turquoise": 2.49,
+    "Light Olive": 2.49,
+    "Turquoise": 2.5,
     "Shamrock Green": 2.5,
     "Dark Lilac": 2.5,
     "Purple": 2.49,
@@ -31,7 +31,7 @@
     "Amber": 2.5,
     "Indigo Dye": 2.5,
     "Moonstone": 2.5,
-    "Battleship Grey": 2.49,
+    "Battleship Grey": 2.51,
     "Lavender": 2.5,
     "Azure Blue": 2.5,
     "Silver Blue": 2.5,
@@ -40,7 +40,7 @@
     "Copper": 2.5,
     "Desert Sand": 2.51,
     "Mystic Pearl": 2.5,
-    "Aquamarine": 2.5,
+    "Aquamarine": 2.49,
     "Orange": 2.5,
     "Electric Purple": 2.51,
     "Satin Gold": 2.51,
@@ -49,7 +49,7 @@
     "Persimmon": 2.5,
     "Cyberpunk": 2.5,
     "Caramel": 2.49,
-    "Mint Green": 2.49,
+    "Mint Green": 2.5,
     "Jade Green": 2.5,
     "Khaki Green": 2.5,
     "Pure Gold": 2.5,
@@ -243,7 +243,7 @@
     "Sea Sunset": 550.0,
     "Seabreeze": 796.0,
     "Sepium": 1000.0,
-    "Shadeux": 699.0,
+    "Shadeux": 490.0,
     "Shadow": 999.0,
     "Sky High": 620.0,
     "Snowfall": 900.0,
@@ -253,5 +253,5 @@
     "Villager": 429.81,
     "Voltage": 1200.0
   },
-  "last_updated": 1782689045
+  "last_updated": 1782692850
 }
