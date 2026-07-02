@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Pacific Green": 2.59,
+    "Pacific Green": 2.58,
     "Sapphire": 2.59,
     "Pacific Cyan": 2.59,
     "Electric Purple": 2.59,
@@ -19,8 +19,8 @@
     "Battleship Grey": 2.59,
     "Mint Green": 2.59,
     "Navy Blue": 2.59,
-    "Raspberry": 2.59,
-    "Pure Gold": 2.59,
+    "Raspberry": 2.6,
+    "Pure Gold": 2.6,
     "Ivory White": 2.75,
     "Roman Silver": 2.61,
     "Lemongrass": 2.59,
@@ -31,7 +31,7 @@
     "Pine Green": 2.6,
     "Midnight Blue": 44.0,
     "Carrot Juice": 2.59,
-    "Silver Blue": 2.59,
+    "Silver Blue": 2.6,
     "Turquoise": 2.59,
     "Malachite": 2.59,
     "Orange": 2.59,
@@ -46,15 +46,15 @@
     "Dark Lilac": 2.59,
     "Hunter Green": 2.59,
     "Moonstone": 2.59,
-    "Coral Red": 2.59,
+    "Coral Red": 2.58,
     "Light Olive": 2.6,
     "Copper": 2.59,
     "Satin Gold": 2.59,
-    "Cobalt Blue": 2.59,
+    "Cobalt Blue": 2.6,
     "Amber": 2.6,
     "Cappuccino": 2.59,
     "Indigo Dye": 2.59,
-    "Persimmon": 2.59,
+    "Persimmon": 2.58,
     "Steel Grey": 2.62,
     "Platinum": 2.61,
     "Grape": 2.6,
@@ -272,7 +272,7 @@
     "Pink Tint": 30.0,
     "Premium Blend": 29.99,
     "Purple Haze": 29.99,
-    "Purple Patron": 29.0,
+    "Purple Patron": 28.9,
     "Rainbow Road": 32.5,
     "Red Devil": 29.99,
     "Rose Wrapper": 29.75,
@@ -293,7 +293,7 @@
     "The Shocker": 85.0,
     "Thermal": 37.4,
     "Vaporwave": 30.0,
-    "Warm Glow": 28.77
+    "Warm Glow": 28.66
   },
-  "last_updated": 1782960748
+  "last_updated": 1782964632
 }
