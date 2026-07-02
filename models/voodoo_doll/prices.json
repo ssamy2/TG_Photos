@@ -19,7 +19,7 @@
     "Dark Lilac": 2.59,
     "Fandango": 2.6,
     "Emerald": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Cobalt Blue": 2.59,
     "Strawberry": 2.6,
     "Carrot Juice": 2.59,
@@ -42,7 +42,7 @@
     "Burgundy": 2.59,
     "Sky Blue": 2.59,
     "Shamrock Green": 2.59,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Mint Green": 2.59,
     "Aquamarine": 2.6,
     "Electric Indigo": 2.6,
@@ -53,11 +53,11 @@
     "Chocolate": 2.6,
     "Jade Green": 2.59,
     "Azure Blue": 2.59,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Pacific Cyan": 2.59,
     "Chestnut": 2.6,
-    "Light Olive": 2.59,
-    "Raspberry": 2.6,
+    "Light Olive": 2.6,
+    "Raspberry": 2.59,
     "Black": 210.0,
     "Onyx Black": 74.9
   },
@@ -182,7 +182,7 @@
     "Aqua Gem": 38.0,
     "Birthday Cake": 40.0,
     "Bitten Lip": 39.0,
-    "Blue Abyss": 30.14,
+    "Blue Abyss": 29.44,
     "Broken Hope": 100.0,
     "Bubbles": 52.0,
     "Bumblebee": 32.0,
@@ -230,5 +230,5 @@
     "Vendetta": 55.0,
     "Vengeance": 38.0
   },
-  "last_updated": 1782956784
+  "last_updated": 1782960748
 }

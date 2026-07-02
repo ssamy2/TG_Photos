@@ -3,7 +3,7 @@
     "Strawberry": 2.6,
     "Orange": 2.59,
     "Khaki Green": 2.59,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Pistachio": 2.6,
     "Lavender": 2.59,
     "Pacific Cyan": 2.59,
@@ -14,7 +14,7 @@
     "Moonstone": 2.59,
     "Hunter Green": 2.59,
     "Ivory White": 2.75,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Shamrock Green": 2.59,
     "Chocolate": 2.6,
     "Pacific Green": 2.59,
@@ -23,7 +23,7 @@
     "Electric Indigo": 2.6,
     "Turquoise": 2.59,
     "Sky Blue": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Azure Blue": 2.59,
     "Roman Silver": 2.61,
     "Indigo Dye": 2.59,
@@ -47,19 +47,19 @@
     "Malachite": 2.59,
     "Pure Gold": 2.59,
     "Grape": 2.6,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Satin Gold": 2.59,
     "Cappuccino": 2.59,
     "Amber": 2.6,
     "Platinum": 2.61,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Steel Grey": 2.62,
     "Navy Blue": 2.59,
     "Carrot Juice": 2.59,
     "Fandango": 2.6,
     "Mystic Pearl": 2.59,
     "Black": 42.0,
-    "Onyx Black": 12.49
+    "Onyx Black": 13.0
   },
   "symbols": {
     "Acorn": 4.8,
@@ -276,9 +276,9 @@
     "White Ash": 5.5,
     "Wildflowers": 6.0,
     "Winter Mist": 5.5,
-    "Witch’s Candle": 8.0,
+    "Witch’s Candle": 7.5,
     "Wolfsbane": 4.5,
     "Yellow Gold": 4.9
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }

@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Fandango": 2.6,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Azure Blue": 2.59,
     "Cobalt Blue": 2.59,
     "Chocolate": 2.6,
@@ -19,7 +19,7 @@
     "Cyberpunk": 2.6,
     "Pacific Cyan": 2.59,
     "Emerald": 2.59,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Desert Sand": 2.59,
     "Silver Blue": 2.59,
     "Electric Indigo": 2.6,
@@ -34,8 +34,8 @@
     "Moonstone": 2.59,
     "Carrot Juice": 2.59,
     "Caramel": 2.59,
-    "Light Olive": 2.59,
-    "English Violet": 2.59,
+    "Light Olive": 2.6,
+    "English Violet": 2.6,
     "Neon Blue": 2.6,
     "Mint Green": 2.59,
     "Copper": 2.59,
@@ -57,7 +57,7 @@
     "Mystic Pearl": 2.59,
     "Dark Lilac": 2.59,
     "Shamrock Green": 2.59,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Black": 35.0,
     "Onyx Black": 7.9
   },
@@ -300,5 +300,5 @@
     "Young Witch": 4.99,
     "Cat’s Grasp": 5.0
   },
-  "last_updated": 1782956784
+  "last_updated": 1782960748
 }

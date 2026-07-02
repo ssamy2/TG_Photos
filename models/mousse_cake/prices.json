@@ -2,7 +2,7 @@
   "backdrops": {
     "Azure Blue": 2.59,
     "Dark Lilac": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Ivory White": 2.75,
     "French Blue": 2.59,
     "Chestnut": 2.6,
@@ -11,10 +11,10 @@
     "Dark Green": 2.59,
     "Rifle Green": 2.59,
     "Burnt Sienna": 2.59,
-    "French Violet": 2.59,
+    "French Violet": 2.6,
     "Emerald": 2.59,
     "Malachite": 2.59,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Pure Gold": 2.59,
     "Carrot Juice": 2.59,
     "Desert Sand": 2.59,
@@ -25,7 +25,7 @@
     "Navy Blue": 2.59,
     "Sky Blue": 2.59,
     "Roman Silver": 2.61,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Jade Green": 2.59,
     "Mexican Pink": 2.59,
     "Cyberpunk": 2.6,
@@ -39,7 +39,7 @@
     "Electric Purple": 2.59,
     "Pacific Cyan": 2.59,
     "Coral Red": 2.59,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Fandango": 2.6,
     "Deep Cyan": 2.59,
     "Old Gold": 2.59,
@@ -70,13 +70,13 @@
     "Caramel": 2.59,
     "Moonstone": 2.59,
     "Cappuccino": 2.59,
-    "Gunmetal": 2.62,
+    "Gunmetal": 2.65,
     "Mustard": 2.6,
     "Neon Blue": 2.6,
     "Turquoise": 2.59,
     "Strawberry": 2.6,
     "Marine Blue": 2.59,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Feldgrau": 2.59,
     "Black": 21.86,
     "Onyx Black": 7.25
@@ -134,5 +134,5 @@
     "Velvet Crown": 4.7,
     "Wicked Pie": 3.95
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }

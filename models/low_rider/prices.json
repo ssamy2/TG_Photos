@@ -1,9 +1,9 @@
 {
   "backdrops": {
     "Neon Blue": 2.6,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Persimmon": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Turquoise": 2.59,
     "Cyberpunk": 2.6,
     "Cappuccino": 2.59,
@@ -40,7 +40,7 @@
     "French Blue": 2.59,
     "Mystic Pearl": 2.59,
     "Khaki Green": 2.59,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Purple": 2.6,
     "Sky Blue": 2.59,
     "Rosewood": 2.6,
@@ -58,9 +58,9 @@
     "Satin Gold": 2.59,
     "Steel Grey": 2.62,
     "Gunship Green": 2.59,
-    "Gunmetal": 2.62,
+    "Gunmetal": 2.65,
     "Rifle Green": 2.59,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Deep Cyan": 2.59,
     "Pacific Cyan": 2.59,
     "Midnight Blue": 50.0,
@@ -69,10 +69,10 @@
     "Seal Brown": 2.59,
     "Jade Green": 2.59,
     "Lavender": 2.59,
-    "French Violet": 2.59,
+    "French Violet": 2.6,
     "Carrot Juice": 2.59,
     "Ivory White": 2.75,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Marine Blue": 2.59,
     "Pine Green": 2.6,
     "Mustard": 2.6,
@@ -144,7 +144,7 @@
     "Fleur-de-lis": 70.0,
     "Flower": 63.6,
     "French Fries": 43.0,
-    "Full Moon": 46.85,
+    "Full Moon": 44.93,
     "Galaxy": 77.0,
     "Geisha Fan": 90.0,
     "Gem": 50.0,
@@ -306,5 +306,5 @@
     "Vape Wave": 44.9,
     "War Rig": 52.0
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }

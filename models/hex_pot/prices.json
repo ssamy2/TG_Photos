@@ -10,7 +10,7 @@
     "Pacific Green": 2.59,
     "Burgundy": 2.59,
     "Shamrock Green": 2.59,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Caramel": 2.59,
     "Purple": 2.6,
     "Steel Grey": 2.62,
@@ -36,7 +36,7 @@
     "Rosewood": 2.6,
     "Pine Green": 2.6,
     "Pure Gold": 2.59,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Chestnut": 2.6,
     "Indigo Dye": 2.59,
     "Grape": 2.6,
@@ -49,17 +49,17 @@
     "Sapphire": 2.59,
     "Electric Purple": 2.59,
     "Cyberpunk": 2.6,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Midnight Blue": 7.5,
-    "English Violet": 2.59,
-    "Lemongrass": 2.6,
+    "English Violet": 2.6,
+    "Lemongrass": 2.59,
     "Pacific Cyan": 2.59,
     "Emerald": 2.59,
     "Desert Sand": 2.59,
     "Neon Blue": 2.6,
     "Copper": 2.59,
     "Black": 24.97,
-    "Onyx Black": 7.2
+    "Onyx Black": 7.3
   },
   "symbols": {
     "Tulip": 4.5,
@@ -183,7 +183,7 @@
     "Sparks": 5.0,
     "Spider Web": 3.55,
     "Spooky Cat": 3.6,
-    "Strawberry": 3.53,
+    "Strawberry": 5.0,
     "Sun Lion": 10.0,
     "Sun": 10.0,
     "Sunflower": 9.0,
@@ -252,7 +252,7 @@
     "Matrix": 6.2,
     "Melon Brew": 5.5,
     "Minty Fresh": 3.6,
-    "Moonlight": 4.98,
+    "Moonlight": 3.52,
     "Movie Night": 3.6,
     "Neon": 4.25,
     "Night Mixture": 5.0,
@@ -281,7 +281,7 @@
     "Tornado": 6.0,
     "Vermilion": 3.75,
     "Violet Veil": 5.3,
-    "Witchy": 4.5
+    "Witchy": 3.51
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }

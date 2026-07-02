@@ -1,9 +1,9 @@
 {
   "backdrops": {
-    "French Violet": 2.59,
+    "French Violet": 2.6,
     "Persimmon": 2.59,
     "Grape": 2.6,
-    "Gunmetal": 2.62,
+    "Gunmetal": 2.65,
     "Electric Purple": 2.59,
     "Indigo Dye": 2.59,
     "French Blue": 2.59,
@@ -14,7 +14,7 @@
     "Navy Blue": 2.59,
     "Rifle Green": 2.59,
     "Cyberpunk": 2.6,
-    "Midnight Blue": 2.59,
+    "Midnight Blue": 2.7,
     "Emerald": 2.59,
     "Dark Green": 2.59,
     "Mexican Pink": 2.59,
@@ -26,12 +26,12 @@
     "Ranger Green": 2.6,
     "Pistachio": 2.6,
     "Sky Blue": 2.59,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Caramel": 2.59,
     "Moonstone": 2.59,
     "Khaki Green": 2.59,
     "Tomato": 2.59,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Burgundy": 2.59,
     "Mint Green": 2.59,
     "Fire Engine": 2.6,
@@ -50,7 +50,7 @@
     "Roman Silver": 2.61,
     "Pure Gold": 2.59,
     "Deep Cyan": 2.59,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Steel Grey": 2.62,
     "Shamrock Green": 2.59,
     "Desert Sand": 2.59,
@@ -66,7 +66,7 @@
     "Cobalt Blue": 2.59,
     "Purple": 2.6,
     "Pacific Green": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Carrot Juice": 2.59,
     "Neon Blue": 2.6,
     "Coral Red": 2.59,
@@ -77,7 +77,7 @@
     "Mustard": 2.6,
     "Feldgrau": 2.59,
     "Malachite": 2.59,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Black": 23000.0,
     "Onyx Black": 4500.0
   },
@@ -138,7 +138,7 @@
     "Jörmungandr": 1350.0,
     "Kite": 1450.0,
     "Leprechaun": 6300.0,
-    "Light Bulb": 969.6,
+    "Light Bulb": 969.5,
     "Lightning": 1190.0,
     "Like": 2222.02,
     "Lion of Babylon": 1750.0,
@@ -239,7 +239,7 @@
     "Spider Web": 2200.0,
     "Stone Flower": 4999.0,
     "Emocore": 1515.0,
-    "Love Ring": 4000.0
+    "Love Ring": 2200.0
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }

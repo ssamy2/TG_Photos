@@ -1,11 +1,11 @@
 {
   "backdrops": {
     "Onyx Black": 1000.0,
-    "Lemongrass": 2.6,
+    "Lemongrass": 2.59,
     "Electric Indigo": 2.6,
-    "Raspberry": 2.6,
+    "Raspberry": 2.59,
     "Strawberry": 2.6,
-    "Midnight Blue": 2.59,
+    "Midnight Blue": 2.7,
     "Pistachio": 2.6,
     "Pacific Green": 2.59,
     "Emerald": 2.59,
@@ -14,7 +14,7 @@
     "Malachite": 2.59,
     "Ivory White": 2.75,
     "Steel Grey": 2.62,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Turquoise": 2.59,
     "Shamrock Green": 2.59,
     "Dark Lilac": 2.59,
@@ -32,7 +32,7 @@
     "Amber": 2.6,
     "Indigo Dye": 2.59,
     "Moonstone": 2.59,
-    "Battleship Grey": 2.61,
+    "Battleship Grey": 2.59,
     "Lavender": 2.59,
     "Azure Blue": 2.59,
     "Silver Blue": 2.59,
@@ -45,7 +45,7 @@
     "Orange": 2.59,
     "Electric Purple": 2.59,
     "Satin Gold": 2.59,
-    "English Violet": 2.59,
+    "English Violet": 2.6,
     "Hunter Green": 2.59,
     "Persimmon": 2.59,
     "Cyberpunk": 2.6,
@@ -155,7 +155,7 @@
     "Ouroboros": 465.0,
     "Owl": 740.0,
     "Oxen of Fire": 2345.0,
-    "Pear": 421.48,
+    "Pear": 750.0,
     "Pearl": 600.0,
     "Pegasus": 700.0,
     "Pencil": 745.0,
@@ -206,11 +206,11 @@
     "Yogi Shaman": 900.0
   },
   "models": {
+    "Aurora": 421.48,
     "Apple Slice": 421.48,
     "Artwork": 1295.0,
     "Ashen": 515.0,
     "Asterix": 15000.0,
-    "Aurora": 421.48,
     "Autumn": 538.0,
     "Bluebird": 435.0,
     "Bog Moss": 999.0,
@@ -261,5 +261,5 @@
     "Villager": 802.0,
     "Voltage": 1199.0
   },
-  "last_updated": 1782956783
+  "last_updated": 1782960747
 }
